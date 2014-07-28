@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple icons</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script>
+// This example adds a marker to indicate the position
+// of Bondi Beach in Sydney, Australia
+function initialize() {
+  var mapOptions = {
+    zoom: 4,
+    center: new google.maps.LatLng(-33, 151)
+  }
+  var map = new google.maps.Map(document.getElementById('map-canvas'),
+                                mapOptions);
+
+  var image_1 = 'images/Zombie_1.png';
+  var myLatLng_1 = new google.maps.LatLng(-33.890542, 151.274856);
+  var Zombie_1 = new google.maps.Marker({
+      position: myLatLng_1,
+      map: map,
+      icon: image_1
+  });
+   var image_2 = 'images/Zombie_2.png';
+  var myLatLng_2 = new google.maps.LatLng(34.890542, 154.274856);
+  var Zombie_2 = new google.maps.Marker({
+      position: myLatLng_2,
+      map: map,
+      icon: image_2
+  });
+    var image_3 = 'images/Zombie_3.png';
+  var myLatLng_3 = new google.maps.LatLng(34.890542, 140.274856);
+  var Zombie_3 = new google.maps.Marker({
+      position: myLatLng_3,
+      map: map,
+      icon: image_3
+  });
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
+</html>
