@@ -1,0 +1,230 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple markers</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script>
+function initialize() {
+  var home = new google.maps.LatLng(51.496159, -2.140702);
+  var mapOptions = {
+    zoom: 9,
+    center: home
+  }
+  var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+	var crime1 = new google.maps.LatLng(51.673229, -1.854185)
+	var crime2 = new google.maps.LatLng(51.693294, -1.693662)
+	var crime3 = new google.maps.LatLng(51.670418, -1.753898)
+	var crime4 = new google.maps.LatLng(51.635318, -1.707736)
+	/*var crime5 = new google.maps.LatLng(
+	/*var crime7 = new google.maps.LatLng(
+	/*var crime8 = new google.maps.LatLng(
+	/*var crime9 = new google.maps.LatLng(
+	/*var crime10 = new google.maps.LatLng(
+	/*var crime11 = new google.maps.LatLng(
+	/*var crime12 = new google.maps.LatLng(
+	/*var crime13 = new google.maps.LatLng(
+	/*var crime14 = new google.maps.LatLng(
+	/*var crime15 = new google.maps.LatLng(
+*/
+
+/*************************************************************************************************************/
+
+
+  var marker1 = new google.maps.Marker({
+      position: crime1,
+      map: map,
+      title: 'Crime type: Anti-Social behaviour x1'
+  });
+  var marker2 = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: Other theft x2        Crime type: Vehicle Crime x1'
+  });
+  var marker3 = new google.maps.Marker({
+      position: crime3,
+      map: map,
+      title: 'Crime type: Criminal behaviour and Arson'
+  });
+
+  var marker4 = new google.maps.Marker({
+      position: crime4,
+      map: map,
+      title: 'Crime type: Anti-Social Behaviour'
+  });
+/*
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+  var marker = new google.maps.Marker({
+      position: crime2,
+      map: map,
+      title: 'Crime type: '
+  });
+*/
+google.maps.event.addListener(marker1, 'dblclick', function() {
+    map.setZoom(15);
+    map.setCenter(marker1.getPosition());
+  });
+google.maps.event.addListener(marker2, 'dblclick', function() {
+    map.setZoom(15);
+    map.setCenter(marker2.getPosition());
+  });
+google.maps.event.addListener(marker3, 'dblclick', function() {
+    map.setZoom(15);
+    map.setCenter(marker3.getPosition());
+  });
+google.maps.event.addListener(marker4, 'dblclick', function() {
+    map.setZoom(15);
+    map.setCenter(marker4.getPosition());
+  });
+/*
+google.maps.event.addListener(marker5, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker1.getPosition());
+  });
+google.maps.event.addListener(marker6, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker6.getPosition());
+  });
+google.maps.event.addListener(marker7, 'click', function() {
+    map.setZoom(20)
+    map.setCenter(marker7.getPosition());
+  });
+google.maps.event.addListener(marker8, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker8.getPosition());
+  });
+google.maps.event.addListener(marker9, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker9.getPosition());
+  });
+google.maps.event.addListener(marker10, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker10.getPosition());
+  });
+google.maps.event.addListener(marker11, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker11.getPosition());
+  });
+google.maps.event.addListener(marker12, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker12.getPosition());
+  });
+google.maps.event.addListener(marker13, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker13.getPosition());
+  });
+google.maps.event.addListener(marker14, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker14.getPosition());
+  });
+google.maps.event.addListener(marker15, 'click', function() {
+    map.setZoom(20);
+    map.setCenter(marker15.getPosition());
+  });
+*/
+var string1 = '<div id="content" width=900>'+
+'<h3>Co-ordinates:</h3><p>Lat: 51.673229<br>Long: -1.854185'
+'</div>';
+var infowindow1 = new google.maps.InfoWindow({
+      content: string1
+});
+google.maps.event.addListener(marker1, 'click', function() {
+    infowindow1.open(map, marker1);
+	});
+
+
+var string2 = '<div id="content" width=900>'+
+'<h3>Co-ordinates:</h3><p>Lat: 51.693294<br>Long: -1.693662'
+'</div>';
+var infowindow2 = new google.maps.InfoWindow({
+      content: string2
+});
+google.maps.event.addListener(marker2, 'click', function() {
+    infowindow1.open(map, marker2);
+	});
+
+
+var string3 = '<div id="content" width=900>'+
+'<h3>Co-ordinates:</h3><p>Lat: 51.670418<br>Long: -1.753898'
+'</div>';
+var infowindow3 = new google.maps.InfoWindow({
+      content: string3
+});
+google.maps.event.addListener(marker3, 'click', function() {
+    infowindow3.open(map, marker3);
+	});
+
+
+
+var string4 = '<div id="content" width=900>'+
+'<h3>Co-ordinates:</h3><p>Lat: 51.635318<br>Long: -1.707736'
+'</div>';
+var infowindow4 = new google.maps.InfoWindow({
+      content: string4
+});
+google.maps.event.addListener(marker4, 'click', function() {
+    infowindow1.open(map, marker4);
+	});
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
+</html>
