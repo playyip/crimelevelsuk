@@ -1,11 +1,7 @@
-var myLat;
-var myLong;
-var gotLocation = false;
-
 function latlong(){
     return position.coords.latitude + ", " + position.coords.longitude   
 }
-function newGmap(center, zoOm){
+function newGmap(center, zoOm, ){
       var home = new google.maps.LatLng(center);
     var mapOptions = {
         zoom: zoOm,
@@ -24,65 +20,67 @@ function newGmarker(position, titles){
     })
 }
 
-function getLocation() {
-	alert("Starting");
-	var options = {
-	  enableHighAccuracy: true,
-	  timeout: 5000,
-	  maximumAge: 0
-	};
-    if (navigator.geolocation) {
-        alert("getting location");
-		var geo = navigator.geolocation;
-		alert("getting pos");
-		geo.getCurrentPosition(showPosition, showError, options);
-    } else {
-	    alert("can't get location");
-        //x.innerHTML = "GPS Is not available with your browser :( Please download Google Chrome here at https://www.google.com/intl/en_uk/chrome/browser/.";
-    }
-}
-function showError(error){
-	alert(":( y it no work");
-}
-function showPosition(position){
-	alert("here");
-	myLat = position.coords.latitude;
-	myLong = position.coords.longitude;
-	gotLocation = true;
-	alert("1	" + myLat + " " + myLong);
+function newMap(){
+    var images = {};
+        images["all-crime"] = 'images/Zombie_1.png';
+        images["burglary"] = 'images/Zombie_2.png';
+        images["murder"] = 'images/Zombie_3.png';
+        images["ASBO"] = 'images/Zombie_4.png';
+        images["robbery"] = 'images/Zombie_5.png';
+        images["serial-kill"] = 'images/Zombie_6.png';
+        images["kidnapping"] = 'images/Zombie_7.png';
+         
+        var show_image = true;
+        
+        var coords = [
+              [-25.363882,131.044922,"arson"],
+              [51.5072,0.1275,"burglary"],
+              [6.1324,-4.1453,"murder"]
+        ];
 
-}
+        var mid = new google.maps.LatLng(coords[0][0],coords[0][1]);
 
-function processApi(allText) {
-	getLocation();
-alert("2 " + myLat + " " + myLong);
-var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 5,
-	  //center: new google.maps.LatLng(myLat, myLong),
-	  center: 0,0,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    });
-    var jsonArray = JSON.parse( allText );
-	var infowindow = new google.maps.InfoWindow();
-    var marker, i;
-	for (var i=0; i<jsonArray.length; i++) {
-	 marker = new google.maps.Marker({
-        position: new google.maps.LatLng(jsonArray[i].location.latitude,jsonArray[i].location.longitude),
-        map: map
-      });
-
-      google.maps.event.addListener(marker, 'click', (function(marker, i) {
-        return function() {
-          infowindow.setContent(jsonArray[i].category);
-          infowindow.open(map, marker);
+        var mapOptions = {
+          zoom: 2,
+          center: mid
         }
-      })(marker, i));
-	//alert(jsonArray[i].location.latitude + " " + jsonArray[i].location.longitude)
-    }
 
- 
-    for (i = 0; i < jsonArray.length; i++) {  
-     
-    }
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(
+  document.getElementById('legend'));
+
+        for (var i = 0; i < coords.length; i++) {
+          
+          var myLatlng = new google.maps.LatLng(coords[i][0],coords[i][1]);
+
+          if (show_image == true){
+
+            var Zombie_1 = new google.maps.Marker({
+              position: myLatlng,
+              map: map,
+              title: 'Hello World!',
+              icon: images[coords[i][2]]
+            });
+          }
+          else {
+            var marker = new google.maps.Marker({
+              position: myLatlng,
+              map: map,
+              title: 'Hello World!'
+            });
+          }
+        }
+
+        var legend = document.getElementById('legend');
+
+        Object.keys(images).forEach(function(crimeName){
+          var icon = images[crimeName];
+          var div = document.createElement('div');
+          div.innerHTML = '<img src="' + icon + '"> ' + crimeName;
+          legend.appendChild(div);
+        })
+      }
+
+      google.maps.event.addDomListener(window, 'load', initialize);
+
 }
-
