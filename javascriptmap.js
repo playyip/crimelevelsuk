@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>Crime Spi</title>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+</head>
+<script>
+$(document).ready(function() {
+    $.ajax({
+        type: "GET",
+        url: "http://data.police.uk/api/crimes-street/all-crime?lat=52.629729&lng=-1.131592&date=2013-01",
+        dataType: "text",
+        success: function(data) {processApi(data);}
+     });
+});
+
+function processApi(allText) {
+var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+	  center: new google.maps.LatLng(52.64395048674031, -1.1430419093111825),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+    var jsonArray = JSON.parse( allText );
+	var infowindow = new google.maps.InfoWindow();
+    var marker, i;
+	for (var i=0; i<jsonArray.length; i++) {
+	 marker = new google.maps.Marker({
+        position: new google.maps.LatLng(jsonArray[i].location.latitude,jsonArray[i].location.longitude),
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(jsonArray[i].category);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+	//alert(jsonArray[i].location.latitude + " " + jsonArray[i].location.longitude)
+    }
+
+ 
+    for (i = 0; i < jsonArray.length; i++) {  
+     
+    }
+}
+
+</script>
+  
+  <script src="http://maps.google.com/maps/api/js?sensor=false" 
+          type="text/javascript"></script>
+</head> 
+<body>
+  <div id="map" style="width: 1080px; height: 768px;"></div>
+
+  <script type="text/javascript">
+
+  </script>
+</body>
+</html>
