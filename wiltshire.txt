@@ -1,0 +1,4577 @@
+LongitudeLatitudeCrime type
+,-1.854185,51.673229,Anti-social behaviour
+,-1.693662,51.693294,Other theft
+,-1.693662,51.693294,Other theft
+,-1.693662,51.693294,Vehicle crime
+,-1.753898,51.670418,Criminal damage and arson
+,-1.707736,51.635318,Anti-social behaviour
+,-1.715072,51.633583,Anti-social behaviour
+,-1.708699,51.635968,Anti-social behaviour
+,-1.707736,51.635318,Anti-social behaviour
+,-1.707736,51.635318,Criminal damage and arson
+,-1.708835,51.635168,Public order
+,-1.712401,51.628694,Anti-social behaviour
+,-1.709397,51.63089,Anti-social behaviour
+,-1.708776,51.628578,Anti-social behaviour
+,-1.708776,51.628578,Anti-social behaviour
+,-1.712917,51.629424,Anti-social behaviour
+,-1.707978,51.629088,Anti-social behaviour
+,-1.709397,51.63089,Other theft
+,-1.711659,51.627173,Other theft
+,-1.711659,51.627173,Other theft
+,-1.709933,51.630585,Public order
+,-1.709933,51.630585,Shoplifting
+,-1.712401,51.628694,Violence and sexual offences
+,-1.713616,51.63536,Anti-social behaviour
+,-1.713616,51.63536,Anti-social behaviour
+,-1.7133,51.637283,Criminal damage and arson
+,-1.717398,51.636025,Public order
+,-1.718703,51.637548,Violence and sexual offences
+,-1.706549,51.633346,Burglary
+,-1.710722,51.63146,Anti-social behaviour
+,-1.710573,51.632116,Anti-social behaviour
+,-1.710573,51.632116,Anti-social behaviour
+,-1.710722,51.63146,Anti-social behaviour
+,-1.710573,51.632116,Bicycle theft
+,-1.705599,51.612646,Burglary
+,-1.702861,51.63607,Burglary
+,-1.704199,51.630391,Burglary
+,-1.705599,51.612646,Burglary
+,-1.697447,51.609344,Burglary
+,-1.710573,51.632116,Other theft
+,-1.705599,51.612646,Other theft
+,-1.704997,51.631985,Violence and sexual offences
+,-1.720404,51.635934,Anti-social behaviour
+,-1.718253,51.633285,Anti-social behaviour
+,-1.783752,51.589627,Anti-social behaviour
+,-1.775835,51.585081,Anti-social behaviour
+,-1.775835,51.585081,Anti-social behaviour
+,-1.778617,51.585868,Anti-social behaviour
+,-1.784297,51.590482,Anti-social behaviour
+,-1.774868,51.588118,Anti-social behaviour
+,-1.780626,51.585413,Anti-social behaviour
+,-1.775835,51.585081,Anti-social behaviour
+,-1.776622,51.586494,Anti-social behaviour
+,-1.775835,51.585081,Anti-social behaviour
+,-1.784297,51.590482,Bicycle theft
+,-1.775835,51.585081,Burglary
+,-1.784297,51.590482,Criminal damage and arson
+,-1.776622,51.586494,Criminal damage and arson
+,-1.778166,51.589563,Criminal damage and arson
+,-1.775835,51.585081,Criminal damage and arson
+,-1.783752,51.589627,Criminal damage and arson
+,-1.775835,51.585081,Other theft
+,-1.774868,51.588118,Other theft
+,-1.783752,51.589627,Other theft
+,-1.774868,51.588118,Violence and sexual offences
+,-1.776622,51.586494,Violence and sexual offences
+,-1.783752,51.589627,Violence and sexual offences
+,-1.780551,51.591923,Anti-social behaviour
+,-1.780551,51.588992,Anti-social behaviour
+,-1.781405,51.588499,Anti-social behaviour
+,-1.777645,51.59288,Burglary
+,-1.779733,51.588001,Other theft
+,-1.78085,51.58973,Other theft
+,-1.777645,51.59288,Public order
+,-1.785051,51.59578,Anti-social behaviour
+,-1.785682,51.59677,Anti-social behaviour
+,-1.789114,51.594339,Anti-social behaviour
+,-1.785941,51.596923,Anti-social behaviour
+,-1.785051,51.59578,Anti-social behaviour
+,-1.782851,51.596927,Anti-social behaviour
+,-1.789114,51.594339,Anti-social behaviour
+,-1.785051,51.59578,Anti-social behaviour
+,-1.789114,51.594339,Anti-social behaviour
+,-1.780208,51.594224,Anti-social behaviour
+,-1.785682,51.59677,Anti-social behaviour
+,-1.78203,51.59652,Anti-social behaviour
+,-1.78203,51.59652,Criminal damage and arson
+,-1.781753,51.597122,Criminal damage and arson
+,-1.785682,51.59677,Criminal damage and arson
+,-1.779233,51.59576,Vehicle crime
+,-1.786285,51.594217,Vehicle crime
+,-1.78203,51.59652,Vehicle crime
+,-1.780125,51.596454,Violence and sexual offences
+,-1.785051,51.59578,Violence and sexual offences
+,-1.784284,51.596192,Violence and sexual offences
+,-1.783681,51.592522,Anti-social behaviour
+,-1.785975,51.592742,Anti-social behaviour
+,-1.781936,51.592087	,Anti-social behaviour
+,-1.78974	,51.593369	,Anti-social behaviour
+,-1.781936	,51.592087	,Anti-social behaviour
+,-1.789815	,51.595743	,Anti-social behaviour
+,-1.790274	,51.593298	,Anti-social behaviour
+,-1.791606	,51.59563	,Anti-social behaviour
+,-1.781936	,51.592087	,Anti-social behaviour
+,-1.781936	,51.592087	,Anti-social behaviour
+,-1.781936	,51.592087	,Anti-social behaviour
+,-1.781936	,51.592087	,Anti-social behaviour
+,-1.789815	,51.595743	,Bicycle theft
+,-1.786722	,51.593382	,Burglary
+,-1.781936	,51.592087	,Criminal damage and arson
+,-1.78974	,51.593369	,Criminal damage and arson
+,-1.786722	,51.593382	,Criminal damage and arson
+,-1.781936	,51.592087	,Other theft
+,-1.783681	,51.592522	,Other theft
+,-1.781936	,51.592087	,Shoplifting
+,-1.783681	,51.592522	,Violence and sexual offences
+,-1.781936	,51.592087	,Violence and sexual offences
+,-1.783681	,51.592522	,Violence and sexual offences
+,-1.784105	,51.594375	,Violence and sexual offences
+,-1.784105	,51.594375	,Violence and sexual offences
+,-1.781936	,51.592087	,Violence and sexual offences
+,-1.784105	,51.594375	,Violence and sexual offences
+,-1.784105	,51.594375	,Violence and sexual offences
+,-1.812185	,51.59392	,Anti-social behaviour
+,-1.810079	,51.593413	,Anti-social behaviour
+,-1.804253	,51.595328	,Criminal damage and arson
+,-1.811694	,51.593955	,Criminal damage and arson
+,-1.810079	,51.593413	,Criminal damage and arson
+,-1.810079	,51.593413	,Criminal damage and arson
+,-1.805643	,51.59444	,Criminal damage and arson
+,-1.815494	,51.593125	,Criminal damage and arson
+,-1.805643	,51.59444	,Other theft
+,-1.810079	,51.593413	,Other theft
+,-1.812341	,51.594586	,Other theft
+,-1.810079	,51.593413	,Vehicle crime
+,-1.81356	,51.592879	,Vehicle crime
+,-1.812185	,51.59392	,Violence and sexual offences
+,-1.805786	,51.5915	,Anti-social behaviour
+,-1.79814	,51.587		,Anti-social behaviour
+,-1.798355	,51.590804	,Anti-social behaviour
+,-1.80079	,51.588515	,Anti-social behaviour
+,-1.803342	,51.592539	,Anti-social behaviour
+,-1.802721	,51.589157	,Anti-social behaviour
+,-1.79814	,51.587		,Vehicle crime
+,-1.804851	,51.587245	,Burglary
+,-1.810962	,51.589287	,Criminal damage and arson
+,-1.806614	,51.586817	,Criminal damage and arson
+,-1.802792	,51.586001	,Anti-social behaviour
+,-1.808205	,51.589436	,Anti-social behaviour
+,-1.809158	,51.589294	,Other theft
+,-1.805037	,51.587524	,Other theft
+,-1.808205	,51.589436	,Violence and sexual offences
+,-1.808205	,51.589436	,Violence and sexual offences
+,-1.79148	,51.5884	,Anti-social behaviour
+,-1.79148	,51.5884	,Anti-social behaviour
+,-1.79148	,51.5884	,Other theft
+,-1.77402	,51.587262	,Anti-social behaviour
+,-1.773954	,51.591911	,Anti-social behaviour
+,-1.773954	,51.591911	,Anti-social behaviour
+,-1.768342	,51.591342	,Criminal damage and arson
+,-1.766236	,51.590996	,Criminal damage and arson
+,-1.772418	,51.593076	,Vehicle crime
+,-1.76918	,51.588314	,Violence and sexual offences
+,-1.773954	,51.591911	,Violence and sexual offences
+,-1.767377	,51.596483	,Anti-social behaviour
+,-1.762996	,51.595018	,Bicycle theft
+,-1.77458	,51.59371	,Bicycle theft
+,-1.776384	,51.593848	,Burglary
+,-1.767519	,51.594101	,Criminal damage and arson
+,-1.767377	,51.596483	,Shoplifting
+,-1.767519	,51.594101	,Vehicle crime
+,-1.769025	,51.593214	,Violence and sexual offences
+,-1.759906	,51.595093	,Anti-social behaviour
+,-1.755346	,51.59217	,Other theft
+,-1.755138	,51.595973	,Other theft
+,-1.760493	,51.593305	,Other theft
+,-1.75499	,51.588456	,Shoplifting
+,-1.761757	,51.586258	,Anti-social behaviour
+,-1.758859	,51.585712	,Anti-social behaviour
+,-1.761669	,51.583713	,Anti-social behaviour
+,-1.762607	,51.581018	,Anti-social behaviour
+,-1.762607	,51.581018	,Anti-social behaviour
+,-1.763178	,51.582233	,Anti-social behaviour
+,-1.763023	,51.584291	,Criminal damage and arson
+,-1.762607	,51.581018	,Other theft
+,-1.760996	,51.585546	,Violence and sexual offences
+,-1.769174	,51.586686	,Anti-social behaviour
+,-1.761546	,51.587948	,Anti-social behaviour
+,-1.769174	,51.586686	,Anti-social behaviour
+,-1.764842	,51.589807	,Anti-social behaviour
+,-1.767498	,51.587025	,Other theft
+,-1.76431	,51.589302	,Public order
+,-1.767322	,51.584651	,Violence and sexual offences
+,-1.767322	,51.584651	,Violence and sexual offences
+,-1.764842	,51.589807	,Violence and sexual offences
+,-1.767099	,51.58314	,Other crime
+,-1.770639	,51.585224	,Anti-social behaviour
+,-1.76415	,51.584078	,Criminal damage and arson
+,-1.770759	,51.581501	,Violence and sexual offences
+,-1.823016	,51.585413	,Anti-social behaviour
+,-1.813747	,51.5861	,Anti-social behaviour
+,-1.813747	,51.5861	,Anti-social behaviour
+,-1.819708	,51.586064	,Anti-social behaviour
+,-1.819547	,51.58664	,Burglary
+,-1.822713	,51.585287	,Vehicle crime
+,-1.811983	,51.586924	,Anti-social behaviour
+,-1.815341	,51.584547	,Anti-social behaviour
+,-1.812741	,51.584921	,Anti-social behaviour
+,-1.8071	,51.584417	,Anti-social behaviour
+,-1.814588	,51.585157	,Anti-social behaviour
+,-1.815341	,51.584547	,Anti-social behaviour
+,-1.813498	,51.58342	,Bicycle theft
+,-1.807365	,51.583123	,Burglary
+,-1.8071	,51.584417	,Burglary
+,-1.8071	,51.584417	,Burglary
+,-1.813498	,51.58342	,Burglary
+,-1.812741	,51.584921	,Criminal damage and arson
+,-1.80969	,51.586255	,Criminal damage and arson
+,-1.807467	,51.586315	,Criminal damage and arson
+,-1.807467	,51.586315	,Other theft
+,-1.813498	,51.58342	,Other theft
+,-1.813498	,51.58342	,Robbery
+,-1.813498	,51.58342	,Vehicle crime
+,-1.813498	,51.58342	,Violence and sexual offences
+,-1.814588	,51.585157	,Violence and sexual offences
+,-1.801171	,51.583859	,Anti-social behaviour
+,-1.801171	,51.583859	,Anti-social behaviour
+,-1.793891	,51.581841	,Burglary
+,-1.798952	,51.583001	,Criminal damage and arson
+,-1.800345	,51.581259	,Other theft
+,-1.796668	,51.580479	,Other theft
+,-1.798952	,51.583001	,Other theft
+,-1.798952	,51.583001	,Public order
+,-1.800555	,51.582716	,Robbery
+,-1.798952	,51.583001	,Shoplifting
+,-1.805669	,51.584963	,Vehicle crime
+,-1.800555	,51.582716	,Vehicle crime
+,-1.798952	,51.583001	,Violence and sexual offences
+,-1.805561	,51.579874	,Anti-social behaviour
+,-1.802537	,51.58155	,Anti-social behaviour
+,-1.804307	,51.582821	,Anti-social behaviour
+,-1.802537	,51.58155	,Burglary
+,-1.807534	,51.580875	,Burglary
+,-1.804201	,51.580735	,Criminal damage and arson
+,-1.805561	,51.579874	,Criminal damage and arson
+,-1.802537	,51.58155	,Other theft
+,-1.807534	,51.580875	,Vehicle crime
+,-1.807532	,51.581352	,Violence and sexual offences
+,-1.77931	,51.579953	,Anti-social behaviour
+,-1.779675	,51.582076	,Anti-social behaviour
+,-1.781413	,51.583787	,Anti-social behaviour
+,-1.779675	,51.582076	,Anti-social behaviour
+,-1.780387	,51.581079	,Anti-social behaviour
+,-1.780387	,51.581079	,Anti-social behaviour
+,-1.780387	,51.581079	,Anti-social behaviour
+,-1.775636	,51.584622	,Anti-social behaviour
+,-1.783191	,51.583143	,Anti-social behaviour
+,-1.780387	,51.581079	,Anti-social behaviour
+,-1.780387	,51.581079	,Anti-social behaviour
+,-1.777167	,51.581424	,Anti-social behaviour
+,-1.780387	,51.581079	,Anti-social behaviour
+,-1.775636	,51.584622	,Anti-social behaviour
+,-1.779675	,51.582076	,Anti-social behaviour
+,-1.783191	,51.583143	,Anti-social behaviour
+,-1.779675	,51.582076	,Anti-social behaviour
+,-1.779675	,51.582076	,Anti-social behaviour
+,-1.775636	,51.584622	,Anti-social behaviour
+,-1.776742	,51.579661	,Anti-social behaviour
+,-1.781413	,51.583787	,Anti-social behaviour
+,-1.77931	,51.579953	,Anti-social behaviour
+,-1.776742	,51.579661	,Burglary
+,-1.779675	,51.582076	,Criminal damage and arson
+,-1.779675	,51.582076	,Criminal damage and arson
+,-1.777167	,51.581424	,Criminal damage and arson
+,-1.775636	,51.584622	,Shoplifting
+,-1.78349	,51.58398	,Violence and sexual offences
+,-1.78349	,51.58398	,Violence and sexual offences
+,-1.78349	,51.58398	,Violence and sexual offences
+,-1.779675	,51.582076	,Violence and sexual offences
+,-1.781413	,51.583787	,Violence and sexual offences
+,-1.775636	,51.584622	,Violence and sexual offences
+,-1.775636	,51.584622	,Violence and sexual offences
+,-1.786481	,51.580155	,Anti-social behaviour
+,-1.783858	,51.582443	,Anti-social behaviour
+,-1.784383	,51.581401	,Anti-social behaviour
+,-1.780635	,51.580459	,Anti-social behaviour
+,-1.786481	,51.580155	,Anti-social behaviour
+,-1.783858	,51.582443	,Anti-social behaviour
+,-1.786481	,51.580155	,Anti-social behaviour
+,-1.786481	,51.580155	,Anti-social behaviour
+,-1.785276	,51.581664	,Anti-social behaviour
+,-1.786481	,51.580155	,Criminal damage and arson
+,-1.784092	,51.581805	,Criminal damage and arson
+,-1.784383	,51.581401	,Criminal damage and arson
+,-1.784383	,51.581401	,Criminal damage and arson
+,-1.786481	,51.580155	,Possession of weapons
+,-1.783858	,51.582443	,Shoplifting
+,-1.786481	,51.580155	,Violence and sexual offences
+,-1.786481	,51.580155	,Violence and sexual offences
+,-1.786481	,51.580155	,Violence and sexual offences
+,-1.784383	,51.581401	,Violence and sexual offences
+,-1.787886	,51.58219	,Violence and sexual offences
+,-1.796657	,51.579751	,Anti-social behaviour
+,-1.795448	,51.578984	,Anti-social behaviour
+,-1.795448	,51.578984	,Anti-social behaviour
+,-1.788168	,51.583647	,Anti-social behaviour
+,-1.788168	,51.583647	,Anti-social behaviour
+,-1.794602	,51.58115	,Anti-social behaviour
+,-1.792501	,51.579699	,Anti-social behaviour
+,-1.795448	,51.578984	,Anti-social behaviour
+,-1.791749	,51.583348	,Burglary
+,-1.789874	,51.579946	,Burglary
+,-1.79481	,51.579721	,Burglary
+,-1.789874	,51.579946	,Public order
+,-1.789874	,51.579946	,Violence and sexual offences
+,-1.794602	,51.58115	,Violence and sexual offences
+,-1.789392	,51.578066	,Anti-social behaviour
+,-1.795409	,51.578121	,Anti-social behaviour
+,-1.789392	,51.578066	,Anti-social behaviour
+,-1.797657	,51.578889	,Anti-social behaviour
+,-1.792563	,51.578844	,Anti-social behaviour
+,-1.78852	,51.579206	,Anti-social behaviour
+,-1.789392	,51.578066	,Anti-social behaviour
+,-1.789779	,51.578579	,Anti-social behaviour
+,-1.789786	,51.573966	,Anti-social behaviour
+,-1.794901	,51.578786	,Burglary
+,-1.789392	,51.578066	,Criminal damage and arson
+,-1.78852	,51.579206	,Drugs
+,-1.78852	,51.579206	,Other theft
+,-1.793433	,51.577857	,Other theft
+,-1.78852	,51.579206	,Violence and sexual offences
+,-1.793433	,51.577857	,Violence and sexual offences
+,-1.78852	,51.579206	,Violence and sexual offences
+,-1.789392	,51.578066	,Other crime
+,-1.723888	,51.58791	,Anti-social behaviour
+,-1.737554	,51.600961	,Anti-social behaviour
+,-1.733817	,51.600584	,Anti-social behaviour
+,-1.773843	,51.596766	,Anti-social behaviour
+,-1.712509	,51.586354	,Anti-social behaviour
+,-1.787841	,51.613552	,Burglary
+,-1.725176	,51.594504	,Burglary
+,-1.745019	,51.611192	,Burglary
+,-1.780233	,51.604088	,Burglary
+,-1.780233	,51.604088	,Criminal damage and arson
+,-1.734101	,51.598849	,Drugs
+,-1.787841	,51.613552	,Other theft
+,-1.739632	,51.598601	,Other theft
+,-1.712509	,51.586354	,Other theft
+,-1.712509	,51.586354	,Other theft
+,-1.712509	,51.586354	,Public order
+,-1.725815	,51.586764	,Public order
+,-1.725815	,51.586764	,Public order
+,-1.712509	,51.586354	,Shoplifting
+,-1.718627	,51.589058	,Vehicle crime
+,-1.713275	,51.590807	,Vehicle crime
+,-1.725815	,51.586764	,Vehicle crime
+,-1.780233	,51.604088	,Vehicle crime
+,-1.713275	,51.590807	,Vehicle crime
+,-1.738195	,51.600054	,Vehicle crime
+,-1.738195	,51.600054	,Violence and sexual offences
+,-1.73874	,51.595569	,Violence and sexual offences
+,-1.73502	,51.604777	,Violence and sexual offences
+,-1.778071	,51.612059	,Violence and sexual offences
+,-1.782179	,51.613703	,Anti-social behaviour
+,-1.785812	,51.615112	,Anti-social behaviour
+,-1.780867	,51.613233	,Anti-social behaviour
+,-1.782179	,51.613703	,Anti-social behaviour
+,-1.780867	,51.613233	,Anti-social behaviour
+,-1.782179	,51.613703	,Burglary
+,-1.796998	,51.613361	,Burglary
+,-1.782179	,51.613703	,Burglary
+,-1.789578	,51.609554	,Burglary
+,-1.781131	,51.61549	,Burglary
+,-1.792917	,51.659839	,Burglary
+,-1.796998	,51.613361	,Burglary
+,-1.796998	,51.613361	,Burglary
+,-1.796998	,51.613361	,Burglary
+,-1.812759	,51.615806	,Burglary
+,-1.789578	,51.609554	,Vehicle crime
+,-1.794271	,51.612844	,Vehicle crime
+,-1.788863	,51.661		,Vehicle crime
+,-1.779625	,51.613249	,Violence and sexual offences
+,-1.779625	,51.613249	,Violence and sexual offences
+,-1.727707	,51.538152	,Anti-social behaviour
+,-1.727707	,51.538152	,Anti-social behaviour
+,-1.727707	,51.538152	,Anti-social behaviour
+,-1.727707	,51.538152	,Anti-social behaviour
+,-1.7222	,51.528509	,Anti-social behaviour
+,-1.702952	,51.531267	,Burglary
+,-1.727707	,51.538152	,Criminal damage and arson
+,-1.727707	,51.538152	,Other theft
+,-1.679181	,51.533282	,Other theft
+,-1.727707	,51.538152	,Other theft
+,-1.713231	,51.53587	,Vehicle crime
+,-1.724176	,51.521258	,Vehicle crime
+,-1.665143	,51.528711	,Vehicle crime
+,-1.648308	,51.550979	,Anti-social behaviour
+,-1.693748	,51.547374	,Criminal damage and arson
+,-1.69637	,51.549926	Theft from the person
+,-1.755805	,51.57105	,Anti-social behaviour
+,-1.755062	,51.575203	,Anti-social behaviour
+,-1.755805	,51.57105	,Anti-social behaviour
+,-1.755805	,51.57105	,Anti-social behaviour
+,-1.754454	,51.575435	,Anti-social behaviour
+,-1.759044	,51.569807	,Burglary
+,-1.759044	,51.569807	,Burglary
+,-1.759044	,51.569807	,Criminal damage and arson
+,-1.753583	,51.571037	,Other theft
+,-1.747286	,51.574755	,Other theft
+,-1.754366	,51.573052	,Other theft
+,-1.755805	,51.57105	,Shoplifting
+,-1.754366	,51.573052	,Shoplifting
+,-1.75473	,51.569825	,Shoplifting
+,-1.754366	,51.573052	,Shoplifting
+,-1.754366	,51.573052	,Shoplifting
+,-1.754763	,51.577045	,Vehicle crime
+,-1.753304	,51.577249	,Vehicle crime
+,-1.754763	,51.577045	,Vehicle crime
+,-1.761264	,51.570171	,Violence and sexual offences
+,-1.755805	,51.57105	,Violence and sexual offences
+,-1.761264	,51.570171	,Other crime
+,-1.750531	,51.572514	,Anti-social behaviour
+,-1.745714	,51.569563	,Bicycle theft
+,-1.744123	,51.575305	,Bicycle theft
+,-1.745636	,51.573043	,Burglary
+,-1.745714	,51.569563	,Criminal damage and arson
+,-1.748613	,51.572249	,Criminal damage and arson
+,-1.744123	,51.575305	,Criminal damage and arson
+,-1.751221	,51.567651	,Criminal damage and arson
+,-1.745558	,51.571568	,Vehicle crime
+,-1.74998	,51.572989	,Vehicle crime
+,-1.746214	,51.567712	,Violence and sexual offences
+,-1.742986	,51.579978	,Anti-social behaviour
+,-1.742986	,51.579978	,Anti-social behaviour
+,-1.73515	,51.574872	,Anti-social behaviour
+,-1.73515	,51.574872	,Bicycle theft
+,-1.742986	,51.579978	,Burglary
+,-1.73515	,51.574872	,Other theft
+,-1.73515	,51.574872	,Other theft
+,-1.73515	,51.574872	,Other theft
+,-1.741513	,51.574922	,Violence and sexual offences
+,-1.741513	,51.574922	,Violence and sexual offences
+,-1.753063	,51.587247	,Anti-social behaviour
+,-1.752044	,51.583388	,Anti-social behaviour
+,-1.753003	,51.584945	,Anti-social behaviour
+,-1.751134	,51.583619	,Anti-social behaviour
+,-1.749107	,51.582087	,Anti-social behaviour
+,-1.753063	,51.587247	,Anti-social behaviour
+,-1.74728	,51.5863	,Anti-social behaviour
+,-1.750528	,51.586226	,Anti-social behaviour
+,-1.751134	,51.583619	,Bicycle theft
+,-1.748928	,51.580585	,Burglary
+,-1.74728	,51.5863	,Burglary
+,-1.749913	,51.579858	,Burglary
+,-1.751134	,51.583619	,Shoplifting
+,-1.751134	,51.583619	,Shoplifting
+,-1.751134	,51.583619	,Shoplifting
+,-1.752044	,51.583388	,Other crime
+,-1.743914	,51.581743	,Anti-social behaviour
+,-1.743914	,51.581743	,Anti-social behaviour
+,-1.743914	,51.581743	,Anti-social behaviour
+,-1.743876	,51.583244	,Anti-social behaviour
+,-1.74703	,51.582019	,Bicycle theft
+,-1.743334	,51.584762	,Bicycle theft
+,-1.745296	,51.584983	,Burglary
+,-1.745296	,51.584983	,Burglary
+,-1.74703	,51.582019	,Burglary
+,-1.746199	,51.583492	,Criminal damage and arson
+,-1.74496	,51.583076	,Criminal damage and arson
+,-1.74496	,51.583076	,Criminal damage and arson
+,-1.745454	,51.582474	,Criminal damage and arson
+,-1.746199	,51.583492	,Criminal damage and arson
+,-1.74496	,51.583076	,Criminal damage and arson
+,-1.747828	,51.583738	,Criminal damage and arson
+,-1.747828	,51.583738	,Other theft
+,-1.74496	,51.583076	,Other theft
+,-1.74205	,51.58467	,Vehicle crime
+,-1.74496	,51.583076	,Violence and sexual offences
+,-1.751066	,51.577631	,Anti-social behaviour
+,-1.751066	,51.577631	,Bicycle theft
+,-1.783744	,51.579206	,Anti-social behaviour
+,-1.777975	,51.578431	,Anti-social behaviour
+,-1.783744	,51.579206	,Anti-social behaviour
+,-1.779947	,51.579406	,Anti-social behaviour
+,-1.783744	,51.579206	,Anti-social behaviour
+,-1.783744	,51.579206	,Anti-social behaviour
+,-1.777975	,51.578431	,Anti-social behaviour
+,-1.783744	,51.579206	,Anti-social behaviour
+,-1.780137	,51.579065	,Anti-social behaviour
+,-1.783744	,51.579206	,Burglary
+,-1.7822	,51.579077	,Burglary
+,-1.7822	,51.579077	,Criminal damage and arson
+,-1.785456	,51.574201	,Criminal damage and arson
+,-1.777975	,51.578431	,Criminal damage and arson
+,-1.783744	,51.579206	,Criminal damage and arson
+,-1.7822	,51.579077	,Vehicle crime
+,-1.783744	,51.579206	,Vehicle crime
+,-1.7822	,51.579077	,Violence and sexual offences
+,-1.774585	,51.575341	,Anti-social behaviour
+,-1.774098	,51.577354	,Anti-social behaviour
+,-1.769907	,51.578694	,Anti-social behaviour
+,-1.774098	,51.577354	,Anti-social behaviour
+,-1.774275	,51.573704	,Anti-social behaviour
+,-1.779252	,51.577004	,Anti-social behaviour
+,-1.763472	,51.575589	,Bicycle theft
+,-1.763472	,51.575589	,Bicycle theft
+,-1.766303	,51.572249	,Burglary
+,-1.769907	,51.578694	,Burglary
+,-1.768197	,51.574348	,Burglary
+,-1.768197	,51.574348	,Burglary
+,-1.770061	,51.57383	,Burglary
+,-1.770779	,51.574596	,Burglary
+,-1.770061	,51.57383	,Other theft
+,-1.779252	,51.577004	,Other theft
+,-1.777271	,51.574833	,Vehicle crime
+,-1.772471	,51.570886	,Anti-social behaviour
+,-1.777728	,51.569808	,Anti-social behaviour
+,-1.780198	,51.569399	,Anti-social behaviour
+,-1.780198	,51.569399	,Anti-social behaviour
+,-1.776451	,51.571379	,Anti-social behaviour
+,-1.773856	,51.570889	,Anti-social behaviour
+,-1.777728	,51.569808	,Anti-social behaviour
+,-1.773856	,51.570889	,Anti-social behaviour
+,-1.776451	,51.571379	,Bicycle theft
+,-1.776117	,51.571873	,Bicycle theft
+,-1.780198	,51.569399	,Burglary
+,-1.780198	,51.569399	,Burglary
+,-1.777728	,51.569808	,Burglary
+,-1.773856	,51.570889	,Criminal damage and arson
+,-1.776451	,51.571379	,Criminal damage and arson
+,-1.780198	,51.569399	,Criminal damage and arson
+,-1.778775	,51.571087	,Criminal damage and arson
+,-1.780198	,51.569399	,Criminal damage and arson
+,-1.772115	,51.572854	,Criminal damage and arson
+,-1.776451	,51.571379	,Other theft
+,-1.776678	,51.57227	,Robbery
+,-1.776678	,51.57227	,Robbery
+,-1.780198	,51.569399	,Robbery
+,-1.777728	,51.569808	,Robbery
+,-1.776678	,51.57227	,Shoplifting
+,-1.780198	,51.569399	,Shoplifting
+,-1.780198	,51.569399	,Shoplifting
+,-1.776678	,51.57227	Theft from the person
+,-1.777728	,51.569808	,Violence and sexual offences
+,-1.777767	,51.570698	,Violence and sexual offences
+,-1.776678	,51.57227	,Violence and sexual offences
+,-1.778775	,51.571087	,Violence and sexual offences
+,-1.776055	,51.572781	,Violence and sexual offences
+,-1.778775	,51.571087	,Violence and sexual offences
+,-1.777728	,51.569808	,Violence and sexual offences
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.78048	,51.570622	,Anti-social behaviour
+,-1.777959	,51.572857	,Anti-social behaviour
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.784529	,51.571871	,Anti-social behaviour
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.785927	,51.572224	,Anti-social behaviour
+,-1.780297	,51.572708	,Anti-social behaviour
+,-1.777959	,51.572857	,Bicycle theft
+,-1.777959	,51.572857	,Bicycle theft
+,-1.780297	,51.572708	,Burglary
+,-1.783957	,51.570836	,Burglary
+,-1.777959	,51.572857	,Criminal damage and arson
+,-1.784411	,51.569326	,Public order
+,-1.784529	,51.571871	,Vehicle crime
+,-1.785927	,51.572224	,Vehicle crime
+,-1.785927	,51.572224	,Vehicle crime
+,-1.784529	,51.571871	,Vehicle crime
+,-1.783957	,51.570836	,Vehicle crime
+,-1.784529	,51.571871	,Violence and sexual offences
+,-1.785927	,51.572224	,Violence and sexual offences
+,-1.835407	,51.579344	,Anti-social behaviour
+,-1.835407	,51.579344	,Anti-social behaviour
+,-1.837875	,51.579365	,Anti-social behaviour
+,-1.835407	,51.579344	,Anti-social behaviour
+,-1.830365	,51.577053	,Burglary
+,-1.833912	,51.577795	,Violence and sexual offences
+,-1.835407	,51.579344	,Violence and sexual offences
+,-1.83629	,51.578644	,Anti-social behaviour
+,-1.844646	,51.574061	,Criminal damage and arson
+,-1.837464	,51.577108	,Drugs
+,-1.837464	,51.577108	,Drugs
+,-1.83629	,51.578644	,Other theft
+,-1.837464	,51.577108	,Violence and sexual offences
+,-1.837988	,51.567695	,Anti-social behaviour
+,-1.840901	,51.568157	,Anti-social behaviour
+,-1.842137	,51.569427	,Anti-social behaviour
+,-1.842137	,51.569427	,Anti-social behaviour
+,-1.840901	,51.568157	,Robbery
+,-1.846716	,51.567796	,Vehicle crime
+,-1.837733	,51.566337	,Anti-social behaviour
+,-1.837733	,51.566337	,Anti-social behaviour
+,-1.800398	,51.565892	,Anti-social behaviour
+,-1.798274	,51.56659	,Anti-social behaviour
+,-1.800335	,51.567133	,Anti-social behaviour
+,-1.800398	,51.565892	,Anti-social behaviour
+,-1.807057	,51.57066	,Burglary
+,-1.800335	,51.567133	,Criminal damage and arson
+,-1.801828	,51.568754	,Criminal damage and arson
+,-1.797527	,51.572325	,Drugs
+,-1.797726	,51.566472	,Other theft
+,-1.799476	,51.565513	,Other theft
+,-1.790954	,51.567872	,Robbery
+,-1.800213	,51.565281	,Shoplifting
+,-1.807057	,51.57066	,Shoplifting
+,-1.800926	,51.570425	Theft from the person
+,-1.792066	,51.567434	,Vehicle crime
+,-1.798274	,51.56659	,Vehicle crime
+,-1.800926	,51.570425	,Violence and sexual offences
+,-1.805341	,51.563797	,Anti-social behaviour
+,-1.807993	,51.564341	,Anti-social behaviour
+,-1.805428	,51.563671	,Anti-social behaviour
+,-1.804265	,51.565764	,Criminal damage and arson
+,-1.808071	,51.559431	,Criminal damage and arson
+,-1.803706	,51.564891	,Criminal damage and arson
+,-1.804265	,51.565764	,Drugs
+,-1.808071	,51.559431	,Other theft
+,-1.808071	,51.559431	,Other theft
+,-1.808071	,51.559431	,Other theft
+,-1.807159	,51.563629	,Vehicle crime
+,-1.808071	,51.559431	,Vehicle crime
+,-1.804265	,51.565764	,Violence and sexual offences
+,-1.804265	,51.565764	,Violence and sexual offences
+,-1.804373	,51.56411	,Violence and sexual offences
+,-1.804265	,51.565764	,Violence and sexual offences
+,-1.80627	,51.562405	,Violence and sexual offences
+,-1.808233	,51.565519	,Violence and sexual offences
+,-1.819237	,51.58467	,Anti-social behaviour
+,-1.802464	,51.571938	,Anti-social behaviour
+,-1.807974	,51.579131	,Anti-social behaviour
+,-1.802464	,51.571938	,Anti-social behaviour
+,-1.807974	,51.579131	,Anti-social behaviour
+,-1.819237	,51.58467	,Anti-social behaviour
+,-1.807537	,51.576793	,Anti-social behaviour
+,-1.808305	,51.575841	,Burglary
+,-1.807537	,51.576793	,Burglary
+,-1.807537	,51.576793	,Criminal damage and arson
+,-1.807537	,51.576793	,Criminal damage and arson
+,-1.801535	,51.573159	,Other theft
+,-1.807537	,51.576793	,Vehicle crime
+,-1.801535	,51.573159	,Violence and sexual offences
+,-1.81414	,51.58165	,Violence and sexual offences
+,-1.807974	,51.579131	,Violence and sexual offences
+,-1.792738	,51.572155	,Anti-social behaviour
+,-1.788148	,51.57248	,Anti-social behaviour
+,-1.785556	,51.57127	,Anti-social behaviour
+,-1.793508	,51.570988	,Anti-social behaviour
+,-1.785556	,51.57127	,Anti-social behaviour
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.788148	,51.57248	,Criminal damage and arson
+,-1.784702	,51.568895	,Drugs
+,-1.787532	,51.568397	,Other theft
+,-1.784702	,51.568895	,Other theft
+,-1.790408	,51.570335	,Other theft
+,-1.786909	,51.571974	,Vehicle crime
+,-1.786909	,51.571974	,Vehicle crime
+,-1.788148	,51.57248	,Vehicle crime
+,-1.787532	,51.568397	,Violence and sexual offences
+,-1.792738	,51.572155	,Violence and sexual offences
+,-1.787532	,51.568397	,Violence and sexual offences
+,-1.787532	,51.568397	,Violence and sexual offences
+,-1.792738	,51.572155	,Violence and sexual offences
+,-1.805582	,51.558025	,Anti-social behaviour
+,-1.802186	,51.559485	,Anti-social behaviour
+,-1.801143	,51.560463	,Violence and sexual offences
+,-1.801892	,51.560671	,Violence and sexual offences
+,-1.802409	,51.561229	,Anti-social behaviour
+,-1.802447	,51.565797	,Anti-social behaviour
+,-1.802447	,51.565797	,Anti-social behaviour
+,-1.801384	,51.564698	,Anti-social behaviour
+,-1.802409	,51.561229	,Anti-social behaviour
+,-1.801384	,51.564698	,Anti-social behaviour
+,-1.800956	,51.563529	,Anti-social behaviour
+,-1.803834	,51.561906	,Burglary
+,-1.802991	,51.563415	,Criminal damage and arson
+,-1.803834	,51.561906	,Criminal damage and arson
+,-1.802409	,51.561229	,Criminal damage and arson
+,-1.803834	,51.561906	,Criminal damage and arson
+,-1.803834	,51.561906	,Criminal damage and arson
+,-1.798104	,51.562589	,Other theft
+,-1.802447	,51.565797	,Other theft
+,-1.802991	,51.563415	,Possession of weapons
+,-1.803834	,51.561906	,Public order
+,-1.798104	,51.562589	,Shoplifting
+,-1.798104	,51.562589	,Shoplifting
+,-1.802809	,51.562138	,Shoplifting
+,-1.798104	,51.562589	,Shoplifting
+,-1.801384	,51.564698	,Vehicle crime
+,-1.802409	,51.561229	,Violence and sexual offences
+,-1.800956	,51.563529	,Violence and sexual offences
+,-1.738873	,51.567354	,Anti-social behaviour
+,-1.74156	,51.569302	,Anti-social behaviour
+,-1.74156	,51.569302	,Anti-social behaviour
+,-1.74156	,51.569302	,Anti-social behaviour
+,-1.741453	,51.570273	,Anti-social behaviour
+,-1.738873	,51.567354	,Anti-social behaviour
+,-1.74156	,51.569302	,Anti-social behaviour
+,-1.741405	,51.568592	,Criminal damage and arson
+,-1.738873	,51.567354	,Other theft
+,-1.738873	,51.567354	,Shoplifting
+,-1.72783	,51.568336	,Burglary
+,-1.72916	,51.567872	,Violence and sexual offences
+,-1.741485	,51.567144	,Burglary
+,-1.746497	,51.563622	,Burglary
+,-1.7433	,51.567796	,Other theft
+,-1.7433	,51.567796	,Other theft
+,-1.7433	,51.567796	,Other theft
+,-1.7433	,51.567796	,Other theft
+,-1.7433	,51.567796	,Other theft
+,-1.7433	,51.567796	,Shoplifting
+,-1.721584	,51.563421	,Violence and sexual offences
+,-1.740986	,51.563574	,Anti-social behaviour
+,-1.730156	,51.562974	,Anti-social behaviour
+,-1.739409	,51.561943	,Anti-social behaviour
+,-1.730156	,51.562974	,Bicycle theft
+,-1.740986	,51.563574	,Burglary
+,-1.740986	,51.563574	,Drugs
+,-1.740986	,51.563574	,Public order
+,-1.731147	,51.563713	,Public order
+,-1.740986	,51.563574	,Violence and sexual offences
+,-1.734181	,51.565285	,Violence and sexual offences
+,-1.730457	,51.563244	,Violence and sexual offences
+,-1.730457	,51.563244	,Violence and sexual offences
+,-1.830738	,51.561813	,Anti-social behaviour
+,-1.821232	,51.572912	,Anti-social behaviour
+,-1.828139	,51.562645	,Anti-social behaviour
+,-1.827902	,51.568085	,Anti-social behaviour
+,-1.830635	,51.56246	,Anti-social behaviour
+,-1.830635	,51.56246	,Anti-social behaviour
+,-1.83		,51.562441	,Burglary
+,-1.82814	,51.566125	,Burglary
+,-1.82814	,51.566125	,Burglary
+,-1.832553	,51.574476	,Criminal damage and arson
+,-1.826925	,51.56704	,Other theft
+,-1.826925	,51.56704	,Other theft
+,-1.831129	,51.569267	,Anti-social behaviour
+,-1.831129	,51.569267	,Criminal damage and arson
+,-1.833659	,51.567994	,Violence and sexual offences
+,-1.826167	,51.557697	,Anti-social behaviour
+,-1.825351	,51.559836	,Anti-social behaviour
+,-1.824637	,51.557992	,Anti-social behaviour
+,-1.826975	,51.561313	,Burglary
+,-1.820961	,51.561088	,Burglary
+,-1.824637	,51.557992	,Criminal damage and arson
+,-1.824625	,51.561067	,Criminal damage and arson
+,-1.821447	,51.562141	,Vehicle crime
+,-1.826975	,51.561313	,Vehicle crime
+,-1.826975	,51.561313	,Vehicle crime
+,-1.824833	,51.563117	,Violence and sexual offences
+,-1.823104	,51.55888	,Anti-social behaviour
+,-1.823104	,51.55888	,Anti-social behaviour
+,-1.816732	,51.55432	,Anti-social behaviour
+,-1.816732	,51.55432	,Anti-social behaviour
+,-1.816732	,51.55432	,Anti-social behaviour
+,-1.816732	,51.55432	,Anti-social behaviour
+,-1.823104	,51.55888	,Anti-social behaviour
+,-1.81772	,51.563376	,Drugs
+,-1.820373	,51.55643	,Other theft
+,-1.816732	,51.55432	,Shoplifting
+,-1.816732	,51.55432	,Shoplifting
+,-1.816732	,51.55432	,Shoplifting
+,-1.818852	,51.554431	,Violence and sexual offences
+,-1.816732	,51.55432	,Violence and sexual offences
+,-1.822373	,51.557827	,Violence and sexual offences
+,-1.781571	,51.562901	,Anti-social behaviour
+,-1.781571	,51.562901	,Anti-social behaviour
+,-1.777307	,51.564484	,Anti-social behaviour
+,-1.781028	,51.564824	,Anti-social behaviour
+,-1.783295	,51.564325	,Anti-social behaviour
+,-1.781028	,51.564824	,Anti-social behaviour
+,-1.783295	,51.564325	,Anti-social behaviour
+,-1.783295	,51.564325	,Anti-social behaviour
+,-1.774445	,51.565675	,Anti-social behaviour
+,-1.77844	,51.562985	,Anti-social behaviour
+,-1.781571	,51.562901	,Anti-social behaviour
+,-1.773347	,51.562984	,Anti-social behaviour
+,-1.783295	,51.564325	,Anti-social behaviour
+,-1.774445	,51.565675	,Anti-social behaviour
+,-1.783295	,51.564325	,Anti-social behaviour
+,-1.781028	,51.564824	,Anti-social behaviour
+,-1.77844	,51.562985	,Anti-social behaviour
+,-1.781571	,51.562901	,Anti-social behaviour
+,-1.77532	,51.563662	,Anti-social behaviour
+,-1.773347	,51.562984	,Bicycle theft
+,-1.774445	,51.565675	,Criminal damage and arson
+,-1.781571	,51.562901	,Drugs
+,-1.781028	,51.564824	,Drugs
+,-1.783295	,51.564325	,Drugs
+,-1.773347	,51.562984	,Other theft
+,-1.783295	,51.564325	,Other theft
+,-1.774445	,51.565675	,Possession of weapons
+,-1.781028	,51.564824	,Robbery
+,-1.778888	,51.56268	,Vehicle crime
+,-1.781028	,51.564824	,Vehicle crime
+,-1.780792	,51.562738	,Violence and sexual offences
+,-1.781028	,51.564824	,Violence and sexual offences
+,-1.783295	,51.564325	,Violence and sexual offences
+,-1.77532	,51.563662	,Violence and sexual offences
+,-1.781028	,51.564824	,Other crime
+,-1.781028	,51.564824	,Other crime
+,-1.781028	,51.564824	,Other crime
+,-1.789993	,51.560309	,Anti-social behaviour
+,-1.78535	,51.563016	,Anti-social behaviour
+,-1.790056	,51.562314	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.786799	,51.561544	,Anti-social behaviour
+,-1.789697	,51.561972	,Anti-social behaviour
+,-1.784317	,51.564749	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.787542	,51.56311	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.786799	,51.561544	,Anti-social behaviour
+,-1.791974	,51.559251	,Anti-social behaviour
+,-1.786244	,51.563044	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.784317	,51.564749	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.786799	,51.561544	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.792125	,51.560978	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.786799	,51.561544	,Anti-social behaviour
+,-1.789697	,51.561972	,Anti-social behaviour
+,-1.790736	,51.561794	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.788906	,51.561323	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.786799	,51.561544	,Anti-social behaviour
+,-1.788906	,51.561323	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.788906	,51.561323	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.78535	,51.563016	,Anti-social behaviour
+,-1.789697	,51.561972	,Anti-social behaviour
+,-1.789697	,51.561972	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.784317	,51.564749	,Anti-social behaviour
+,-1.790871	,51.560589	,Anti-social behaviour
+,-1.787214	,51.562219	,Anti-social behaviour
+,-1.78535	,51.563016	,Anti-social behaviour
+,-1.78535	,51.563016	,Anti-social behaviour
+,-1.78535	,51.563016	,Anti-social behaviour
+,-1.78748	,51.560889	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.78564	,51.562666	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.794881	,51.560767	,Anti-social behaviour
+,-1.78748	,51.560889	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.788906	,51.561323	,Anti-social behaviour
+,-1.784317	,51.564749	,Anti-social behaviour
+,-1.784317	,51.564749	,Anti-social behaviour
+,-1.787542	,51.56311	,Anti-social behaviour
+,-1.78748	,51.560889	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.785196	,51.561954	,Anti-social behaviour
+,-1.788608	,51.563417	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.788584	,51.562428	,Anti-social behaviour
+,-1.785196	,51.561954	,Bicycle theft
+,-1.789058	,51.559669	,Burglary
+,-1.794881	,51.560767	,Burglary
+,-1.794881	,51.560767	,Burglary
+,-1.788183	,51.561807	,Criminal damage and arson
+,-1.790644	,51.559959	,Criminal damage and arson
+,-1.790056	,51.562314	,Criminal damage and arson
+,-1.786226	,51.563755	,Criminal damage and arson
+,-1.786244	,51.563044	,Criminal damage and arson
+,-1.789031	,51.562519	,Criminal damage and arson
+,-1.788584	,51.562428	,Criminal damage and arson
+,-1.791974	,51.559251	,Criminal damage and arson
+,-1.788812	,51.562959	,Criminal damage and arson
+,-1.789697	,51.561972	,Criminal damage and arson
+,-1.792214	,51.560421	,Drugs
+,-1.786244	,51.563044	,Drugs
+,-1.788584	,51.562428	,Drugs
+,-1.794539	,51.559804	,Drugs
+,-1.78748	,51.560889	,Drugs
+,-1.792214	,51.560421	,Drugs
+,-1.786244	,51.563044	,Drugs
+,-1.78748	,51.560889	,Other theft
+,-1.790736	,51.561794	,Other theft
+,-1.787214	,51.562219	,Other theft
+,-1.78564	,51.562666	,Other theft
+,-1.788584	,51.562428	,Other theft
+,-1.788584	,51.562428	,Other theft
+,-1.786799	,51.561544	,Other theft
+,-1.78748	,51.560889	,Other theft
+,-1.786244	,51.563044	,Other theft
+,-1.783157	,51.566069	,Other theft
+,-1.785196	,51.561954	,Other theft
+,-1.78564	,51.562666	,Public order
+,-1.787214	,51.562219	,Public order
+,-1.787214	,51.562219	,Public order
+,-1.785196	,51.561954	,Public order
+,-1.782452	,51.565672	,Robbery
+,-1.78535	,51.563016	,Shoplifting
+,-1.785196	,51.561954	,Shoplifting
+,-1.785196	,51.561954	,Shoplifting
+,-1.785196	,51.561954	,Shoplifting
+,-1.785196	,51.561954	,Shoplifting
+,-1.78748	,51.560889	Theft from the person
+,-1.787214	,51.562219	Theft from the person
+,-1.787214	,51.562219	Theft from the person
+,-1.78748	,51.560889	Theft from the person
+,-1.786799	,51.561544	,Violence and sexual offences
+,-1.787214	,51.562219	,Violence and sexual offences
+,-1.78535	,51.563016	,Violence and sexual offences
+,-1.788584	,51.562428	,Violence and sexual offences
+,-1.787214	,51.562219	,Violence and sexual offences
+,-1.791974	,51.559251	,Violence and sexual offences
+,-1.787214	,51.562219	,Violence and sexual offences
+,-1.787214	,51.562219	,Violence and sexual offences
+,-1.788812	,51.562959	,Violence and sexual offences
+,-1.782873	,51.565043	,Violence and sexual offences
+,-1.790736	,51.561794	,Violence and sexual offences
+,-1.782873	,51.565043	,Violence and sexual offences
+,-1.785196	,51.561954	,Violence and sexual offences
+,-1.78564	,51.562666	,Violence and sexual offences
+,-1.786799	,51.561544	,Violence and sexual offences
+,-1.790056	,51.562314	,Violence and sexual offences
+,-1.785196	,51.561954	,Violence and sexual offences
+,-1.786244	,51.563044	,Violence and sexual offences
+,-1.789993	,51.560309	,Violence and sexual offences
+,-1.783157	,51.566069	,Violence and sexual offences
+,-1.786799	,51.561544	,Violence and sexual offences
+,-1.788584	,51.562428	,Violence and sexual offences
+,-1.789031	,51.562519	,Violence and sexual offences
+,-1.789031	,51.562519	,Violence and sexual offences
+,-1.788812	,51.562959	,Violence and sexual offences
+,-1.786244	,51.563044	,Violence and sexual offences
+,-1.795994	,51.556974	,Anti-social behaviour
+,-1.792568	,51.561797	,Anti-social behaviour
+,-1.795222	,51.558628	,Anti-social behaviour
+,-1.796706	,51.559152	,Anti-social behaviour
+,-1.795994	,51.556974	,Anti-social behaviour
+,-1.794292	,51.556998	,Criminal damage and arson
+,-1.795994	,51.556974	,Drugs
+,-1.795222	,51.558628	Theft from the person
+,-1.794292	,51.556998	,Violence and sexual offences
+,-1.795617	,51.557387	,Violence and sexual offences
+,-1.794985	,51.556973	,Violence and sexual offences
+,-1.795222	,51.558628	,Violence and sexual offences
+,-1.797241	,51.558847	,Violence and sexual offences
+,-1.779539	,51.565325	,Anti-social behaviour
+,-1.776496	,51.565139	,Anti-social behaviour
+,-1.779539	,51.565325	,Anti-social behaviour
+,-1.780485	,51.566576	,Anti-social behaviour
+,-1.777267	,51.566867	,Anti-social behaviour
+,-1.777267	,51.566867	,Anti-social behaviour
+,-1.780485	,51.566576	,Anti-social behaviour
+,-1.779961	,51.564705	,Anti-social behaviour
+,-1.779961	,51.564705	,Anti-social behaviour
+,-1.779539	,51.565325	,Anti-social behaviour
+,-1.778357	,51.565179	,Anti-social behaviour
+,-1.779961	,51.564705	,Burglary
+,-1.777267	,51.566867	,Burglary
+,-1.781095	,51.565777	,Criminal damage and arson
+,-1.777267	,51.566867	,Criminal damage and arson
+,-1.782189	,51.566247	,Criminal damage and arson
+,-1.780322	,51.564553	,Criminal damage and arson
+,-1.779539	,51.565325	,Criminal damage and arson
+,-1.778357	,51.565179	,Drugs
+,-1.778357	,51.565179	,Other theft
+,-1.780485	,51.566576	,Robbery
+,-1.778357	,51.565179	,Violence and sexual offences
+,-1.780485	,51.566576	,Violence and sexual offences
+,-1.778357	,51.565179	,Violence and sexual offences
+,-1.777267	,51.566867	,Violence and sexual offences
+,-1.779539	,51.565325	,Violence and sexual offences
+,-1.776496	,51.565139	,Violence and sexual offences
+,-1.777267	,51.566867	,Violence and sexual offences
+,-1.740761	,51.560058	,Anti-social behaviour
+,-1.740761	,51.560058	,Anti-social behaviour
+,-1.747351	,51.563093	,Anti-social behaviour
+,-1.747351	,51.563093	,Anti-social behaviour
+,-1.74671	,51.561509	,Anti-social behaviour
+,-1.743938	,51.559498	,Anti-social behaviour
+,-1.74671	,51.561509	,Anti-social behaviour
+,-1.743938	,51.559498	,Anti-social behaviour
+,-1.745088	,51.560112	,Anti-social behaviour
+,-1.747152	,51.559955	,Anti-social behaviour
+,-1.747152	,51.559955	,Anti-social behaviour
+,-1.740761	,51.560058	,Anti-social behaviour
+,-1.743938	,51.559498	,Anti-social behaviour
+,-1.743116	,51.561942	,Anti-social behaviour
+,-1.740761	,51.560058	,Burglary
+,-1.745783	,51.562217	,Burglary
+,-1.748366	,51.562106	,Burglary
+,-1.748366	,51.562106	,Drugs
+,-1.748366	,51.562106	,Drugs
+,-1.743021	,51.56098	,Other theft
+,-1.745783	,51.562217	,Other theft
+,-1.740761	,51.560058	,Other theft
+,-1.751384	,51.558939	,Violence and sexual offences
+,-1.756065	,51.560315	,Anti-social behaviour
+,-1.756065	,51.560315	,Anti-social behaviour
+,-1.756065	,51.560315	,Anti-social behaviour
+,-1.752766	,51.564831	,Anti-social behaviour
+,-1.757792	,51.561083	,Anti-social behaviour
+,-1.753778	,51.561749	,Criminal damage and arson
+,-1.75295	,51.562691	,Criminal damage and arson
+,-1.75295	,51.562691	,Public order
+,-1.75295	,51.562691	,Public order
+,-1.754204	,51.562937	,Violence and sexual offences
+,-1.754204	,51.562937	,Violence and sexual offences
+,-1.755958	,51.556026	,Anti-social behaviour
+,-1.755958	,51.556026	,Anti-social behaviour
+,-1.762961	,51.560149	,Anti-social behaviour
+,-1.762343	,51.562378	,Anti-social behaviour
+,-1.762343	,51.562378	,Anti-social behaviour
+,-1.762961	,51.560149	,Anti-social behaviour
+,-1.75733	,51.555705	,Anti-social behaviour
+,-1.762961	,51.560149	,Anti-social behaviour
+,-1.757498	,51.559338	,Anti-social behaviour
+,-1.757498	,51.559338	,Anti-social behaviour
+,-1.757498	,51.559338	,Anti-social behaviour
+,-1.757723	,51.557792	,Anti-social behaviour
+,-1.762961	,51.560149	,Anti-social behaviour
+,-1.755958	,51.556026	,Anti-social behaviour
+,-1.76374	,51.560052	,Anti-social behaviour
+,-1.762961	,51.560149	,Anti-social behaviour
+,-1.755554	,51.556043	,Anti-social behaviour
+,-1.755958	,51.556026	,Anti-social behaviour
+,-1.757723	,51.557792	,Bicycle theft
+,-1.762626	,51.560805	,Burglary
+,-1.755124	,51.558173	,Criminal damage and arson
+,-1.762626	,51.560805	,Criminal damage and arson
+,-1.755554	,51.556043	,Criminal damage and arson
+,-1.76374	,51.560052	,Criminal damage and arson
+,-1.760817	,51.559111	,Criminal damage and arson
+,-1.762626	,51.560805	,Criminal damage and arson
+,-1.764496	,51.561681	,Other theft
+,-1.755554	,51.556043	,Robbery
+,-1.762343	,51.562378	,Violence and sexual offences
+,-1.762343	,51.562378	,Violence and sexual offences
+,-1.757498	,51.559338	,Violence and sexual offences
+,-1.762961	,51.560149	,Violence and sexual offences
+,-1.757498	,51.559338	,Violence and sexual offences
+,-1.75615	,51.563228	,Anti-social behaviour
+,-1.760486	,51.564433	,Anti-social behaviour
+,-1.75761	,51.565407	,Anti-social behaviour
+,-1.756226	,51.5625	,Anti-social behaviour
+,-1.75761	,51.565407	,Anti-social behaviour
+,-1.761489	,51.563069	,Anti-social behaviour
+,-1.7608	,51.562375	,Anti-social behaviour
+,-1.759689	,51.562364	,Anti-social behaviour
+,-1.75615	,51.563228	,Anti-social behaviour
+,-1.7608	,51.562375	,Anti-social behaviour
+,-1.760345	,51.563723	,Anti-social behaviour
+,-1.755376	,51.564935	,Anti-social behaviour
+,-1.75615	,51.563228	,Criminal damage and arson
+,-1.76348	,51.562983	,Drugs
+,-1.75761	,51.565407	,Drugs
+,-1.758695	,51.562029	,Other theft
+,-1.759689	,51.562364	,Other theft
+,-1.759731	,51.565259	,Other theft
+,-1.755376	,51.564935	,Public order
+,-1.754179	,51.564897	,Shoplifting
+,-1.75761	,51.565407	,Violence and sexual offences
+,-1.761509	,51.564615	,Violence and sexual offences
+,-1.758695	,51.562029	,Violence and sexual offences
+,-1.76348	,51.562983	,Violence and sexual offences
+,-1.75615	,51.563228	,Violence and sexual offences
+,-1.772375	,51.564043	,Anti-social behaviour
+,-1.764451	,51.570537	,Anti-social behaviour
+,-1.773919	,51.56704	,Anti-social behaviour
+,-1.761711	,51.564768	,Anti-social behaviour
+,-1.772375	,51.564043	,Anti-social behaviour
+,-1.771061	,51.564436	,Anti-social behaviour
+,-1.769408	,51.568884	,Anti-social behaviour
+,-1.769408	,51.568884	,Anti-social behaviour
+,-1.768531	,51.562543	,Anti-social behaviour
+,-1.764451	,51.570537	,Anti-social behaviour
+,-1.76289	,51.568286	,Anti-social behaviour
+,-1.767653	,51.564996	,Burglary
+,-1.767703	,51.569402	,Burglary
+,-1.761711	,51.564768	,Burglary
+,-1.767703	,51.569402	,Criminal damage and arson
+,-1.769408	,51.568884	,Drugs
+,-1.769408	,51.568884	,Other theft
+,-1.769408	,51.568884	,Other theft
+,-1.769408	,51.568884	,Other theft
+,-1.769408	,51.568884	,Other theft
+,-1.769408	,51.568884	,Other theft
+,-1.769408	,51.568884	,Other theft
+,-1.769408	,51.568884	,Possession of weapons
+,-1.7737	,51.56749	,Shoplifting
+,-1.7737	,51.56749	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.7737	,51.56749	,Shoplifting
+,-1.771515	,51.56299	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.7737	,51.56749	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.7737	,51.56749	,Shoplifting
+,-1.769408	,51.568884	,Shoplifting
+,-1.769408	,51.568884	,Violence and sexual offences
+,-1.769408	,51.568884	,Violence and sexual offences
+,-1.768531	,51.562543	,Violence and sexual offences
+,-1.771061	,51.564436	,Violence and sexual offences
+,-1.773963	,51.560944	,Anti-social behaviour
+,-1.77553	,51.559086	,Anti-social behaviour
+,-1.775544	,51.559293	,Anti-social behaviour
+,-1.775207	,51.560371	,Bicycle theft
+,-1.77553	,51.559086	,Burglary
+,-1.774651	,51.556081	,Burglary
+,-1.777231	,51.559314	,Criminal damage and arson
+,-1.774102	,51.562095	,Criminal damage and arson
+,-1.773245	,51.560242	,Criminal damage and arson
+,-1.77772	,51.559756	,Criminal damage and arson
+,-1.774133	,51.558616	,Drugs
+,-1.774104	,51.561556	,Other theft
+,-1.775544	,51.559293	,Shoplifting
+,-1.777849	,51.562759	,Shoplifting
+,-1.775544	,51.559293	,Shoplifting
+,-1.771299	,51.560067	,Anti-social behaviour
+,-1.769159	,51.561079	,Anti-social behaviour
+,-1.772302	,51.558513	,Anti-social behaviour
+,-1.766749	,51.561263	,Anti-social behaviour
+,-1.76777	,51.561966	,Criminal damage and arson
+,-1.772302	,51.558513	,Drugs
+,-1.768662	,51.559423	,Other theft
+,-1.771177	,51.561469	,Shoplifting
+,-1.771177	,51.561469	,Shoplifting
+,-1.765911	,51.558645	,Violence and sexual offences
+,-1.772302	,51.558513	,Violence and sexual offences
+,-1.769897	,51.554867	,Anti-social behaviour
+,-1.762569	,51.555014	,Anti-social behaviour
+,-1.766518	,51.555733	,Criminal damage and arson
+,-1.846481	,51.55207	,Other theft
+,-1.843849	,51.558208	,Public order
+,-1.845605	,51.555153	,Violence and sexual offences
+,-1.846107	,51.555945	,Violence and sexual offences
+,-1.843093	,51.555815	,Anti-social behaviour
+,-1.839746	,51.552034	,Anti-social behaviour
+,-1.841323	,51.554581	,Anti-social behaviour
+,-1.841323	,51.554581	,Bicycle theft
+,-1.842527	,51.552784	,Criminal damage and arson
+,-1.841323	,51.554581	,Robbery
+,-1.839746	,51.552034	,Violence and sexual offences
+,-1.837533	,51.553587	,Violence and sexual offences
+,-1.856406	,51.560561	,Anti-social behaviour
+,-1.844449	,51.560007	,Burglary
+,-1.854946	,51.561297	,Criminal damage and arson
+,-1.854946	,51.561297	,Drugs
+,-1.843559	,51.563099	,Other theft
+,-1.846521	,51.565719	,Violence and sexual offences
+,-1.847484	,51.558401	,Violence and sexual offences
+,-1.835837	,51.56004	,Anti-social behaviour
+,-1.84031	,51.56393	,Anti-social behaviour
+,-1.835642	,51.55825	,Anti-social behaviour
+,-1.838016	,51.559782	,Anti-social behaviour
+,-1.841392	,51.563968	,Anti-social behaviour
+,-1.837462	,51.557462	,Anti-social behaviour
+,-1.835837	,51.56004	,Anti-social behaviour
+,-1.836333	,51.558575	,Criminal damage and arson
+,-1.840457	,51.563023	,Public order
+,-1.837462	,51.557462	,Vehicle crime
+,-1.784955	,51.561001	,Anti-social behaviour
+,-1.78594	,51.560184	,Anti-social behaviour
+,-1.78993	,51.558375	,Anti-social behaviour
+,-1.786679	,51.559467	,Anti-social behaviour
+,-1.786679	,51.559467	,Anti-social behaviour
+,-1.78789	,51.559505	,Anti-social behaviour
+,-1.784955	,51.561001	,Anti-social behaviour
+,-1.787797	,51.557805	,Anti-social behaviour
+,-1.786679	,51.559467	,Anti-social behaviour
+,-1.78594	,51.560184	,Anti-social behaviour
+,-1.78594	,51.560184	,Burglary
+,-1.78993	,51.558375	,Criminal damage and arson
+,-1.783217	,51.559433	,Criminal damage and arson
+,-1.790269	,51.556749	,Criminal damage and arson
+,-1.789009	,51.557924	,Criminal damage and arson
+,-1.783217	,51.559433	,Other theft
+,-1.783217	,51.559433	,Other theft
+,-1.784955	,51.561001	,Other theft
+,-1.78594	,51.560184	,Shoplifting
+,-1.784955	,51.561001	,Shoplifting
+,-1.78594	,51.560184	,Shoplifting
+,-1.78594	,51.560184	,Shoplifting
+,-1.783217	,51.559433	,Shoplifting
+,-1.784513	,51.56002	,Shoplifting
+,-1.783217	,51.559433	,Shoplifting
+,-1.784513	,51.56002	,Shoplifting
+,-1.783217	,51.559433	,Shoplifting
+,-1.784955	,51.561001	,Shoplifting
+,-1.78594	,51.560184	,Shoplifting
+,-1.78594	,51.560184	,Shoplifting
+,-1.78594	,51.560184	,Shoplifting
+,-1.791449	,51.55729	,Vehicle crime
+,-1.78594	,51.560184	,Violence and sexual offences
+,-1.791449	,51.55729	,Violence and sexual offences
+,-1.786679	,51.559467	,Violence and sexual offences
+,-1.791449	,51.55729	,Violence and sexual offences
+,-1.78594	,51.560184	,Violence and sexual offences
+,-1.78993	,51.558375	,Violence and sexual offences
+,-1.785499	,51.558943	,Anti-social behaviour
+,-1.785085	,51.557899	,Anti-social behaviour
+,-1.785243	,51.558007	,Anti-social behaviour
+,-1.785576	,51.554816	,Anti-social behaviour
+,-1.784435	,51.558024	,Anti-social behaviour
+,-1.783401	,51.554174	,Anti-social behaviour
+,-1.785085	,51.557899	,Anti-social behaviour
+,-1.784435	,51.558024	,Criminal damage and arson
+,-1.785499	,51.558943	,Criminal damage and arson
+,-1.784852	,51.555282	,Drugs
+,-1.78567	,51.556264	,Violence and sexual offences
+,-1.780883	,51.555922	,Anti-social behaviour
+,-1.786099	,51.554008	,Anti-social behaviour
+,-1.786099	,51.554008	,Anti-social behaviour
+,-1.786918	,51.55463	,Burglary
+,-1.780771	,51.555068	,Criminal damage and arson
+,-1.782956	,51.556708	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.783767	,51.562051	,Anti-social behaviour
+,-1.780424	,51.558295	,Anti-social behaviour
+,-1.783767	,51.562051	,Anti-social behaviour
+,-1.779354	,51.561746	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.782248	,51.560088	,Anti-social behaviour
+,-1.780809	,51.56236	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.781979	,51.558909	,Anti-social behaviour
+,-1.783294	,51.561402	,Anti-social behaviour
+,-1.782248	,51.560088	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.780809	,51.56236	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.779716	,51.558599	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.780809	,51.56236	,Anti-social behaviour
+,-1.781431	,51.558845	,Anti-social behaviour
+,-1.78127	,51.559421	,Anti-social behaviour
+,-1.782248	,51.560088	,Anti-social behaviour
+,-1.782248	,51.560088	,Anti-social behaviour
+,-1.782153	,51.561742	,Anti-social behaviour
+,-1.783767	,51.562051	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.778565	,51.557905	,Anti-social behaviour
+,-1.781979	,51.558909	,Anti-social behaviour
+,-1.782248	,51.560088	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.783277	,51.562068	,Anti-social behaviour
+,-1.781431	,51.558845	,Anti-social behaviour
+,-1.780809	,51.56236	,Bicycle theft
+,-1.781979	,51.558909	,Bicycle theft
+,-1.781979	,51.558909	,Bicycle theft
+,-1.781979	,51.558909	,Bicycle theft
+,-1.7827	,51.555899	,Burglary
+,-1.780424	,51.558295	,Burglary
+,-1.782649	,51.56061	,Burglary
+,-1.783767	,51.562051	,Burglary
+,-1.782248	,51.560088	,Criminal damage and arson
+,-1.78127	,51.559421	,Criminal damage and arson
+,-1.779385	,51.56135	,Criminal damage and arson
+,-1.778878	,51.558958	,Criminal damage and arson
+,-1.781431	,51.558845	,Criminal damage and arson
+,-1.782248	,51.560088	,Criminal damage and arson
+,-1.781431	,51.558845	,Criminal damage and arson
+,-1.781431	,51.558845	,Drugs
+,-1.783277	,51.562068	,Other theft
+,-1.779354	,51.561746	,Other theft
+,-1.783277	,51.562068	,Other theft
+,-1.782248	,51.560088	,Other theft
+,-1.781979	,51.558909	,Other theft
+,-1.783277	,51.562068	,Other theft
+,-1.784847	,51.559463	,Possession of weapons
+,-1.782248	,51.560088	,Possession of weapons
+,-1.780424	,51.558295	,Public order
+,-1.781712	,51.560518	,Public order
+,-1.783767	,51.562051	,Shoplifting
+,-1.782649	,51.56061	,Shoplifting
+,-1.783767	,51.562051	,Shoplifting
+,-1.783767	,51.562051	,Shoplifting
+,-1.783277	,51.562068	,Shoplifting
+,-1.782649	,51.56061	,Shoplifting
+,-1.783767	,51.562051	,Shoplifting
+,-1.783294	,51.561402	,Shoplifting
+,-1.783767	,51.562051	,Shoplifting
+,-1.783767	,51.562051	,Shoplifting
+,-1.783294	,51.561402	,Shoplifting
+,-1.783767	,51.562051	,Shoplifting
+,-1.782649	,51.56061	,Shoplifting
+,-1.783277	,51.562068	Theft from the person
+,-1.783277	,51.562068	Theft from the person
+,-1.783294	,51.561402	Theft from the person
+,-1.783277	,51.562068	Theft from the person
+,-1.78127	,51.559421	,Vehicle crime
+,-1.779385	,51.56135	,Vehicle crime
+,-1.777984	,51.558857	,Vehicle crime
+,-1.782154	,51.561499	,Vehicle crime
+,-1.782154	,51.561499	,Vehicle crime
+,-1.780424	,51.558295	,Violence and sexual offences
+,-1.779385	,51.56135	,Violence and sexual offences
+,-1.780424	,51.558295	,Violence and sexual offences
+,-1.780424	,51.558295	,Violence and sexual offences
+,-1.783277	,51.562068	,Violence and sexual offences
+,-1.778878	,51.558958	,Violence and sexual offences
+,-1.783277	,51.562068	,Violence and sexual offences
+,-1.783277	,51.562068	,Violence and sexual offences
+,-1.782248	,51.560088	,Violence and sexual offences
+,-1.778878	,51.558958	,Violence and sexual offences
+,-1.78127	,51.559421	,Violence and sexual offences
+,-1.781979	,51.558909	,Violence and sexual offences
+,-1.783277	,51.562068	,Violence and sexual offences
+,-1.780424	,51.558295	,Violence and sexual offences
+,-1.783277	,51.562068	,Violence and sexual offences
+,-1.783294	,51.561402	,Violence and sexual offences
+,-1.783277	,51.562068	,Violence and sexual offences
+,-1.781979	,51.558909	,Violence and sexual offences
+,-1.778878	,51.558958	,Violence and sexual offences
+,-1.783767	,51.562051	,Violence and sexual offences
+,-1.78031	,51.557962	,Other crime
+,-1.777778	,51.553687	,Anti-social behaviour
+,-1.778073	,51.555297	,Anti-social behaviour
+,-1.778265	,51.557437	,Anti-social behaviour
+,-1.776511	,51.553145	,Anti-social behaviour
+,-1.776511	,51.553145	,Anti-social behaviour
+,-1.776768	,51.553837	,Anti-social behaviour
+,-1.776511	,51.553145	,Anti-social behaviour
+,-1.776511	,51.553145	,Anti-social behaviour
+,-1.778455	,51.556862	,Anti-social behaviour
+,-1.777688	,51.55437	,Anti-social behaviour
+,-1.775917	,51.553818	,Anti-social behaviour
+,-1.77837	,51.553589	,Burglary
+,-1.777688	,51.55437	,Burglary
+,-1.778596	,51.554533	,Criminal damage and arson
+,-1.776511	,51.553145	,Criminal damage and arson
+,-1.776768	,51.553837	,Criminal damage and arson
+,-1.775917	,51.553818	,Criminal damage and arson
+,-1.778426	,51.55385	,Drugs
+,-1.776768	,51.553837	,Other theft
+,-1.778265	,51.557437	,Public order
+,-1.777778	,51.553687	,Shoplifting
+,-1.777778	,51.553687	,Shoplifting
+,-1.776511	,51.553145	,Vehicle crime
+,-1.77823	,51.55571	,Vehicle crime
+,-1.776511	,51.553145	,Violence and sexual offences
+,-1.778596	,51.554533	,Violence and sexual offences
+,-1.778596	,51.554533	,Violence and sexual offences
+,-1.775917	,51.553818	,Violence and sexual offences
+,-1.776768	,51.553837	,Violence and sexual offences
+,-1.778596	,51.554533	,Other crime
+,-1.745629	,51.556328	,Anti-social behaviour
+,-1.743672	,51.560513	,Anti-social behaviour
+,-1.745629	,51.556328	,Anti-social behaviour
+,-1.746763	,51.557328	,Anti-social behaviour
+,-1.750286	,51.556589	,Anti-social behaviour
+,-1.746763	,51.557328	,Anti-social behaviour
+,-1.742979	,51.558084	,Burglary
+,-1.748493	,51.557431	,Criminal damage and arson
+,-1.750286	,51.556589	,Criminal damage and arson
+,-1.747976	,51.559669	,Criminal damage and arson
+,-1.747976	,51.559669	,Criminal damage and arson
+,-1.742979	,51.558084	,Drugs
+,-1.743672	,51.560513	,Violence and sexual offences
+,-1.745629	,51.556328	,Violence and sexual offences
+,-1.746763	,51.557328	,Violence and sexual offences
+,-1.743439	,51.555739	,Anti-social behaviour
+,-1.744683	,51.549987	,Anti-social behaviour
+,-1.743994	,51.554652	,Anti-social behaviour
+,-1.744889	,51.549376	,Anti-social behaviour
+,-1.746279	,51.548291	,Anti-social behaviour
+,-1.743439	,51.555739	,Anti-social behaviour
+,-1.743584	,51.553167	,Bicycle theft
+,-1.745312	,51.551013	,Burglary
+,-1.745424	,51.549098	,Burglary
+,-1.745244	,51.552892	,Criminal damage and arson
+,-1.743439	,51.555739	,Drugs
+,-1.744732	,51.551614	,Other theft
+,-1.745244	,51.552892	,Violence and sexual offences
+,-1.743439	,51.555739	,Violence and sexual offences
+,-1.745244	,51.552892	,Violence and sexual offences
+,-1.757075	,51.554814	,Anti-social behaviour
+,-1.752125	,51.55529	,Anti-social behaviour
+,-1.757815	,51.553944	,Anti-social behaviour
+,-1.754843	,51.556779	,Anti-social behaviour
+,-1.757815	,51.553944	,Anti-social behaviour
+,-1.75426	,51.552615	,Anti-social behaviour
+,-1.748221	,51.554454	,Anti-social behaviour
+,-1.75497	,51.557256	,Anti-social behaviour
+,-1.75426	,51.552615	,Anti-social behaviour
+,-1.751207	,51.554272	,Anti-social behaviour
+,-1.751207	,51.554272	,Anti-social behaviour
+,-1.752125	,51.55529	,Anti-social behaviour
+,-1.757075	,51.554814	,Anti-social behaviour
+,-1.754843	,51.556779	,Anti-social behaviour
+,-1.757075	,51.554814	,Anti-social behaviour
+,-1.752125	,51.55529	,Burglary
+,-1.752125	,51.55529	,Burglary
+,-1.748221	,51.554454	,Other theft
+,-1.752125	,51.55529	,Public order
+,-1.755495	,51.556277	,Violence and sexual offences
+,-1.755939	,51.554156	,Violence and sexual offences
+,-1.755495	,51.556277	,Violence and sexual offences
+,-1.754843	,51.556779	,Violence and sexual offences
+,-1.757075	,51.554814	,Other crime
+,-1.751645	,51.553329	,Anti-social behaviour
+,-1.750015	,51.550762	,Anti-social behaviour
+,-1.749656	,51.553198	,Anti-social behaviour
+,-1.749656	,51.553198	,Anti-social behaviour
+,-1.749656	,51.553198	,Anti-social behaviour
+,-1.749659	,51.552542	,Anti-social behaviour
+,-1.748004	,51.551864	,Anti-social behaviour
+,-1.746446	,51.554513	,Anti-social behaviour
+,-1.751645	,51.553329	,Anti-social behaviour
+,-1.749659	,51.552542	,Anti-social behaviour
+,-1.750866	,51.553498	,Anti-social behaviour
+,-1.750866	,51.553498	,Anti-social behaviour
+,-1.750866	,51.553498	,Anti-social behaviour
+,-1.751645	,51.553329	,Anti-social behaviour
+,-1.749656	,51.553198	,Anti-social behaviour
+,-1.750866	,51.553498	,Anti-social behaviour
+,-1.748004	,51.551864	,Anti-social behaviour
+,-1.750672	,51.549361	,Anti-social behaviour
+,-1.746446	,51.554513	,Burglary
+,-1.74795	,51.551271	,Burglary
+,-1.749659	,51.552542	,Criminal damage and arson
+,-1.746439	,51.550692	,Criminal damage and arson
+,-1.747737	,51.550596	,Criminal damage and arson
+,-1.748004	,51.551864	,Criminal damage and arson
+,-1.749656	,51.553198	,Criminal damage and arson
+,-1.749656	,51.553198	,Criminal damage and arson
+,-1.749659	,51.552542	,Other theft
+,-1.747854	,51.552898	,Other theft
+,-1.750866	,51.553498	,Other theft
+,-1.747854	,51.552898	,Other theft
+,-1.750866	,51.553498	,Other theft
+,-1.750672	,51.549361	,Robbery
+,-1.750866	,51.553498	,Shoplifting
+,-1.750866	,51.553498	,Shoplifting
+,-1.750866	,51.553498	,Shoplifting
+,-1.750866	,51.553498	,Shoplifting
+,-1.750866	,51.553498	,Shoplifting
+,-1.750866	,51.553498	,Shoplifting
+,-1.750866	,51.553498	,Shoplifting
+,-1.751588	,51.553265	,Violence and sexual offences
+,-1.751645	,51.553329	,Violence and sexual offences
+,-1.748004	,51.551864	,Violence and sexual offences
+,-1.749656	,51.553198	,Other crime
+,-1.749313	,51.547362	,Anti-social behaviour
+,-1.755959	,51.550307	,Anti-social behaviour
+,-1.752857	,51.5479	,Anti-social behaviour
+,-1.752857	,51.5479	,Criminal damage and arson
+,-1.749313	,51.547362	,Criminal damage and arson
+,-1.749313	,51.547362	,Criminal damage and arson
+,-1.754642	,51.548641	,Other theft
+,-1.752857	,51.5479	,Violence and sexual offences
+,-1.749313	,51.547362	,Violence and sexual offences
+,-1.757933	,51.550752	,Violence and sexual offences
+,-1.796765	,51.555501	,Anti-social behaviour
+,-1.807781	,51.553002	,Anti-social behaviour
+,-1.80599	,51.553584	,Anti-social behaviour
+,-1.799058	,51.55564	,Anti-social behaviour
+,-1.802801	,51.553938	,Anti-social behaviour
+,-1.807781	,51.553002	,Anti-social behaviour
+,-1.799058	,51.55564	,Anti-social behaviour
+,-1.805392	,51.551703	,Anti-social behaviour
+,-1.798855	,51.555775	,Anti-social behaviour
+,-1.796765	,51.555501	,Anti-social behaviour
+,-1.805639	,51.554824	,Bicycle theft
+,-1.799587	,51.556603	,Criminal damage and arson
+,-1.801548	,51.553603	,Criminal damage and arson
+,-1.801425	,51.558602	,Criminal damage and arson
+,-1.795151	,51.555274	,Other theft
+,-1.798875	,51.554669	,Vehicle crime
+,-1.79625	,51.554637	,Anti-social behaviour
+,-1.798509	,51.552591	,Anti-social behaviour
+,-1.798509	,51.552591	,Anti-social behaviour
+,-1.798818	,51.554471	,Anti-social behaviour
+,-1.790833	,51.553216	,Anti-social behaviour
+,-1.798818	,51.554471	,Burglary
+,-1.794589	,51.555111	,Criminal damage and arson
+,-1.790833	,51.553216	,Criminal damage and arson
+,-1.798818	,51.554471	,Drugs
+,-1.798818	,51.554471	,Other theft
+,-1.798818	,51.554471	,Vehicle crime
+,-1.790833	,51.553216	,Violence and sexual offences
+,-1.796465	,51.554817	,Violence and sexual offences
+,-1.796465	,51.554817	,Violence and sexual offences
+,-1.798818	,51.554471	,Violence and sexual offences
+,-1.79625	,51.554637	,Violence and sexual offences
+,-1.781649	,51.552615	,Anti-social behaviour
+,-1.778566	,51.551881	,Anti-social behaviour
+,-1.785685	,51.549898	,Anti-social behaviour
+,-1.785685	,51.549898	,Anti-social behaviour
+,-1.785685	,51.549898	,Anti-social behaviour
+,-1.778566	,51.551881	,Anti-social behaviour
+,-1.785685	,51.549898	,Criminal damage and arson
+,-1.781649	,51.552615	Theft from the person
+,-1.778566	,51.551881	,Violence and sexual offences
+,-1.781649	,51.552615	,Violence and sexual offences
+,-1.778566	,51.551881	,Violence and sexual offences
+,-1.781649	,51.552615	,Violence and sexual offences
+,-1.777208	,51.549352	,Violence and sexual offences
+,-1.796066	,51.550474	,Anti-social behaviour
+,-1.792649	,51.550324	,Anti-social behaviour
+,-1.794106	,51.550318	,Violence and sexual offences
+,-1.789375	,51.550435	,Anti-social behaviour
+,-1.788613	,51.546702	,Anti-social behaviour
+,-1.782619	,51.54563	,Anti-social behaviour
+,-1.787448	,51.552374	,Anti-social behaviour
+,-1.787448	,51.552374	,Anti-social behaviour
+,-1.783247	,51.54716	,Bicycle theft
+,-1.784066	,51.547593	,Criminal damage and arson
+,-1.800996	,51.551193	,Other theft
+,-1.787448	,51.552374	,Violence and sexual offences
+,-1.787448	,51.552374	,Violence and sexual offences
+,-1.832592	,51.54814	,Anti-social behaviour
+,-1.831674	,51.55071	,Criminal damage and arson
+,-1.836565	,51.554215	,Anti-social behaviour
+,-1.833226	,51.552169	,Anti-social behaviour
+,-1.836565	,51.554215	,Anti-social behaviour
+,-1.836356	,51.552146	,Criminal damage and arson
+,-1.836565	,51.554215	,Criminal damage and arson
+,-1.834214	,51.554175	,Violence and sexual offences
+,-1.845733	,51.547106	,Anti-social behaviour
+,-1.839353	,51.548707	,Anti-social behaviour
+,-1.837117	,51.548946	,Anti-social behaviour
+,-1.837117	,51.548946	,Anti-social behaviour
+,-1.837053	,51.550664	,Anti-social behaviour
+,-1.839353	,51.548707	,Anti-social behaviour
+,-1.839353	,51.548707	,Anti-social behaviour
+,-1.841949	,51.548908	,Anti-social behaviour
+,-1.841949	,51.548908	,Criminal damage and arson
+,-1.837053	,51.550664	,Violence and sexual offences
+,-1.841949	,51.548908	,Violence and sexual offences
+,-1.845733	,51.547106	,Violence and sexual offences
+,-1.841949	,51.548908	,Violence and sexual offences
+,-1.840736	,51.549131	,Violence and sexual offences
+,-1.83841	,51.550378	,Violence and sexual offences
+,-1.828929	,51.555714	,Anti-social behaviour
+,-1.828772	,51.559131	,Anti-social behaviour
+,-1.830386	,51.559511	,Anti-social behaviour
+,-1.826866	,51.559605	,Anti-social behaviour
+,-1.831076	,51.552525	,Anti-social behaviour
+,-1.832791	,51.55679	,Anti-social behaviour
+,-1.830424	,51.557254	,Anti-social behaviour
+,-1.827617	,51.555551	,Burglary
+,-1.830272	,51.555437	,Criminal damage and arson
+,-1.830407	,51.553945	,Criminal damage and arson
+,-1.828772	,51.559131	,Criminal damage and arson
+,-1.828772	,51.559131	,Drugs
+,-1.832791	,51.55679	,Other theft
+,-1.830386	,51.559511	,Other theft
+,-1.828772	,51.559131	,Other theft
+,-1.828772	,51.559131	,Shoplifting
+,-1.830386	,51.559511	Theft from the person
+,-1.830386	,51.559511	Theft from the person
+,-1.83314	,51.555873	,Violence and sexual offences
+,-1.830386	,51.559511	,Violence and sexual offences
+,-1.830861	,51.556077	,Violence and sexual offences
+,-1.830386	,51.559511	,Violence and sexual offences
+,-1.824969	,51.554117	,Anti-social behaviour
+,-1.820361	,51.552087	,Anti-social behaviour
+,-1.821264	,51.553527	,Anti-social behaviour
+,-1.826417	,51.552672	,Anti-social behaviour
+,-1.820915	,51.55439	,Anti-social behaviour
+,-1.826417	,51.552672	,Anti-social behaviour
+,-1.821264	,51.553527	,Anti-social behaviour
+,-1.823613	,51.554151	,Burglary
+,-1.821264	,51.553527	,Criminal damage and arson
+,-1.822268	,51.555093	,Other theft
+,-1.821264	,51.553527	,Shoplifting
+,-1.819369	,51.55516	,Vehicle crime
+,-1.820361	,51.552087	,Violence and sexual offences
+,-1.82699	,51.55367	,Violence and sexual offences
+,-1.820915	,51.55439	,Violence and sexual offences
+,-1.820361	,51.552087	,Violence and sexual offences
+,-1.817387	,51.552856	,Anti-social behaviour
+,-1.826608	,51.551584	,Anti-social behaviour
+,-1.826608	,51.551584	,Anti-social behaviour
+,-1.818283	,51.552497	,Anti-social behaviour
+,-1.823775	,51.549539	,Anti-social behaviour
+,-1.817387	,51.552856	,Anti-social behaviour
+,-1.817387	,51.552856	,Violence and sexual offences
+,-1.737556	,51.550511	,Criminal damage and arson
+,-1.737556	,51.550511	,Violence and sexual offences
+,-1.730057	,51.547859	,Anti-social behaviour
+,-1.728808	,51.551866	,Criminal damage and arson
+,-1.727996	,51.547773	,Criminal damage and arson
+,-1.730304	,51.550018	,Criminal damage and arson
+,-1.730057	,51.547859	,Shoplifting
+,-1.730057	,51.547859	,Shoplifting
+,-1.730057	,51.547859	,Shoplifting
+,-1.731763	,51.549607	,Violence and sexual offences
+,-1.726257	,51.549118	,Violence and sexual offences
+,-1.736021	,51.546587	,Anti-social behaviour
+,-1.734282	,51.548013	,Burglary
+,-1.728286	,51.545041	,Criminal damage and arson
+,-1.728286	,51.545041	,Violence and sexual offences
+,-1.725355	,51.545618	,Anti-social behaviour
+,-1.724394	,51.544717	,Violence and sexual offences
+,-1.725355	,51.545618	,Violence and sexual offences
+,-1.726861	,51.544525	,Violence and sexual offences
+,-1.725355	,51.545618	,Violence and sexual offences
+,-1.736057	,51.552782	,Anti-social behaviour
+,-1.736057	,51.552782	,Anti-social behaviour
+,-1.737741	,51.555852	,Burglary
+,-1.736057	,51.552782	,Criminal damage and arson
+,-1.734775	,51.554955	,Criminal damage and arson
+,-1.732608	,51.553125	,Criminal damage and arson
+,-1.735633	,51.553815	,Other theft
+,-1.731187	,51.556925	,Violence and sexual offences
+,-1.734375	,51.556869	,Anti-social behaviour
+,-1.734375	,51.556869	,Anti-social behaviour
+,-1.735884	,51.555344	,Anti-social behaviour
+,-1.735884	,51.555344	,Anti-social behaviour
+,-1.733528	,51.55854	,Bicycle theft
+,-1.734375	,51.556869	,Burglary
+,-1.733528	,51.55854	,Criminal damage and arson
+,-1.734375	,51.556869	,Criminal damage and arson
+,-1.736631	,51.558322	,Criminal damage and arson
+,-1.733528	,51.55854	,Criminal damage and arson
+,-1.735884	,51.555344	,Other theft
+,-1.733528	,51.55854	,Other theft
+,-1.734375	,51.556869	,Shoplifting
+,-1.734375	,51.556869	,Violence and sexual offences
+,-1.762198	,51.548657	,Burglary
+,-1.77158	,51.550105	,Criminal damage and arson
+,-1.767449	,51.548497	,Criminal damage and arson
+,-1.767449	,51.548497	,Criminal damage and arson
+,-1.760656	,51.548465	,Other theft
+,-1.767424	,51.544864	,Other theft
+,-1.760656	,51.548465	,Shoplifting
+,-1.772773	,51.550836	,Anti-social behaviour
+,-1.760198	,51.550523	,Anti-social behaviour
+,-1.775525	,51.551461	,Anti-social behaviour
+,-1.775722	,51.552442	,Anti-social behaviour
+,-1.773893	,51.551737	,Anti-social behaviour
+,-1.775722	,51.552442	,Anti-social behaviour
+,-1.780486	,51.548477	,Anti-social behaviour
+,-1.775722	,51.552442	,Anti-social behaviour
+,-1.771575	,51.551112	,Anti-social behaviour
+,-1.775722	,51.552442	,Anti-social behaviour
+,-1.775722	,51.552442	,Anti-social behaviour
+,-1.776807	,51.551662	,Anti-social behaviour
+,-1.775722	,51.552442	,Criminal damage and arson
+,-1.775722	,51.552442	,Criminal damage and arson
+,-1.771963	,51.551212	,Criminal damage and arson
+,-1.773893	,51.551737	,Criminal damage and arson
+,-1.775722	,51.552442	,Drugs
+,-1.773893	,51.551737	,Other theft
+,-1.773893	,51.551737	,Other theft
+,-1.775722	,51.552442	,Other theft
+,-1.773893	,51.551737	,Other theft
+,-1.772725	,51.551789	,Other theft
+,-1.775722	,51.552442	,Public order
+,-1.776315	,51.552074	Theft from the person
+,-1.776315	,51.552074	,Violence and sexual offences
+,-1.775722	,51.552442	,Violence and sexual offences
+,-1.776315	,51.552074	,Violence and sexual offences
+,-1.773893	,51.551737	,Violence and sexual offences
+,-1.746629	,51.545082	,Bicycle theft
+,-1.749429	,51.544512	,Other theft
+,-1.762792	,51.542625	,Other theft
+,-1.749429	,51.544512	,Other theft
+,-1.746629	,51.545082	,Other theft
+,-1.7932	,51.543339	,Anti-social behaviour
+,-1.791227	,51.542805	,Anti-social behaviour
+,-1.7932	,51.543339	,Anti-social behaviour
+,-1.792531	,51.541476	,Anti-social behaviour
+,-1.786734	,51.541412	,Anti-social behaviour
+,-1.791792	,51.542275	,Anti-social behaviour
+,-1.787574	,51.540649	,Criminal damage and arson
+,-1.78963	,51.542056	,Criminal damage and arson
+,-1.792481	,51.542852	,Criminal damage and arson
+,-1.791227	,51.542805	,Criminal damage and arson
+,-1.787574	,51.540649	,Criminal damage and arson
+,-1.790453	,51.541751	,Criminal damage and arson
+,-1.754161	,51.5441	,Drugs
+,-1.754161	,51.5441	,Violence and sexual offences
+,-1.791227	,51.542805	,Violence and sexual offences
+,-1.737593	,51.543965	,Anti-social behaviour
+,-1.767957	,51.510958	,Anti-social behaviour
+,-1.737593	,51.543965	,Anti-social behaviour
+,-1.787687	,51.519591	,Anti-social behaviour
+,-1.771114	,51.513581	,Anti-social behaviour
+,-1.733937	,51.495816	,Anti-social behaviour
+,-1.737593	,51.543965	,Anti-social behaviour
+,-1.729511	,51.5013	,Anti-social behaviour
+,-1.737593	,51.543965	,Anti-social behaviour
+,-1.788314	,51.511761	,Criminal damage and arson
+,-1.737593	,51.543965	,Other theft
+,-1.782622	,51.520778	,Vehicle crime
+,-1.79394	,51.529628	,Other theft
+,-1.79224	,51.529319	,Other theft
+,-1.79224	,51.529319	,Public order
+,-1.79409	,51.528127	,Vehicle crime
+,-1.790553	,51.529307	,Violence and sexual offences
+,-1.79224	,51.529319	,Violence and sexual offences
+,-1.819684	,51.537295	,Anti-social behaviour
+,-1.841422	,51.542748	,Anti-social behaviour
+,-1.788204	,51.526057	,Anti-social behaviour
+,-1.788204	,51.526057	,Anti-social behaviour
+,-1.808863	,51.521813	,Anti-social behaviour
+,-1.777224	,51.48384	,Burglary
+,-1.790633	,51.52144	,Burglary
+,-1.783092	,51.522047	,Burglary
+,-1.786406	,51.531386	,Criminal damage and arson
+,-1.786161	,51.525325	,Shoplifting
+,-1.785746	,51.536977	,Violence and sexual offences
+,-1.796545	,51.527331	,Violence and sexual offences
+,-1.793872	,51.525339	,Anti-social behaviour
+,-1.793515	,51.521409	,Anti-social behaviour
+,-1.794601	,51.523668	,Anti-social behaviour
+,-1.792782	,51.524168	,Anti-social behaviour
+,-1.792782	,51.524168	,Anti-social behaviour
+,-1.800219	,51.524316	,Anti-social behaviour
+,-1.789771	,51.526968	,Anti-social behaviour
+,-1.792782	,51.524168	,Anti-social behaviour
+,-1.789771	,51.526968	,Criminal damage and arson
+,-1.792782	,51.524168	,Criminal damage and arson
+,-1.788063	,51.52237	,Criminal damage and arson
+,-1.793886	,51.522309	,Shoplifting
+,-1.789426	,51.523596	,Vehicle crime
+,-1.792782	,51.524168	,Vehicle crime
+,-1.792782	,51.524168	,Violence and sexual offences
+,-1.732746	,51.514687	,Anti-social behaviour
+,-1.72581	,51.517863	,Anti-social behaviour
+,-1.735229	,51.513982	,Burglary
+,-1.72361	,51.514675	,Criminal damage and arson
+,-1.72361	,51.514675	,Other theft
+,-1.72361	,51.514675	,Other theft
+,-1.72361	,51.514675	,Other theft
+,-1.72361	,51.514675	,Vehicle crime
+,-1.72361	,51.514675	,Vehicle crime
+,-1.729057	,51.517106	,Violence and sexual offences
+,-1.819757	,51.591954	,Anti-social behaviour
+,-1.823631	,51.586709	,Anti-social behaviour
+,-1.821211	,51.589286	,Anti-social behaviour
+,-1.819062	,51.588788	,Robbery
+,-1.82071	,51.588215	,Vehicle crime
+,-1.818482	,51.589416	,Vehicle crime
+,-1.816924	,51.589324	,Violence and sexual offences
+,-1.825005	,51.593544	,Anti-social behaviour
+,-1.818212	,51.595566	,Anti-social behaviour
+,-1.827355	,51.594474	,Criminal damage and arson
+,-1.82317	,51.59774	,Violence and sexual offences
+,-1.828542	,51.597506	,Anti-social behaviour
+,-1.831469	,51.602302	,Anti-social behaviour
+,-1.829606	,51.602362	,Drugs
+,-1.836494	,51.602174	,Other theft
+,-1.829606	,51.602362	,Robbery
+,-1.831777	,51.600981	,Robbery
+,-1.834519	,51.601237	,Vehicle crime
+,-1.835133	,51.603171	,Anti-social behaviour
+,-1.837645	,51.603309	,Burglary
+,-1.836199	,51.603963	,Criminal damage and arson
+,-1.833963	,51.60334	,Criminal damage and arson
+,-1.829775	,51.603478	,Other theft
+,-1.830481	,51.604045	,Other theft
+,-1.822663	,51.601831	,Anti-social behaviour
+,-1.824696	,51.602517	,Criminal damage and arson
+,-1.824696	,51.602517	,Violence and sexual offences
+,-1.816032	,51.59576	,Anti-social behaviour
+,-1.817711	,51.59828	,Criminal damage and arson
+,-1.817711	,51.59828	,Violence and sexual offences
+,-1.815787	,51.59924	,Anti-social behaviour
+,-1.815787	,51.59924	,Anti-social behaviour
+,-1.815787	,51.59924	,Anti-social behaviour
+,-1.804872	,51.602702	,Anti-social behaviour
+,-1.809771	,51.601442	,Burglary
+,-1.813677	,51.599668	,Criminal damage and arson
+,-1.815787	,51.59924	,Criminal damage and arson
+,-1.807621	,51.601366	,Criminal damage and arson
+,-1.808656	,51.602312	,Other theft
+,-1.808656	,51.602312	,Other theft
+,-1.808764	,51.60073	,Violence and sexual offences
+,-1.807621	,51.601366	,Violence and sexual offences
+,-1.820601	,51.597566	,Anti-social behaviour
+,-1.825774	,51.596432	,Anti-social behaviour
+,-1.815087	,51.600938	,Anti-social behaviour
+,-1.825061	,51.59795	,Anti-social behaviour
+,-1.820335	,51.599004	,Anti-social behaviour
+,-1.815087	,51.600938	,Bicycle theft
+,-1.820601	,51.597566	,Burglary
+,-1.822533	,51.594404	,Burglary
+,-1.820733	,51.597026	,Burglary
+,-1.815087	,51.600938	,Criminal damage and arson
+,-1.824302	,51.600071	,Drugs
+,-1.820335	,51.599004	,Other theft
+,-1.824236	,51.594559	,Shoplifting
+,-1.820733	,51.597026	,Violence and sexual offences
+,-1.825774	,51.596432	,Violence and sexual offences
+,-1.820733	,51.597026	,Violence and sexual offences
+,-1.816525	,51.602244	,Anti-social behaviour
+,-1.811396	,51.603099	,Anti-social behaviour
+,-1.813084	,51.603533	,Anti-social behaviour
+,-1.805925	,51.60291	,Burglary
+,-1.816525	,51.602244	,Shoplifting
+,-1.816525	,51.602244	,Vehicle crime
+,-1.814313	,51.602978	,Violence and sexual offences
+,-1.819805	,51.601754	,Anti-social behaviour
+,-1.815074	,51.60413	,Anti-social behaviour
+,-1.814647	,51.60261	,Anti-social behaviour
+,-1.813197	,51.604091	,Anti-social behaviour
+,-1.819805	,51.601754	,Anti-social behaviour
+,-1.820092	,51.60215	,Anti-social behaviour
+,-1.812113	,51.604386	,Criminal damage and arson
+,-1.81434	,51.603463	,Criminal damage and arson
+,-1.809889	,51.604436	,Criminal damage and arson
+,-1.816926	,51.603269	,Other theft
+,-1.812113	,51.604386	,Vehicle crime
+,-1.816926	,51.603269	,Violence and sexual offences
+,-1.80595	,51.603845	,Anti-social behaviour
+,-1.80595	,51.603845	,Anti-social behaviour
+,-1.800644	,51.601975	,Burglary
+,-1.80595	,51.603845	,Criminal damage and arson
+,-1.80595	,51.603845	,Criminal damage and arson
+,-1.80595	,51.603845	,Criminal damage and arson
+,-1.80595	,51.603845	,Other theft
+,-1.788923	,51.607709	,Anti-social behaviour
+,-1.781081	,51.598686	,Anti-social behaviour
+,-1.782722	,51.599812	,Anti-social behaviour
+,-1.788244	,51.598411	,Anti-social behaviour
+,-1.788233	,51.59771	,Anti-social behaviour
+,-1.78475	,51.598288	,Anti-social behaviour
+,-1.794871	,51.604672	,Anti-social behaviour
+,-1.788233	,51.59771	,Criminal damage and arson
+,-1.788233	,51.59771	,Criminal damage and arson
+,-1.798278	,51.604911	,Other theft
+,-1.793411	,51.598726	,Shoplifting
+,-1.79019	,51.598954	,Violence and sexual offences
+,-1.788233	,51.59771	,Violence and sexual offences
+,-1.780875	,51.59953	,Violence and sexual offences
+,-1.799062	,51.593943	,Anti-social behaviour
+,-1.799762	,51.592515	,Violence and sexual offences
+,-1.80087	,51.593191	,Violence and sexual offences
+,-1.795287	,51.598873	,Anti-social behaviour
+,-1.795287	,51.598873	,Burglary
+,-1.795287	,51.598873	,Other theft
+,-1.795287	,51.598873	,Other theft
+,-1.795287	,51.598873	,Violence and sexual offences
+,-1.795287	,51.598873	,Violence and sexual offences
+,-1.805112	,51.597226	,Anti-social behaviour
+,-1.805112	,51.597226	,Anti-social behaviour
+,-1.800534	,51.600689	,Anti-social behaviour
+,-1.799496	,51.600508	,Anti-social behaviour
+,-1.805112	,51.597226	,Anti-social behaviour
+,-1.805112	,51.597226	,Anti-social behaviour
+,-1.811547	,51.598073	,Anti-social behaviour
+,-1.800534	,51.600689	,Burglary
+,-1.811547	,51.598073	,Drugs
+,-1.805112	,51.597226	,Drugs
+,-1.805112	,51.597226	,Shoplifting
+,-1.805112	,51.597226	,Shoplifting
+,-1.805112	,51.597226	,Shoplifting
+,-1.805112	,51.597226	,Shoplifting
+,-1.805112	,51.597226	,Shoplifting
+,-1.805112	,51.597226	,Shoplifting
+,-1.813063	,51.598093	,Violence and sexual offences
+,-1.805112	,51.597226	,Violence and sexual offences
+,-1.799496	,51.600508	,Violence and sexual offences
+,-1.541689	,51.245352	,Burglary
+,-1.62215	,51.078468	,Burglary
+,-1.62215	,51.078468	,Other theft
+,-1.62215	,51.078468	,Vehicle crime
+,-1.559478	,51.482487	,Anti-social behaviour
+,-1.92915	,51.645829	,Anti-social behaviour
+,-1.894014	,51.634591	,Anti-social behaviour
+,-1.953691	,51.659283	,Anti-social behaviour
+,-1.937745	,51.649368	,Bicycle theft
+,-1.94248	,51.642249	,Burglary
+,-1.906022	,51.655056	,Burglary
+,-1.933427	,51.646695	,Other theft
+,-1.906022	,51.655056	,Vehicle crime
+,-1.94248	,51.642249	,Vehicle crime
+,-1.953691	,51.659283	,Violence and sexual offences
+,-1.953691	,51.659283	,Violence and sexual offences
+,-1.865798	,51.643374	,Anti-social behaviour
+,-1.867637	,51.64218	,Anti-social behaviour
+,-1.839384	,51.638431	,Anti-social behaviour
+,-1.883698	,51.628881	,Anti-social behaviour
+,-1.865798	,51.643374	,Anti-social behaviour
+,-1.834439	,51.635214	,Other theft
+,-1.834439	,51.635214	,Other theft
+,-1.883698	,51.628881	,Violence and sexual offences
+,-1.855089	,51.643765	,Anti-social behaviour
+,-1.859263	,51.644355	,Burglary
+,-1.857153	,51.639785	,Other theft
+,-1.856581	,51.642571	,Public order
+,-1.845221	,51.642827	,Vehicle crime
+,-1.88631	,51.670495	,Vehicle crime
+,-1.856581	,51.642571	,Violence and sexual offences
+,-1.860189	,51.639438	,Anti-social behaviour
+,-1.864403	,51.641124	,Anti-social behaviour
+,-1.862684	,51.641167	,Anti-social behaviour
+,-1.86062	,51.640176	,Other theft
+,-1.856977	,51.640792	,Shoplifting
+,-1.861177	,51.642469	,Vehicle crime
+,-1.862272	,51.64345	,Violence and sexual offences
+,-1.856977	,51.640792	,Violence and sexual offences
+,-1.862272	,51.64345	,Violence and sexual offences
+-2.022798	,51.639644	,Anti-social behaviour
+-2.059525	,51.645907	,Burglary
+-2.059525	,51.645907	,Vehicle crime
+-2.109607	,51.588228	,Anti-social behaviour
+-2.105305	,51.587683	,Anti-social behaviour
+-2.114863	,51.588798	,Anti-social behaviour
+-2.114863	,51.588798	,Anti-social behaviour
+-2.105292	,51.588277	,Criminal damage and arson
+-2.112275	,51.587299	,Violence and sexual offences
+-2.10144	,51.589341	,Anti-social behaviour
+-2.101247	,51.59345	,Anti-social behaviour
+-2.114594	,51.60822	,Anti-social behaviour
+-2.10144	,51.589341	,Anti-social behaviour
+-2.12174	,51.602009	,Burglary
+-2.12174	,51.602009	,Burglary
+-2.137032	,51.58828	,Other theft
+-2.098863	,51.59232	,Other theft
+-2.10144	,51.589341	,Shoplifting
+-2.10144	,51.589341	,Shoplifting
+-2.10144	,51.589341	,Vehicle crime
+-2.097849	,51.584129	,Anti-social behaviour
+-2.101436	,51.587615	,Anti-social behaviour
+-2.092224	,51.586157	,Anti-social behaviour
+-2.096575	,51.582143	,Anti-social behaviour
+-2.094036	,51.582559	,Burglary
+-2.101436	,51.587615	,Burglary
+-2.108834	,51.584875	,Criminal damage and arson
+-2.09665	,51.583393	,Drugs
+-2.097545	,51.583563	,Shoplifting
+-2.101332	,51.586176	,Violence and sexual offences
+-2.105055	,51.58602	,Violence and sexual offences
+-2.101332	,51.586176	,Violence and sexual offences
+,-1.857621	,51.582484	,Anti-social behaviour
+,-1.866499	,51.59154	,Anti-social behaviour
+,-1.866009	,51.591377	,Burglary
+,-1.870685	,51.591697	,Criminal damage and arson
+,-1.828308	,51.582867	,Other theft
+,-1.828308	,51.582867	,Vehicle crime
+,-1.865441	,51.588346	,Anti-social behaviour
+,-1.883767	,51.584751	,Anti-social behaviour
+,-1.887446	,51.585366	,Burglary
+,-1.865169	,51.587573	,Criminal damage and arson
+,-1.87926	,51.58606	,Shoplifting
+,-1.87926	,51.58606	,Shoplifting
+,-1.87926	,51.58606	,Shoplifting
+,-1.885855	,51.586372	,Violence and sexual offences
+,-1.884297	,51.586307	,Anti-social behaviour
+,-1.872014	,51.586232	,Bicycle theft
+,-1.884297	,51.586307	,Criminal damage and arson
+,-1.884297	,51.586307	,Criminal damage and arson
+,-1.884297	,51.586307	,Criminal damage and arson
+,-1.875062	,51.585327	,Other theft
+,-1.875062	,51.585327	,Other theft
+,-1.84226	,51.579965	,Burglary
+,-1.859405	,51.570366	,Burglary
+,-1.858868	,51.571435	,Burglary
+,-1.86242	,51.570657	,Criminal damage and arson
+,-1.839029	,51.579277	,Other crime
+,-1.99013	,51.618454	,Criminal damage and arson
+-2.01232	,51.528702	,Anti-social behaviour
+-2.079435	,51.543826	,Burglary
+-2.006425	,51.536525	,Burglary
+-2.01232	,51.528702	,Other theft
+,-1.950846	,51.562563	,Anti-social behaviour
+,-1.964593	,51.582385	,Vehicle crime
+-2.055147	,51.599308	,Violence and sexual offences
+-2.055622	,51.598633	,Violence and sexual offences
+-2.211537	,51.57203	,Burglary
+-2.20969	,51.575072	,Burglary
+-2.20969	,51.575072	,Burglary
+-2.20969	,51.575072	,Burglary
+-2.20969	,51.575072	,Burglary
+-2.20969	,51.575072	,Other theft
+-2.210809	,51.57053	,Violence and sexual offences
+-2.086044	,51.577107	,Anti-social behaviour
+-2.08885	,51.594827	,Burglary
+-2.083446	,51.576417	,Criminal damage and arson
+-2.083446	,51.576417	,Drugs
+-2.078026	,51.588451	,Vehicle crime
+,-1.901688	,51.546402	,Anti-social behaviour
+,-1.895477	,51.544652	,Anti-social behaviour
+,-1.901688	,51.546402	,Anti-social behaviour
+,-1.897112	,51.54228	,Anti-social behaviour
+,-1.901688	,51.546402	,Anti-social behaviour
+,-1.895106	,51.542808	,Anti-social behaviour
+,-1.895147	,51.543923	,Anti-social behaviour
+,-1.901688	,51.546402	,Burglary
+,-1.894293	,51.545406	,Criminal damage and arson
+,-1.901688	,51.546402	,Drugs
+,-1.899976	,51.544656	,Other theft
+,-1.900552	,51.545169	,Vehicle crime
+,-1.900581	,51.544962	,Violence and sexual offences
+,-1.887055	,51.544851	,Anti-social behaviour
+,-1.889872	,51.548648	,Anti-social behaviour
+,-1.891419	,51.547193	,Anti-social behaviour
+,-1.889796	,51.544233	,Violence and sexual offences
+,-1.902359	,51.542851	,Anti-social behaviour
+,-1.899879	,51.536276	,Anti-social behaviour
+,-1.900989	,51.543155	,Anti-social behaviour
+,-1.904655	,51.541441	,Anti-social behaviour
+,-1.904655	,51.541441	,Anti-social behaviour
+,-1.904117	,51.543751	,Anti-social behaviour
+,-1.902354	,51.538733	,Burglary
+,-1.904117	,51.543751	,Criminal damage and arson
+,-1.902907	,51.542851	,Other theft
+,-1.904655	,51.541441	,Other theft
+,-1.904655	,51.541441	,Other theft
+,-1.902907	,51.542851	,Shoplifting
+,-1.904655	,51.541441	,Shoplifting
+,-1.901096	,51.540215	,Vehicle crime
+,-1.902907	,51.542851	,Violence and sexual offences
+,-1.902907	,51.542851	,Violence and sexual offences
+,-1.901096	,51.540215	,Violence and sexual offences
+,-1.882586	,51.544397	,Anti-social behaviour
+,-1.884561	,51.54448	,Burglary
+,-1.909792	,51.502863	,Other theft
+,-1.961136	,51.506685	,Anti-social behaviour
+,-1.974222	,51.500646	,Anti-social behaviour
+,-1.839835	,51.522309	,Anti-social behaviour
+,-1.876852	,51.510161	,Anti-social behaviour
+,-1.876852	,51.510161	,Anti-social behaviour
+,-1.853674	,51.548644	,Criminal damage and arson
+,-1.882356	,51.561058	,Other theft
+,-1.882356	,51.561058	,Other theft
+,-1.890474	,51.550384	,Other theft
+,-1.853674	,51.548644	,Other theft
+,-1.88873	,51.561604	,Vehicle crime
+,-1.88873	,51.561604	,Violence and sexual offences
+,-1.88873	,51.561604	,Violence and sexual offences
+,-1.88873	,51.561604	,Violence and sexual offences
+,-1.899788	,51.551723	,Anti-social behaviour
+,-1.908067	,51.558446	,Drugs
+,-1.908067	,51.558446	,Vehicle crime
+,-1.892749	,51.539704	,Anti-social behaviour
+,-1.894633	,51.528997	,Anti-social behaviour
+,-1.898598	,51.535295	,Anti-social behaviour
+,-1.894538	,51.539112	,Anti-social behaviour
+,-1.899409	,51.53374	,Other theft
+,-1.892621	,51.538967	,Other theft
+,-1.899409	,51.53374	,Violence and sexual offences
+,-1.906684	,51.536353	,Anti-social behaviour
+,-1.913757	,51.539551	,Anti-social behaviour
+,-1.90288	,51.535325	,Anti-social behaviour
+,-1.913757	,51.539551	,Burglary
+,-1.901875	,51.533445	,Burglary
+,-1.90288	,51.535325	,Drugs
+,-1.965803	,51.507802	,Anti-social behaviour
+,-1.975511	,51.514161	,Anti-social behaviour
+,-1.965803	,51.507802	,Anti-social behaviour
+,-1.970497	,51.512406	,Anti-social behaviour
+,-1.98554	,51.515772	,Anti-social behaviour
+,-1.965803	,51.507802	,Burglary
+,-1.970497	,51.512406	,Criminal damage and arson
+,-1.969273	,51.511201	,Violence and sexual offences
+,-1.96063	,51.508744	,Violence and sexual offences
+,-1.997588	,51.513723	,Violence and sexual offences
+-2.078795	,51.50742	,Anti-social behaviour
+-2.102459	,51.509865	,Anti-social behaviour
+-2.113656	,51.493023	,Anti-social behaviour
+-2.09356	,51.505926	,Anti-social behaviour
+-2.078795	,51.50742	,Burglary
+-2.09356	,51.505926	,Criminal damage and arson
+-2.111053	,51.494464	,Other theft
+-2.199463	,51.460539	,Anti-social behaviour
+-2.145853	,51.498607	,Anti-social behaviour
+-2.152917	,51.47032	,Burglary
+-2.162847	,51.509419	,Other theft
+-2.159179	,51.470132	,Other theft
+-2.192644	,51.485403	,Other theft
+-2.152917	,51.47032	,Shoplifting
+-2.162847	,51.509419	,Vehicle crime
+-2.147799	,51.49927	,Violence and sexual offences
+-2.264342	,51.513928	,Anti-social behaviour
+-2.265042	,51.512874	,Anti-social behaviour
+-2.284741	,51.496733	,Burglary
+-2.265429	,51.497723	,Other theft
+-2.155606	,51.511443	,Anti-social behaviour
+-2.218996	,51.493764	,Other theft
+-2.188983	,51.508994	,Other theft
+-2.155606	,51.511443	,Other theft
+-2.121581	,51.526346	,Other theft
+-2.155606	,51.511443	,Vehicle crime
+-2.131658	,51.471865	,Anti-social behaviour
+-2.134745	,51.473939	,Anti-social behaviour
+-2.130826	,51.473044	,Criminal damage and arson
+-2.134901	,51.468409	,Other theft
+-2.129912	,51.475608	,Shoplifting
+-2.134075	,51.476367	,Vehicle crime
+-2.139509	,51.468646	,Violence and sexual offences
+-2.131335	,51.474896	,Violence and sexual offences
+-2.134901	,51.468409	,Violence and sexual offences
+-2.12076	,51.461186	,Anti-social behaviour
+-2.124472	,51.460867	,Anti-social behaviour
+-2.127297	,51.461979	,Bicycle theft
+-2.126622	,51.462601	,Criminal damage and arson
+-2.122212	,51.460744	,Criminal damage and arson
+-2.127753	,51.460369	,Criminal damage and arson
+-2.122851	,51.462748	,Violence and sexual offences
+-2.122851	,51.462748	,Violence and sexual offences
+-2.122851	,51.462748	,Violence and sexual offences
+-2.126379	,51.463167	,Violence and sexual offences
+-2.122851	,51.462748	,Violence and sexual offences
+-2.118237	,51.470899	,Anti-social behaviour
+-2.120945	,51.47158	,Anti-social behaviour
+-2.120945	,51.47158	,Anti-social behaviour
+-2.116322	,51.470847	,Criminal damage and arson
+-2.112524	,51.471822	,Criminal damage and arson
+-2.116584	,51.472097	,Violence and sexual offences
+-2.118237	,51.470899	,Violence and sexual offences
+-2.11258	,51.471319	,Anti-social behaviour
+-2.11258	,51.471319	,Anti-social behaviour
+-2.11258	,51.471319	,Anti-social behaviour
+-2.114337	,51.465805	,Anti-social behaviour
+-2.11258	,51.471319	,Anti-social behaviour
+-2.120218	,51.468766	,Burglary
+-2.119902	,51.469108	,Violence and sexual offences
+-2.118752	,51.464254	,Anti-social behaviour
+-2.12302	,51.46657	,Anti-social behaviour
+-2.12302	,51.46657	,Anti-social behaviour
+-2.12302	,51.46657	,Anti-social behaviour
+-2.118752	,51.464254	,Anti-social behaviour
+-2.12302	,51.46657	,Anti-social behaviour
+-2.118752	,51.464254	,Anti-social behaviour
+-2.12302	,51.46657	,Anti-social behaviour
+-2.118752	,51.464254	,Anti-social behaviour
+-2.118355	,51.466556	,Criminal damage and arson
+-2.118152	,51.465954	,Vehicle crime
+-2.148715	,51.466486	,Anti-social behaviour
+-2.148715	,51.466486	,Anti-social behaviour
+-2.146246	,51.463935	,Other theft
+-2.138962	,51.449819	,Anti-social behaviour
+-2.141278	,51.449393	,Anti-social behaviour
+-2.150407	,51.451108	,Burglary
+-2.138962	,51.449819	,Other theft
+-2.149595	,51.44941	,Other theft
+-2.146327	,51.448892	,Other theft
+-2.146327	,51.448892	,Shoplifting
+-2.146327	,51.448892	,Vehicle crime
+-2.141088	,51.467116	,Anti-social behaviour
+-2.138764	,51.460402	,Anti-social behaviour
+-2.138661	,51.464286	,Anti-social behaviour
+-2.141088	,51.467116	,Anti-social behaviour
+-2.138286	,51.459404	,Anti-social behaviour
+-2.138661	,51.464286	,Anti-social behaviour
+-2.13926	,51.467136	,Anti-social behaviour
+-2.138213	,51.459144	,Anti-social behaviour
+-2.138661	,51.464286	,Anti-social behaviour
+-2.140596	,51.466415	,Criminal damage and arson
+-2.137913	,51.459666	,Shoplifting
+-2.137913	,51.459666	,Shoplifting
+-2.139509	,51.464132	,Vehicle crime
+-2.139177	,51.463557	,Violence and sexual offences
+-2.139177	,51.463557	,Violence and sexual offences
+-2.138661	,51.464286	,Violence and sexual offences
+-2.141413	,51.465299	,Violence and sexual offences
+-2.140596	,51.466415	,Violence and sexual offences
+-2.13749	,51.457886	,Anti-social behaviour
+-2.13749	,51.457886	,Anti-social behaviour
+-2.13558	,51.464137	,Anti-social behaviour
+-2.13558	,51.464137	,Criminal damage and arson
+-2.136608	,51.461339	,Criminal damage and arson
+-2.13558	,51.464137	,Violence and sexual offences
+-2.137258	,51.457472	,Anti-social behaviour
+-2.135216	,51.45796	,Anti-social behaviour
+-2.132095	,51.458728	,Anti-social behaviour
+-2.132261	,51.456435	,Anti-social behaviour
+-2.134909	,51.456423	,Other theft
+-2.140665	,51.451273	,Anti-social behaviour
+-2.140665	,51.451273	,Anti-social behaviour
+-2.143302	,51.452484	,Burglary
+-2.126166	,51.459148	,Anti-social behaviour
+-2.124137	,51.459465	,Anti-social behaviour
+-2.126166	,51.459148	,Anti-social behaviour
+-2.129207	,51.460674	,Anti-social behaviour
+-2.126166	,51.459148	,Anti-social behaviour
+-2.126166	,51.459148	,Anti-social behaviour
+-2.129843	,51.461374	,Anti-social behaviour
+-2.129207	,51.460674	,Anti-social behaviour
+-2.129843	,51.461374	,Bicycle theft
+-2.129843	,51.461374	,Bicycle theft
+-2.124629	,51.460139	,Criminal damage and arson
+-2.124137	,51.459465	,Other theft
+-2.126166	,51.459148	,Shoplifting
+-2.128494	,51.457689	,Vehicle crime
+-2.128494	,51.457689	,Violence and sexual offences
+-2.129843	,51.461374	,Violence and sexual offences
+-2.128494	,51.457689	,Violence and sexual offences
+-2.128494	,51.457689	,Violence and sexual offences
+-2.128494	,51.457689	,Violence and sexual offences
+-2.128494	,51.457689	,Violence and sexual offences
+-2.117532	,51.459733	,Anti-social behaviour
+-2.117532	,51.459733	,Anti-social behaviour
+-2.117532	,51.459733	,Anti-social behaviour
+-2.117356	,51.458483	,Anti-social behaviour
+-2.113697	,51.457246	,Anti-social behaviour
+-2.122514	,51.455313	,Anti-social behaviour
+-2.116386	,51.456389	,Anti-social behaviour
+-2.115405	,51.461156	,Anti-social behaviour
+-2.119822	,51.454983	,Anti-social behaviour
+-2.118655	,51.460001	,Anti-social behaviour
+-2.117532	,51.459733	,Anti-social behaviour
+-2.116835	,51.457575	,Anti-social behaviour
+-2.117532	,51.459733	,Anti-social behaviour
+-2.117532	,51.459733	,Anti-social behaviour
+-2.113697	,51.457246	,Anti-social behaviour
+-2.122514	,51.455313	,Anti-social behaviour
+-2.115405	,51.461156	,Anti-social behaviour
+-2.114952	,51.45853	,Anti-social behaviour
+-2.117356	,51.458483	,Anti-social behaviour
+-2.117356	,51.458483	,Anti-social behaviour
+-2.120786	,51.455018	,Anti-social behaviour
+-2.115405	,51.461156	,Anti-social behaviour
+-2.120786	,51.455018	,Anti-social behaviour
+-2.125172	,51.453431	,Anti-social behaviour
+-2.117521	,51.461315	,Anti-social behaviour
+-2.118427	,51.460811	,Anti-social behaviour
+-2.116386	,51.456389	,Anti-social behaviour
+-2.118427	,51.460811	,Anti-social behaviour
+-2.119252	,51.462698	,Anti-social behaviour
+-2.120786	,51.455018	,Anti-social behaviour
+-2.121092	,51.456097	,Anti-social behaviour
+-2.11406	,51.458504	,Anti-social behaviour
+-2.117356	,51.458483	,Anti-social behaviour
+-2.120786	,51.455018	,Anti-social behaviour
+-2.11716	,51.460893	,Bicycle theft
+-2.119252	,51.462698	,Burglary
+-2.115669	,51.463169	,Criminal damage and arson
+-2.115629	,51.45888	,Criminal damage and arson
+-2.117532	,51.459733	,Criminal damage and arson
+-2.118427	,51.460811	,Criminal damage and arson
+-2.118427	,51.460811	,Criminal damage and arson
+-2.117356	,51.458483	,Criminal damage and arson
+-2.117356	,51.458483	,Drugs
+-2.117356	,51.458483	,Drugs
+-2.120786	,51.455018	,Other theft
+-2.117356	,51.458483	,Other theft
+-2.115629	,51.45888	,Other theft
+-2.125172	,51.453431	,Other theft
+-2.113819	,51.460168	,Shoplifting
+-2.113819	,51.460168	,Shoplifting
+-2.11609	,51.458835	,Shoplifting
+-2.11609	,51.458835	,Shoplifting
+-2.116835	,51.457575	,Shoplifting
+-2.116835	,51.457575	,Shoplifting
+-2.113819	,51.460168	,Shoplifting
+-2.115629	,51.45888	Theft from the person
+-2.113819	,51.460168	Theft from the person
+-2.115405	,51.461156	,Vehicle crime
+-2.117532	,51.459733	,Vehicle crime
+-2.114952	,51.45853	,Vehicle crime
+-2.113697	,51.457246	,Violence and sexual offences
+-2.117356	,51.458483	,Violence and sexual offences
+-2.113819	,51.460168	,Violence and sexual offences
+-2.11456	,51.457047	,Violence and sexual offences
+-2.119822	,51.454983	,Violence and sexual offences
+-2.118427	,51.460811	,Violence and sexual offences
+-2.1319		,51.451023	,Anti-social behaviour
+-2.131817	,51.452156	,Anti-social behaviour
+-2.122971	,51.459188	,Criminal damage and arson
+-2.121041	,51.458875	,Criminal damage and arson
+-2.111603	,51.454407	,Anti-social behaviour
+-2.1108		,51.455666	,Anti-social behaviour
+-2.112972	,51.455367	,Anti-social behaviour
+-2.108752	,51.454077	,Anti-social behaviour
+-2.109993	,51.455064	,Bicycle theft
+-2.110774	,51.456853	,Burglary
+-2.112972	,51.455367	,Possession of weapons
+-2.112065	,51.455116	,Vehicle crime
+-2.115088	,51.455527	,Violence and sexual offences
+-2.108162	,51.453879	,Violence and sexual offences
+-2.110774	,51.456853	,Violence and sexual offences
+-2.108515	,51.463212	,Anti-social behaviour
+-2.103247	,51.463253	,Anti-social behaviour
+-2.106554	,51.461928	,Anti-social behaviour
+-2.108663	,51.46484	,Anti-social behaviour
+-2.103247	,51.463253	,Burglary
+-2.103247	,51.463253	,Burglary
+-2.108131	,51.459211	,Vehicle crime
+-2.108663	,51.46484	,Violence and sexual offences
+-2.102832	,51.458029	,Violence and sexual offences
+-2.102832	,51.458029	,Violence and sexual offences
+-2.135424	,51.455236	,Anti-social behaviour
+-2.13918	,51.455186	,Anti-social behaviour
+-2.136098	,51.454381	,Anti-social behaviour
+-2.136063	,51.452277	,Anti-social behaviour
+-2.137384	,51.451457	,Anti-social behaviour
+-2.137384	,51.451457	,Anti-social behaviour
+-2.141901	,51.455462	,Anti-social behaviour
+-2.137394	,51.454667	,Anti-social behaviour
+-2.140003	,51.456012	,Anti-social behaviour
+-2.136098	,51.454381	,Anti-social behaviour
+-2.136098	,51.454381	,Anti-social behaviour
+-2.137394	,51.454667	,Anti-social behaviour
+-2.136098	,51.454381	,Anti-social behaviour
+-2.136085	,51.454956	,Anti-social behaviour
+-2.131825	,51.454961	,Criminal damage and arson
+-2.136098	,51.454381	,Criminal damage and arson
+-2.135554	,51.455595	,Other theft
+-2.136063	,51.452277	,Violence and sexual offences
+-2.13918	,51.455186	,Violence and sexual offences
+,-1.618789	,51.479728	,Anti-social behaviour
+,-1.65144	,51.465605	,Anti-social behaviour
+,-1.65144	,51.465605	,Anti-social behaviour
+,-1.65144	,51.465605	,Burglary
+,-1.622969	,51.477502	,Drugs
+,-1.620128	,51.47627	,Other theft
+,-1.623875	,51.479349	,Other theft
+,-1.774243	,51.41379	,Anti-social behaviour
+,-1.791542	,51.416735	,Anti-social behaviour
+,-1.709718	,51.466968	,Burglary
+,-1.758027	,51.385911	,Vehicle crime
+,-1.758027	,51.385911	,Vehicle crime
+,-1.537939	,51.433553	,Anti-social behaviour
+,-1.626344	,51.437968	,Burglary
+,-1.570712	,51.411666	,Burglary
+,-1.551387	,51.432284	,Other theft
+,-1.607116	,51.507599	,Other theft
+,-1.598649	,51.50044	,Other theft
+,-1.612251	,51.44062	,Other theft
+,-1.843068	,51.487435	,Anti-social behaviour
+,-1.848971	,51.488063	,Anti-social behaviour
+,-1.870457	,51.422747	,Anti-social behaviour
+,-1.855837	,51.448096	,Criminal damage and arson
+,-1.837363	,51.491923	,Criminal damage and arson
+,-1.843839	,51.409075	,Vehicle crime
+,-1.854446	,51.428465	,Vehicle crime
+-2.038754	,51.474001	,Anti-social behaviour
+-2.127655	,51.476896	,Anti-social behaviour
+-2.049892	,51.507841	,Anti-social behaviour
+-2.074776	,51.438062	,Anti-social behaviour
+-2.127655	,51.476896	,Burglary
+-2.076336	,51.441478	,Criminal damage and arson
+-2.054904	,51.506571	,Other theft
+-2.127655	,51.476896	,Violence and sexual offences
+-2.127655	,51.476896	,Violence and sexual offences
+-2.058387	,51.436174	,Violence and sexual offences
+,-1.995724	,51.406562	,Burglary
+-2.00182	,51.407542	,Burglary
+,-1.975739	,51.492276	,Violence and sexual offences
+,-1.970685	,51.420657	,Anti-social behaviour
+,-1.979535	,51.441564	,Criminal damage and arson
+-2.102171	,51.452239	,Anti-social behaviour
+-2.102171	,51.452239	,Anti-social behaviour
+-2.104341	,51.450682	,Criminal damage and arson
+-2.112798	,51.448759	,Anti-social behaviour
+-2.099636	,51.444356	,Drugs
+-2.09366	,51.449387	,Drugs
+-2.09366	,51.449387	,Drugs
+-2.100248	,51.447826	,Anti-social behaviour
+-2.107572	,51.447766	,Anti-social behaviour
+-2.109244	,51.449077	,Anti-social behaviour
+-2.108338	,51.449123	,Vehicle crime
+-2.106369	,51.450212	,Violence and sexual offences
+-2.10549	,51.449656	,Violence and sexual offences
+-2.10549	,51.449656	,Violence and sexual offences
+,-1.994512	,51.445657	,Anti-social behaviour
+-2.004786	,51.44251	,Anti-social behaviour
+,-1.99575	,51.443607	,Anti-social behaviour
+-2.002915	,51.441728	,Anti-social behaviour
+-2.002915	,51.441728	,Anti-social behaviour
+-2.002656	,51.443508	,Anti-social behaviour
+,-1.99575	,51.443607	,Violence and sexual offences
+-2.002656	,51.443508	,Violence and sexual offences
+-2.004641	,51.439363	,Anti-social behaviour
+,-1.99975	,51.441341	,Anti-social behaviour
+-2.004641	,51.439363	,Anti-social behaviour
+-2.003001	,51.439597	,Anti-social behaviour
+,-1.998901	,51.43984	,Anti-social behaviour
+,-1.996628	,51.441791	,Bicycle theft
+,-1.99975	,51.441341	,Bicycle theft
+-2.001534	,51.439228	,Criminal damage and arson
+-2.00421	,51.440712	,Criminal damage and arson
+-2.00421	,51.440712	,Criminal damage and arson
+-2.003001	,51.439597	,Other theft
+-2.00421	,51.440712	,Other theft
+-2.003001	,51.439597	,Shoplifting
+-2.003001	,51.439597	,Violence and sexual offences
+-2.003836	,51.43966	,Other crime
+-2.01365	,51.446286	,Anti-social behaviour
+-2.017447	,51.442815	,Anti-social behaviour
+-2.01365	,51.446286	,Anti-social behaviour
+-2.01365	,51.446286	,Anti-social behaviour
+-2.014427	,51.44607	,Anti-social behaviour
+-2.01365	,51.446286	,Anti-social behaviour
+-2.014427	,51.44607	,Anti-social behaviour
+-2.014427	,51.44607	,Anti-social behaviour
+-2.01365	,51.446286	,Shoplifting
+-2.01365	,51.446286	,Shoplifting
+-2.01365	,51.446286	,Shoplifting
+-2.013087	,51.442042	,Violence and sexual offences
+-2.013087	,51.442042	,Violence and sexual offences
+-2.014427	,51.44607	,Violence and sexual offences
+-2.013087	,51.442042	,Violence and sexual offences
+-2.013087	,51.442042	,Violence and sexual offences
+-2.007707	,51.445801	,Anti-social behaviour
+-2.003088	,51.447258	,Anti-social behaviour
+-2.000958	,51.446161	,Anti-social behaviour
+-2.00834	,51.444605	,Anti-social behaviour
+-2.007707	,51.445801	,Anti-social behaviour
+-2.005016	,51.445055	,Anti-social behaviour
+-2.005016	,51.443787	,Anti-social behaviour
+-2.005016	,51.443787	,Burglary
+-2.005016	,51.443787	,Criminal damage and arson
+-2.005174	,51.440343	,Drugs
+-2.007707	,51.445801	,Other theft
+-2.005174	,51.440343	,Vehicle crime
+-2.004499	,51.450081	,Anti-social behaviour
+-2.001117	,51.448256	,Anti-social behaviour
+-2.004239	,51.449272	,Anti-social behaviour
+,-1.997332	,51.450036	,Anti-social behaviour
+-2.001117	,51.448256	,Burglary
+-2.010327	,51.449172	,Other theft
+-2.002685	,51.449452	,Vehicle crime
+-2.007189	,51.447671	,Anti-social behaviour
+-2.011679	,51.448579	,Burglary
+-2.002886	,51.434625	,Anti-social behaviour
+-2.005634	,51.437322	,Anti-social behaviour
+-2.005591	,51.437816	,Anti-social behaviour
+-2.005591	,51.437816	,Anti-social behaviour
+-2.007345	,51.434471	,Anti-social behaviour
+-2.008611	,51.433536	,Anti-social behaviour
+-2.00585	,51.43859	,Anti-social behaviour
+-2.009115	,51.433914	,Anti-social behaviour
+-2.009331	,51.437645	,Anti-social behaviour
+-2.005634	,51.437322	,Anti-social behaviour
+-2.005634	,51.437322	,Drugs
+-2.009331	,51.437645	,Other theft
+-2.007188	,51.437448	,Other theft
+-2.005634	,51.437322	,Other theft
+-2.007188	,51.437448	,Other theft
+-2.006943	,51.437646	,Other theft
+-2.00585	,51.43859	Theft from the person
+-2.003173	,51.433878	,Violence and sexual offences
+-2.00585	,51.43859	,Violence and sexual offences
+-2.005591	,51.437816	,Violence and sexual offences
+,-1.998124	,51.438095	,Anti-social behaviour
+,-1.998009	,51.435578	,Anti-social behaviour
+-2.001994	,51.437565	,Anti-social behaviour
+-2.000527	,51.437978	,Anti-social behaviour
+-2.001994	,51.437565	,Anti-social behaviour
+-2.001994	,51.437565	,Anti-social behaviour
+-2.000527	,51.437978	,Anti-social behaviour
+-2.000527	,51.437978	,Anti-social behaviour
+,-1.998124	,51.438095	,Anti-social behaviour
+-2.002828	,51.436863	,Anti-social behaviour
+-2.001994	,51.437565	,Anti-social behaviour
+,-1.998124	,51.438095	,Criminal damage and arson
+-2.003361	,51.436567	,Criminal damage and arson
+-2.004296	,51.438014	,Criminal damage and arson
+,-1.998412	,51.436522	,Drugs
+,-1.998009	,51.435578	,Other theft
+-2.001994	,51.437565	,Shoplifting
+-2.001994	,51.437565	,Shoplifting
+,-1.998009	,51.435578	,Vehicle crime
+,-1.994671	,51.438653	,Anti-social behaviour
+,-1.99155	,51.436584	,Anti-social behaviour
+,-1.996139	,51.438878	,Anti-social behaviour
+,-1.996139	,51.438878	,Anti-social behaviour
+,-1.994671	,51.438653	,Anti-social behaviour
+,-1.994139	,51.441233	,Vehicle crime
+,-1.995923	,51.440208	,Violence and sexual offences
+-2.000469	,51.429059	,Anti-social behaviour
+,-1.991206	,51.426775	,Anti-social behaviour
+,-1.997347	,51.432404	,Anti-social behaviour
+,-1.994644	,51.427602	,Bicycle theft
+,-1.976579	,51.426251	,Drugs
+,-1.991206	,51.426775	,Vehicle crime
+,-1.996931	,51.428564	,Violence and sexual offences
+,-1.996931	,51.428564	,Violence and sexual offences
+-2.250207	,51.414315	,Anti-social behaviour
+-2.232886	,51.426885	,Anti-social behaviour
+-2.232886	,51.426885	,Anti-social behaviour
+-2.285424	,51.407832	,Anti-social behaviour
+-2.219625	,51.429833	,Anti-social behaviour
+-2.220905	,51.42992	,Anti-social behaviour
+-2.212622	,51.430205	,Other theft
+-2.219625	,51.429833	,Other theft
+-2.237226	,51.423315	,Anti-social behaviour
+-2.248886	,51.419955	,Anti-social behaviour
+-2.23838	,51.424005	,Vehicle crime
+-2.248886	,51.419955	,Violence and sexual offences
+-2.26047	,51.438956	,Anti-social behaviour
+-2.261155	,51.440402	,Anti-social behaviour
+-2.258684	,51.438628	,Other theft
+-2.26047	,51.438956	,Violence and sexual offences
+-2.18353	,51.428474	,Anti-social behaviour
+-2.189842	,51.43144	,Anti-social behaviour
+-2.190952	,51.43205	,Anti-social behaviour
+-2.179903	,51.424389	,Anti-social behaviour
+-2.18688	,51.428172	,Criminal damage and arson
+-2.191223	,51.43142	,Criminal damage and arson
+-2.196369	,51.42732	,Anti-social behaviour
+-2.198364	,51.429547	,Anti-social behaviour
+-2.194378	,51.432503	,Anti-social behaviour
+-2.19578	,51.434056	,Other theft
+-2.194378	,51.432503	,Violence and sexual offences
+-2.183804	,51.425264	,Anti-social behaviour
+-2.183888	,51.424553	,Anti-social behaviour
+-2.19107	,51.425747	,Anti-social behaviour
+-2.195822	,51.423779	,Anti-social behaviour
+-2.195906	,51.423347	,Anti-social behaviour
+-2.195822	,51.423779	,Anti-social behaviour
+-2.195822	,51.423779	,Anti-social behaviour
+-2.186095	,51.422554	,Anti-social behaviour
+-2.195822	,51.423779	,Anti-social behaviour
+-2.185267	,51.424128	,Violence and sexual offences
+-2.183739	,51.42325	,Violence and sexual offences
+-2.195223	,51.411371	,Anti-social behaviour
+-2.168341	,51.413022	,Anti-social behaviour
+-2.210045	,51.417298	,Anti-social behaviour
+-2.177925	,51.411282	,Burglary
+-2.178332	,51.416056	,Criminal damage and arson
+-2.20309	,51.421671	,Other theft
+-2.120658	,51.417352	,Anti-social behaviour
+-2.131329	,51.427789	,Anti-social behaviour
+-2.131533	,51.418617	,Burglary
+-2.131329	,51.427789	,Criminal damage and arson
+-2.106418	,51.415793	,Other theft
+-2.131329	,51.427789	,Violence and sexual offences
+-2.123864	,51.416989	,Violence and sexual offences
+-2.131533	,51.418617	,Violence and sexual offences
+-2.121674	,51.415445	,Violence and sexual offences
+-2.196862	,51.434926	,Anti-social behaviour
+-2.186406	,51.431886	,Anti-social behaviour
+-2.18827	,51.437431	,Anti-social behaviour
+-2.186294	,51.432687	,Anti-social behaviour
+-2.18827	,51.437431	,Anti-social behaviour
+-2.186406	,51.431886	,Anti-social behaviour
+-2.184823	,51.431799	,Anti-social behaviour
+-2.18827	,51.437431	,Anti-social behaviour
+-2.183896	,51.433824	,Anti-social behaviour
+-2.19258	,51.435968	,Anti-social behaviour
+-2.190836	,51.438641	,Anti-social behaviour
+-2.186294	,51.432687	,Anti-social behaviour
+-2.189311	,51.435155	,Anti-social behaviour
+-2.186961	,51.433882	,Anti-social behaviour
+-2.186294	,51.432687	,Anti-social behaviour
+-2.184823	,51.431799	,Anti-social behaviour
+-2.187228	,51.439321	,Anti-social behaviour
+-2.190849	,51.438371	,Bicycle theft
+-2.19258	,51.435968	,Criminal damage and arson
+-2.19258	,51.435968	,Criminal damage and arson
+-2.19258	,51.435968	,Criminal damage and arson
+-2.187228	,51.439321	,Drugs
+-2.184329	,51.434147	,Other theft
+-2.186294	,51.432687	,Other theft
+-2.188137	,51.433169	,Other theft
+-2.186406	,51.431886	,Other theft
+-2.190849	,51.438371	,Violence and sexual offences
+-2.206487	,51.431979	,Anti-social behaviour
+-2.208295	,51.430806	,Anti-social behaviour
+-2.208295	,51.430806	,Anti-social behaviour
+-2.206487	,51.431979	,Anti-social behaviour
+-2.20717	,51.430224	,Anti-social behaviour
+-2.201109	,51.429102	,Criminal damage and arson
+-2.201109	,51.429102	,Criminal damage and arson
+-2.19925	,51.428152	,Shoplifting
+-2.19925	,51.428152	,Shoplifting
+-2.200128	,51.431711	,Violence and sexual offences
+,-1.721961	,51.418452	,Anti-social behaviour
+,-1.717057	,51.418602	,Anti-social behaviour
+,-1.719889	,51.420983	,Anti-social behaviour
+,-1.721961	,51.418452	,Anti-social behaviour
+,-1.720857	,51.415572	,Anti-social behaviour
+,-1.726748	,51.42607	,Anti-social behaviour
+,-1.722786	,51.420019	,Criminal damage and arson
+,-1.726748	,51.42607	,Drugs
+,-1.718976	,51.419821	,Drugs
+,-1.720857	,51.415572	,Other theft
+,-1.720857	,51.415572	,Shoplifting
+,-1.724202	,51.418853	,Vehicle crime
+,-1.721961	,51.418452	,Violence and sexual offences
+,-1.721961	,51.418452	,Violence and sexual offences
+,-1.721961	,51.418452	,Violence and sexual offences
+,-1.729051	,51.425779	,Criminal damage and arson
+,-1.729646	,51.427264	,Vehicle crime
+,-1.729051	,51.425779	,Vehicle crime
+,-1.729646	,51.427264	,Vehicle crime
+,-1.729968	,51.423884	,Anti-social behaviour
+,-1.733707	,51.418983	,Anti-social behaviour
+,-1.730896	,51.420164	,Anti-social behaviour
+,-1.732669	,51.419376	,Anti-social behaviour
+,-1.730896	,51.420164	,Anti-social behaviour
+,-1.729623	,51.423874	,Anti-social behaviour
+,-1.730022	,51.419649	,Anti-social behaviour
+,-1.730896	,51.420164	,Criminal damage and arson
+,-1.731445	,51.424715	,Criminal damage and arson
+,-1.730896	,51.420164	,Other theft
+,-1.730896	,51.420164	,Shoplifting
+,-1.730896	,51.420164	,Shoplifting
+,-1.730896	,51.420164	,Shoplifting
+,-1.730896	,51.420164	,Shoplifting
+,-1.730896	,51.420164	,Shoplifting
+,-1.732669	,51.419376	,Shoplifting
+,-1.730896	,51.420164	,Shoplifting
+,-1.730896	,51.420164	,Shoplifting
+,-1.730896	,51.420164	,Violence and sexual offences
+,-1.730896	,51.420164	,Violence and sexual offences
+,-1.729658	,51.420421	,Violence and sexual offences
+,-1.732669	,51.419376	,Other crime
+,-1.727984	,51.421371	,Other crime
+,-1.748321	,51.418503	,Criminal damage and arson
+,-1.74176	,51.413867	,Other theft
+,-1.72642	,51.415963	,Anti-social behaviour
+,-1.726635	,51.418508	,Criminal damage and arson
+,-1.726366	,51.42018	,Other theft
+,-1.729048	,51.416437	,Vehicle crime
+,-1.724127	,51.416983	,Vehicle crime
+,-1.724127	,51.416983	,Violence and sexual offences
+,-1.726487	,51.416719	,Violence and sexual offences
+-2.144015	,51.381926	,Anti-social behaviour
+-2.142879	,51.381747	,Anti-social behaviour
+-2.144495	,51.383805	,Anti-social behaviour
+-2.14802	,51.380815	,Anti-social behaviour
+-2.140148	,51.381292	,Anti-social behaviour
+-2.142891	,51.380929	,Anti-social behaviour
+-2.139872	,51.380312	,Criminal damage and arson
+-2.139872	,51.380312	,Vehicle crime
+-2.139872	,51.380312	,Vehicle crime
+-2.138629	,51.382733	,Vehicle crime
+-2.143123	,51.381576	,Vehicle crime
+-2.149236	,51.383583	,Vehicle crime
+-2.138474	,51.383695	,Vehicle crime
+-2.139872	,51.380312	,Violence and sexual offences
+-2.127479	,51.382871	,Anti-social behaviour
+-2.127479	,51.382871	,Anti-social behaviour
+-2.129537	,51.3842	,Anti-social behaviour
+-2.127479	,51.382871	,Anti-social behaviour
+-2.127479	,51.382871	,Anti-social behaviour
+-2.127479	,51.382871	,Anti-social behaviour
+-2.127479	,51.382871	,Anti-social behaviour
+-2.130871	,51.383038	,Other theft
+-2.128229	,51.378653	,Anti-social behaviour
+-2.130482	,51.377797	,Anti-social behaviour
+-2.125429	,51.37943	,Anti-social behaviour
+-2.127196	,51.37932	,Burglary
+-2.127805	,51.376289	,Burglary
+-2.124961	,51.376517	,Shoplifting
+-2.124961	,51.376517	,Shoplifting
+-2.125429	,51.37943	,Violence and sexual offences
+-2.130482	,51.377797	,Violence and sexual offences
+-2.122493	,51.372338	,Anti-social behaviour
+-2.122493	,51.372338	,Anti-social behaviour
+-2.121667	,51.374956	,Criminal damage and arson
+-2.122553	,51.373094	,Violence and sexual offences
+-2.121952	,51.379307	,Anti-social behaviour
+-2.120946	,51.379515	,Other theft
+-2.200636	,51.393334	,Anti-social behaviour
+-2.196338	,51.393197	,Anti-social behaviour
+-2.206714	,51.383351	,Anti-social behaviour
+-2.189951	,51.391877	,Drugs
+-2.204047	,51.391179	,Other theft
+-2.163436	,51.396314	,Vehicle crime
+-2.19055	,51.359632	,Anti-social behaviour
+-2.19055	,51.359632	,Anti-social behaviour
+-2.18289	,51.37636	,Other theft
+-2.150537	,51.372773	,Shoplifting
+-2.19055	,51.359632	,Violence and sexual offences
+-2.145626	,51.359723	,Anti-social behaviour
+-2.139609	,51.355379	,Anti-social behaviour
+-2.143486	,51.359744	,Anti-social behaviour
+-2.143486	,51.359744	,Anti-social behaviour
+-2.126886	,51.360653	,Anti-social behaviour
+-2.14295	,51.353855	,Drugs
+-2.143486	,51.359744	,Violence and sexual offences
+-2.123095	,51.355604	,Anti-social behaviour
+-2.127185	,51.365113	,Anti-social behaviour
+-2.138829	,51.396391	,Anti-social behaviour
+-2.118797	,51.359637	,Anti-social behaviour
+-2.130922	,51.360982	,Anti-social behaviour
+-2.130112	,51.358672	,Anti-social behaviour
+-2.125949	,51.364575	,Criminal damage and arson
+-2.123095	,51.355604	,Criminal damage and arson
+-2.138829	,51.396391	,Criminal damage and arson
+-2.114368	,51.37481	,Other theft
+-2.105837	,51.357329	,Other theft
+-2.138829	,51.396391	,Vehicle crime
+-2.125949	,51.364575	,Violence and sexual offences
+-2.11093	,51.378797	,Violence and sexual offences
+-2.117522	,51.355394	,Anti-social behaviour
+-2.118372	,51.356202	,Anti-social behaviour
+-2.135723	,51.376568	,Anti-social behaviour
+-2.143081	,51.377323	,Anti-social behaviour
+-2.138161	,51.375333	,Anti-social behaviour
+-2.137094	,51.37404	,Anti-social behaviour
+-2.138161	,51.375333	,Anti-social behaviour
+-2.137094	,51.37404	,Anti-social behaviour
+-2.131257	,51.372581	,Criminal damage and arson
+-2.141832	,51.377649	,Drugs
+-2.138161	,51.375333	,Other theft
+-2.140506	,51.376292	,Other theft
+-2.14063	,51.374674	,Shoplifting
+-2.138161	,51.375333	,Shoplifting
+-2.14063	,51.374674	,Shoplifting
+-2.14063	,51.374674	,Shoplifting
+-2.14063	,51.374674	,Shoplifting
+-2.131257	,51.372581	,Violence and sexual offences
+-2.132401	,51.3707	,Violence and sexual offences
+-2.134301	,51.371885	,Violence and sexual offences
+-2.128562	,51.3744	,Violence and sexual offences
+-2.14063	,51.374674	,Violence and sexual offences
+-2.143346	,51.379238	,Violence and sexual offences
+-2.131257	,51.372581	,Violence and sexual offences
+-2.131066	,51.37089	,Anti-social behaviour
+-2.130853	,51.37197	,Anti-social behaviour
+-2.130853	,51.37197	,Anti-social behaviour
+-2.128315	,51.368511	,Burglary
+-2.130517	,51.370046	,Criminal damage and arson
+-2.128958	,51.372268	,Other theft
+-2.139488	,51.372148	,Anti-social behaviour
+-2.138826	,51.36715	,Anti-social behaviour
+-2.140203	,51.366519	,Anti-social behaviour
+-2.143106	,51.371524	,Anti-social behaviour
+-2.139332	,51.372814	,Bicycle theft
+-2.143192	,51.366866	,Burglary
+-2.139861	,51.367194	,Other theft
+-2.139861	,51.367194	,Other theft
+-2.139861	,51.367194	,Other theft
+-2.139861	,51.367194	,Other theft
+-2.141755	,51.366562	,Other theft
+-2.137514	,51.370307	,Anti-social behaviour
+-2.138081	,51.372465	,Anti-social behaviour
+-2.13858	,51.371376	,Anti-social behaviour
+-2.133937	,51.37015	,Anti-social behaviour
+-2.136898	,51.370875	,Anti-social behaviour
+-2.13873	,51.373381	,Anti-social behaviour
+-2.13873	,51.373381	,Anti-social behaviour
+-2.137514	,51.370307	,Anti-social behaviour
+-2.137514	,51.370307	,Anti-social behaviour
+-2.137514	,51.370307	,Burglary
+-2.13858	,51.371376	,Criminal damage and arson
+-2.137514	,51.370307	,Drugs
+-2.137514	,51.370307	,Other theft
+-2.136898	,51.370875	,Other theft
+-2.13858	,51.371376	,Other theft
+-2.138282	,51.37251	,Shoplifting
+-2.13858	,51.371376	,Violence and sexual offences
+-2.13858	,51.371376	,Violence and sexual offences
+-2.13858	,51.371376	,Violence and sexual offences
+-2.13858	,51.371376	,Violence and sexual offences
+-2.13858	,51.371376	,Violence and sexual offences
+-2.13858	,51.371376	,Violence and sexual offences
+-2.132183	,51.369621	,Criminal damage and arson
+-2.134695	,51.36416	,Other theft
+-2.198306	,51.356319	,Violence and sexual offences
+-2.266039	,51.359997	,Criminal damage and arson
+-2.306156	,51.347562	,Anti-social behaviour
+-2.315382	,51.344499	,Burglary
+-2.291771	,51.347869	,Criminal damage and arson
+-2.316306	,51.347365	,Violence and sexual offences
+-2.279766	,51.331138	,Violence and sexual offences
+,-1.731672	,51.341614	,Anti-social behaviour
+,-1.731672	,51.341614	,Burglary
+,-1.716722	,51.363267	,Vehicle crime
+,-1.767527	,51.340261	,Anti-social behaviour
+,-1.772119	,51.337752	,Anti-social behaviour
+,-1.771861	,51.340422	,Anti-social behaviour
+,-1.762156	,51.335053	,Anti-social behaviour
+,-1.771021	,51.341949	,Anti-social behaviour
+,-1.767844	,51.339956	,Anti-social behaviour
+,-1.771238	,51.332958	,Burglary
+,-1.771238	,51.332958	,Burglary
+,-1.771238	,51.332958	,Burglary
+,-1.771238	,51.332958	,Burglary
+,-1.771238	,51.332958	,Burglary
+,-1.774396	,51.341722	,Criminal damage and arson
+,-1.767527	,51.340261	,Criminal damage and arson
+,-1.767527	,51.340261	,Other theft
+,-1.757948	,51.33535	,Vehicle crime
+,-1.768379	,51.339256	,Vehicle crime
+,-1.767527	,51.340261	,Violence and sexual offences
+,-1.775616	,51.341724	,Violence and sexual offences
+,-1.764185	,51.339616	,Anti-social behaviour
+,-1.765305	,51.339537	,Anti-social behaviour
+,-1.762258	,51.340286	,Anti-social behaviour
+,-1.763956	,51.339364	,Anti-social behaviour
+,-1.767061	,51.341492	,Anti-social behaviour
+,-1.777709	,51.342385	,Anti-social behaviour
+,-1.764185	,51.339616	,Anti-social behaviour
+,-1.780384	,51.344521	,Anti-social behaviour
+,-1.774752	,51.342307	,Anti-social behaviour
+,-1.764185	,51.339616	,Anti-social behaviour
+,-1.766534	,51.340709	,Drugs
+,-1.766534	,51.340709	,Other theft
+,-1.765305	,51.339537	,Other theft
+,-1.766534	,51.340709	,Other theft
+,-1.764185	,51.339616	,Vehicle crime
+,-1.765108	,51.338701	,Violence and sexual offences
+,-1.765305	,51.339537	,Violence and sexual offences
+,-1.774752	,51.342307	,Violence and sexual offences
+,-1.848991	,51.337688	,Burglary
+,-1.842472	,51.359079	,Criminal damage and arson
+,-1.852379	,51.35572	,Criminal damage and arson
+,-1.867645	,51.360378	,Other theft
+,-1.989224	,51.352782	,Anti-social behaviour
+,-1.986309	,51.352072	,Anti-social behaviour
+,-1.986739	,51.353196	,Anti-social behaviour
+,-1.986452	,51.355066	,Anti-social behaviour
+,-1.981181	,51.355011	,Anti-social behaviour
+,-1.983407	,51.355452	,Anti-social behaviour
+,-1.987716	,51.35244	,Burglary
+,-1.98006	,51.356899	,Burglary
+,-1.987716	,51.35244	,Criminal damage and arson
+,-1.989224	,51.352782	,Other theft
+,-1.983407	,51.355452	,Violence and sexual offences
+,-1.983407	,51.355452	,Violence and sexual offences
+,-1.976804	,51.350667	,Anti-social behaviour
+,-1.98305	,51.351586	,Anti-social behaviour
+,-1.978397	,51.351486	,Anti-social behaviour
+,-1.977522	,51.34895	,Other theft
+,-1.980867	,51.350282	,Vehicle crime
+,-1.978987	,51.349292	,Vehicle crime
+,-1.982648	,51.350767	,Violence and sexual offences
+,-1.98305	,51.351586	,Violence and sexual offences
+,-1.982648	,51.350767	,Violence and sexual offences
+,-1.980007	,51.34815	,Anti-social behaviour
+,-1.989641	,51.349959	,Anti-social behaviour
+,-1.989468	,51.351739	,Anti-social behaviour
+,-1.989641	,51.349959	,Anti-social behaviour
+,-1.989641	,51.349959	,Anti-social behaviour
+,-1.989641	,51.349959	,Other theft
+,-1.982548	,51.348726	,Vehicle crime
+,-1.973086	,51.3485	,Anti-social behaviour
+,-1.9725	,51.344255	,Anti-social behaviour
+,-1.984317	,51.339942	,Anti-social behaviour
+,-1.977267	,51.342386	,Anti-social behaviour
+,-1.973086	,51.3485	,Criminal damage and arson
+,-1.979852	,51.341829	,Violence and sexual offences
+,-1.979852	,51.341829	,Violence and sexual offences
+,-1.987246	,51.339645	,Anti-social behaviour
+,-1.987246	,51.339645	,Anti-social behaviour
+,-1.975823	,51.359039	,Anti-social behaviour
+,-1.968438	,51.362454	,Public order
+,-1.977891	,51.359524	,Violence and sexual offences
+,-1.970747	,51.36918	,Anti-social behaviour
+,-1.986508	,51.359184	,Anti-social behaviour
+,-1.986508	,51.359184	,Anti-social behaviour
+,-1.997179	,51.357117	,Anti-social behaviour
+,-1.986508	,51.359184	,Anti-social behaviour
+,-1.986422	,51.358438	,Anti-social behaviour
+,-1.986508	,51.359184	,Anti-social behaviour
+,-1.9746	,51.361898	,Anti-social behaviour
+,-1.970747	,51.36918	,Anti-social behaviour
+,-1.986508	,51.359184	,Anti-social behaviour
+,-1.986422	,51.358438	,Anti-social behaviour
+,-1.983434	,51.360631	,Anti-social behaviour
+,-1.97223	,51.363048	,Anti-social behaviour
+,-1.97486	,51.360621	,Anti-social behaviour
+,-1.9746	,51.361898	,Anti-social behaviour
+,-1.979211	,51.361386	,Anti-social behaviour
+,-1.997179	,51.357117	,Anti-social behaviour
+,-1.986508	,51.359184	,Anti-social behaviour
+,-1.97223	,51.363048	,Anti-social behaviour
+,-1.997179	,51.357117	,Criminal damage and arson
+,-1.974888	,51.360909	,Criminal damage and arson
+,-1.997179	,51.357117	,Criminal damage and arson
+,-1.975707	,51.361529	,Other theft
+,-1.983434	,51.360631	,Other theft
+,-1.997179	,51.357117	,Public order
+,-1.978348	,51.36536	,Vehicle crime
+,-1.986508	,51.359184	,Violence and sexual offences
+,-1.986508	,51.359184	,Violence and sexual offences
+,-1.986508	,51.359184	,Violence and sexual offences
+,-1.986508	,51.359184	,Violence and sexual offences
+-2.008581	,51.354131	,Anti-social behaviour
+-2.001832	,51.355004	,Anti-social behaviour
+-2.018173	,51.35217	,Anti-social behaviour
+-2.001832	,51.355004	,Anti-social behaviour
+-2.020442	,51.35127	,Anti-social behaviour
+-2.018173	,51.35217	,Bicycle theft
+-2.014483	,51.352134	,Burglary
+-2.014483	,51.352134	,Burglary
+-2.014483	,51.352134	,Burglary
+-2.002248	,51.354653	,Burglary
+-2.00996	,51.352585	,Other theft
+-2.001832	,51.355004	,Vehicle crime
+,-1.991866	,51.35218	,Anti-social behaviour
+,-1.994049	,51.351488	,Anti-social behaviour
+,-1.994695	,51.354815	,Anti-social behaviour
+,-1.993259	,51.354581	,Anti-social behaviour
+-2.00031	,51.354779	,Anti-social behaviour
+,-1.993388	,51.352765	,Anti-social behaviour
+,-1.996318	,51.351848	,Anti-social behaviour
+-2.001631	,51.35227	,Anti-social behaviour
+,-1.995298	,51.354015	,Anti-social behaviour
+,-1.992943	,51.354122	,Anti-social behaviour
+,-1.996662	,51.352135	,Anti-social behaviour
+-2.00278	,51.352855	,Anti-social behaviour
+,-1.996662	,51.352135	,Anti-social behaviour
+,-1.992268	,51.352423	,Anti-social behaviour
+-2.001631	,51.35227	,Anti-social behaviour
+,-1.997395	,51.353403	,Anti-social behaviour
+,-1.994178	,51.35254	,Anti-social behaviour
+,-1.992699	,51.352234	,Anti-social behaviour
+,-1.993388	,51.352765	,Anti-social behaviour
+,-1.994178	,51.35254	,Anti-social behaviour
+,-1.992699	,51.352234	,Anti-social behaviour
+,-1.997395	,51.353403	,Anti-social behaviour
+,-1.994049	,51.351488	,Anti-social behaviour
+-2.001846	,51.354347	,Bicycle theft
+,-1.995743	,51.352828	,Bicycle theft
+,-1.999764	,51.354051	,Burglary
+,-1.992239	,51.353007	,Criminal damage and arson
+,-1.999879	,51.355471	,Criminal damage and arson
+,-1.995829	,51.354329	,Criminal damage and arson
+,-1.995829	,51.354329	,Criminal damage and arson
+,-1.995557	,51.352612	,Drugs
+-2.00031	,51.354779	,Other theft
+,-1.996662	,51.352135	,Other theft
+,-1.995269	,51.3553	,Other theft
+-2.001846	,51.354347	,Other theft
+,-1.994049	,51.351488	,Other theft
+,-1.996662	,51.352135	,Other theft
+,-1.99425	,51.353088	,Public order
+,-1.993388	,51.352765	,Robbery
+,-1.992699	,51.352234	,Shoplifting
+,-1.995054	,51.351524	,Shoplifting
+,-1.992699	,51.352234	,Shoplifting
+,-1.992699	,51.352234	,Shoplifting
+,-1.991866	,51.35218	,Shoplifting
+,-1.991866	,51.35218	,Shoplifting
+,-1.991866	,51.35218	,Vehicle crime
+,-1.996662	,51.352135	,Violence and sexual offences
+,-1.994695	,51.354815	,Violence and sexual offences
+,-1.996059	,51.352594	,Violence and sexual offences
+,-1.990531	,51.352369	,Violence and sexual offences
+,-1.999879	,51.355471	,Violence and sexual offences
+,-1.994178	,51.35254	,Violence and sexual offences
+,-1.997969	,51.355588	,Other crime
+,-1.99125	,51.34326	,Anti-social behaviour
+,-1.988336	,51.342055	,Burglary
+,-1.988336	,51.342055	,Burglary
+,-1.988336	,51.342055	,Burglary
+,-1.990962	,51.347882	,Other theft
+,-1.992371	,51.340752	,Other theft
+,-1.989499	,51.343836	,Violence and sexual offences
+,-1.992556	,51.351479	,Anti-social behaviour
+,-1.991019	,51.352027	,Anti-social behaviour
+,-1.992297	,51.351416	,Anti-social behaviour
+,-1.992556	,51.351479	,Anti-social behaviour
+,-1.991522	,51.351074	,Anti-social behaviour
+,-1.991019	,51.352027	,Anti-social behaviour
+,-1.993087	,51.349519	,Anti-social behaviour
+,-1.992556	,51.351479	,Anti-social behaviour
+,-1.993087	,51.349519	,Anti-social behaviour
+,-1.992556	,51.351479	,Anti-social behaviour
+,-1.992556	,51.351479	,Anti-social behaviour
+,-1.990732	,51.350211	,Burglary
+,-1.992297	,51.351416	,Criminal damage and arson
+,-1.992297	,51.351416	,Drugs
+,-1.993087	,51.349519	,Other theft
+,-1.992297	,51.351416	Theft from the person
+-2.000381	,51.347253	,Violence and sexual offences
+,-1.992297	,51.351416	,Violence and sexual offences
+,-1.991522	,51.351074	,Violence and sexual offences
+-2.250113	,51.352353	,Anti-social behaviour
+-2.250113	,51.352353	,Anti-social behaviour
+-2.261724	,51.351249	,Burglary
+-2.245426	,51.348587	,Anti-social behaviour
+-2.251295	,51.350588	,Criminal damage and arson
+-2.245426	,51.348587	,Criminal damage and arson
+-2.251234	,51.34995	,Criminal damage and arson
+-2.248309	,51.350685	,Other theft
+-2.256093	,51.348285	,Anti-social behaviour
+-2.259621	,51.352611	,Anti-social behaviour
+-2.254407	,51.349772	,Anti-social behaviour
+-2.257097	,51.350693	,Anti-social behaviour
+-2.257097	,51.350693	,Anti-social behaviour
+-2.254407	,51.349772	,Bicycle theft
+-2.25911	,51.346031	,Burglary
+-2.263199	,51.348018	,Burglary
+-2.257003	,51.349299	,Burglary
+-2.254407	,51.349772	,Shoplifting
+-2.238775	,51.339708	,Anti-social behaviour
+-2.243491	,51.343816	,Criminal damage and arson
+-2.240954	,51.339092	,Vehicle crime
+-2.244401	,51.339408	,Violence and sexual offences
+-2.244401	,51.339408	,Violence and sexual offences
+-2.251015	,51.341337	,Anti-social behaviour
+-2.251912	,51.337432	,Bicycle theft
+-2.251912	,51.337432	,Criminal damage and arson
+-2.251912	,51.337432	,Other theft
+-2.251015	,51.341337	,Other theft
+-2.251912	,51.337432	,Shoplifting
+-2.251912	,51.337432	,Shoplifting
+-2.251912	,51.337432	,Shoplifting
+-2.246706	,51.341031	,Violence and sexual offences
+-2.246706	,51.341031	,Violence and sexual offences
+-2.251912	,51.337432	,Other crime
+-2.251577	,51.344402	,Anti-social behaviour
+-2.247168	,51.344141	,Anti-social behaviour
+-2.251062	,51.347235	,Anti-social behaviour
+-2.25032	,51.348145	,Anti-social behaviour
+-2.249383	,51.347517	,Anti-social behaviour
+-2.249029	,51.345837	,Anti-social behaviour
+-2.249383	,51.347517	,Bicycle theft
+-2.252942	,51.347168	,Bicycle theft
+-2.252408	,51.346594	,Criminal damage and arson
+-2.250613	,51.34658	,Criminal damage and arson
+-2.252942	,51.347168	,Criminal damage and arson
+-2.249029	,51.345837	,Criminal damage and arson
+-2.254294	,51.347642	,Other theft
+-2.250924	,51.345707	,Other theft
+-2.249701	,51.347912	,Shoplifting
+-2.249383	,51.347517	,Vehicle crime
+-2.250613	,51.34658	,Violence and sexual offences
+-2.247951	,51.342908	,Violence and sexual offences
+-2.034335	,51.361661	,Anti-social behaviour
+-2.035576	,51.350457	,Anti-social behaviour
+-2.035576	,51.350457	,Anti-social behaviour
+-2.034335	,51.361661	,Criminal damage and arson
+-2.049859	,51.399277	,Other theft
+-2.045142	,51.396554	,Public order
+-2.031272	,51.356321	,Vehicle crime
+-2.028801	,51.355279	,Vehicle crime
+-2.053555	,51.388314	,Violence and sexual offences
+-2.0348		,51.386829	,Anti-social behaviour
+-2.030558	,51.383368	,Anti-social behaviour
+-2.043179	,51.388175	,Anti-social behaviour
+-2.045227	,51.380666	,Anti-social behaviour
+-2.026751	,51.361259	,Anti-social behaviour
+-2.030128	,51.363245	,Burglary
+-2.0348		,51.386829	,Criminal damage and arson
+-2.045227	,51.380666	,Vehicle crime
+-2.033116	,51.364422	,Vehicle crime
+-2.026794	,51.287239	,Anti-social behaviour
+-2.042377	,51.28317	,Other theft
+-2.007227	,51.329143	,Anti-social behaviour
+,-1.998831	,51.336553	,Anti-social behaviour
+-2.008218	,51.330384	,Burglary
+-2.00737	,51.322966	,Burglary
+-2.008892	,51.326419	,Criminal damage and arson
+-2.0045		,51.325915	,Violence and sexual offences
+-2.002448	,51.328388	,Violence and sexual offences
+-2.007227	,51.329143	,Violence and sexual offences
+-2.072555	,51.353075	,Anti-social behaviour
+-2.042834	,51.342389	,Anti-social behaviour
+,-1.614612	,51.348014	,Anti-social behaviour
+,-1.600994	,51.378522	,Burglary
+,-1.621145	,51.349815	,Other theft
+,-1.669112	,51.350716	,Anti-social behaviour
+,-1.662117	,51.349014	,Anti-social behaviour
+,-1.648296	,51.286247	,Anti-social behaviour
+,-1.712125	,51.280783	,Anti-social behaviour
+,-1.657909	,51.304835	,Anti-social behaviour
+,-1.65749	,51.280124	,Anti-social behaviour
+,-1.653334	,51.285642	,Anti-social behaviour
+,-1.652787	,51.282088	,Burglary
+,-1.657434	,51.281877	,Criminal damage and arson
+,-1.657909	,51.304835	,Other theft
+,-1.657909	,51.304835	,Other theft
+,-1.712125	,51.280783	,Vehicle crime
+,-1.652787	,51.282088	,Vehicle crime
+,-1.588099	,51.348886	,Anti-social behaviour
+,-1.559876	,51.363152	,Other theft
+-2.184787	,51.333718	,Anti-social behaviour
+-2.149629	,51.345404	,Vehicle crime
+-2.149629	,51.345404	,Violence and sexual offences
+-2.174757	,51.330991	,Violence and sexual offences
+-2.149629	,51.345404	,Violence and sexual offences
+-2.195965	,51.33967	,Anti-social behaviour
+-2.206333	,51.337135	,Anti-social behaviour
+-2.207647	,51.345153	,Anti-social behaviour
+-2.200947	,51.336416	,Anti-social behaviour
+-2.205967	,51.341973	,Anti-social behaviour
+-2.195965	,51.33967	,Anti-social behaviour
+-2.203096	,51.33866	,Anti-social behaviour
+-2.207893	,51.339308	,Anti-social behaviour
+-2.201906	,51.33583	,Anti-social behaviour
+-2.195965	,51.33967	,Anti-social behaviour
+-2.207893	,51.339308	,Anti-social behaviour
+-2.203096	,51.33866	,Anti-social behaviour
+-2.195965	,51.33967	,Anti-social behaviour
+-2.205291	,51.341695	,Anti-social behaviour
+-2.201414	,51.338106	,Anti-social behaviour
+-2.208962	,51.337454	,Criminal damage and arson
+-2.208206	,51.341708	,Other theft
+-2.199576	,51.338046	,Violence and sexual offences
+-2.199471	,51.340393	,Anti-social behaviour
+-2.195163	,51.336713	,Anti-social behaviour
+-2.199471	,51.340393	,Anti-social behaviour
+-2.187969	,51.336114	,Anti-social behaviour
+-2.184833	,51.334491	,Violence and sexual offences
+-2.18497	,51.325616	,Anti-social behaviour
+-2.183585	,51.323874	,Anti-social behaviour
+-2.216024	,51.319089	,Anti-social behaviour
+-2.220293	,51.317552	,Anti-social behaviour
+-2.222117	,51.320786	,Bicycle theft
+-2.225774	,51.320464	,Bicycle theft
+-2.216046	,51.317668	,Criminal damage and arson
+-2.222117	,51.320786	,Shoplifting
+-2.223566	,51.317789	,Violence and sexual offences
+-2.220293	,51.317552	,Violence and sexual offences
+-2.207434	,51.320165	,Anti-social behaviour
+-2.206572	,51.320104	,Anti-social behaviour
+-2.207434	,51.320165	,Anti-social behaviour
+-2.207983	,51.3211	,Anti-social behaviour
+-2.208629	,51.327402	,Anti-social behaviour
+-2.206572	,51.320104	,Anti-social behaviour
+-2.207696	,51.324211	,Anti-social behaviour
+-2.206572	,51.320104	,Anti-social behaviour
+-2.207977	,51.319751	,Anti-social behaviour
+-2.207434	,51.320165	,Anti-social behaviour
+-2.211306	,51.319619	,Anti-social behaviour
+-2.208629	,51.327402	,Anti-social behaviour
+-2.21193	,51.32736	,Anti-social behaviour
+-2.21084	,51.318217	,Anti-social behaviour
+-2.206259	,51.320689	,Anti-social behaviour
+-2.206259	,51.320689	,Anti-social behaviour
+-2.208836	,51.3193	,Anti-social behaviour
+-2.207434	,51.320165	,Anti-social behaviour
+-2.207795	,51.320686	,Anti-social behaviour
+-2.214189	,51.325512	,Anti-social behaviour
+-2.211054	,51.321058	,Anti-social behaviour
+-2.208958	,51.320792	,Anti-social behaviour
+-2.21217	,51.323367	,Anti-social behaviour
+-2.207434	,51.320165	,Anti-social behaviour
+-2.214189	,51.325512	,Anti-social behaviour
+-2.207434	,51.320165	,Anti-social behaviour
+-2.206259	,51.320689	,Anti-social behaviour
+-2.210426	,51.321878	,Anti-social behaviour
+-2.213642	,51.319075	,Anti-social behaviour
+-2.211054	,51.321058	,Anti-social behaviour
+-2.211836	,51.319465	,Anti-social behaviour
+-2.206572	,51.320104	,Anti-social behaviour
+-2.211306	,51.319619	,Anti-social behaviour
+-2.207434	,51.320165	,Anti-social behaviour
+-2.206809	,51.321704	,Bicycle theft
+-2.21084	,51.318217	,Bicycle theft
+-2.210458	,51.32257	,Bicycle theft
+-2.21084	,51.318217	,Bicycle theft
+-2.211822	,51.31639	,Burglary
+-2.206809	,51.321704	,Burglary
+-2.211054	,51.321058	,Burglary
+-2.207977	,51.319751	,Burglary
+-2.21217	,51.323367	,Criminal damage and arson
+-2.210126	,51.325277	,Criminal damage and arson
+-2.21217	,51.323367	,Criminal damage and arson
+-2.209714	,51.319892	,Criminal damage and arson
+-2.206572	,51.320104	,Drugs
+-2.211306	,51.319619	,Drugs
+-2.210426	,51.321878	,Drugs
+-2.211456	,51.324169	,Drugs
+-2.206259	,51.320689	,Drugs
+-2.206259	,51.320689	,Drugs
+-2.207696	,51.324211	,Other theft
+-2.208958	,51.320792	,Other theft
+-2.208958	,51.320792	,Public order
+-2.208958	,51.320792	,Public order
+-2.21084	,51.318217	,Robbery
+-2.206259	,51.320689	,Shoplifting
+-2.207434	,51.320165	,Shoplifting
+-2.211836	,51.319465	,Shoplifting
+-2.211306	,51.319619	,Shoplifting
+-2.210458	,51.32257	,Shoplifting
+-2.211306	,51.319619	,Shoplifting
+-2.207977	,51.319751	,Shoplifting
+-2.207696	,51.324211	Theft from the person
+-2.207795	,51.320686	Theft from the person
+-2.208958	,51.320792	Theft from the person
+-2.208958	,51.320792	Theft from the person
+-2.206572	,51.320104	,Violence and sexual offences
+-2.207434	,51.320165	,Violence and sexual offences
+-2.208958	,51.320792	,Violence and sexual offences
+-2.206572	,51.320104	,Violence and sexual offences
+-2.207696	,51.324211	,Violence and sexual offences
+-2.206572	,51.320104	,Violence and sexual offences
+-2.208958	,51.320792	,Violence and sexual offences
+-2.206572	,51.320104	,Violence and sexual offences
+-2.206572	,51.320104	,Violence and sexual offences
+-2.206572	,51.320104	,Violence and sexual offences
+-2.210623	,51.327281	,Violence and sexual offences
+-2.211306	,51.319619	,Violence and sexual offences
+-2.208958	,51.320792	,Violence and sexual offences
+-2.211054	,51.321058	,Violence and sexual offences
+-2.209531	,51.323731	,Violence and sexual offences
+-2.214189	,51.325512	,Violence and sexual offences
+-2.210949	,51.326265	,Other crime
+-2.206939	,51.324977	,Anti-social behaviour
+-2.203866	,51.327923	,Anti-social behaviour
+-2.203866	,51.327923	,Anti-social behaviour
+-2.203866	,51.327923	,Anti-social behaviour
+-2.20531	,51.329844	,Bicycle theft
+-2.206939	,51.324977	,Burglary
+-2.206939	,51.324977	,Other theft
+-2.213535	,51.326916	,Other theft
+-2.200886	,51.335598	,Violence and sexual offences
+-2.180463	,51.321874	,Anti-social behaviour
+-2.188014	,51.322662	,Anti-social behaviour
+-2.188014	,51.322662	,Anti-social behaviour
+-2.187083	,51.323059	,Bicycle theft
+-2.19626	,51.327972	,Criminal damage and arson
+-2.18172	,51.320523	,Vehicle crime
+-2.187083	,51.323059	,Violence and sexual offences
+-2.187083	,51.323059	,Violence and sexual offences
+-2.180463	,51.321874	,Violence and sexual offences
+-2.195182	,51.32096	,Anti-social behaviour
+-2.195182	,51.32096	,Anti-social behaviour
+-2.198787	,51.321565	,Anti-social behaviour
+-2.197852	,51.321081	,Anti-social behaviour
+-2.20052	,51.320897	,Anti-social behaviour
+-2.200561	,51.320375	,Anti-social behaviour
+-2.200424	,51.321931	,Bicycle theft
+-2.190007	,51.322065	,Criminal damage and arson
+-2.197852	,51.321081	,Public order
+-2.20635	,51.318576	,Anti-social behaviour
+-2.202842	,51.32029	,Anti-social behaviour
+-2.205043	,51.321348	,Anti-social behaviour
+-2.206856	,51.319258	,Anti-social behaviour
+-2.203714	,51.322735	,Anti-social behaviour
+-2.203495	,51.321773	,Anti-social behaviour
+-2.201966	,51.323367	,Anti-social behaviour
+-2.198952	,51.319821	,Anti-social behaviour
+-2.202433	,51.321829	,Burglary
+-2.202433	,51.321829	,Burglary
+-2.203495	,51.321773	,Criminal damage and arson
+-2.20635	,51.318576	,Criminal damage and arson
+-2.202842	,51.32029	,Drugs
+-2.20635	,51.318576	,Other theft
+-2.206856	,51.319258	,Shoplifting
+-2.205043	,51.321348	,Vehicle crime
+-2.201129	,51.319071	,Vehicle crime
+-2.205043	,51.321348	,Vehicle crime
+-2.206856	,51.319258	,Violence and sexual offences
+-2.202842	,51.32029	,Violence and sexual offences
+-2.206083	,51.322901	,Violence and sexual offences
+-2.203495	,51.321773	,Violence and sexual offences
+-2.206856	,51.319258	,Violence and sexual offences
+-2.192964	,51.318976	,Anti-social behaviour
+-2.196101	,51.317712	,Anti-social behaviour
+-2.187237	,51.318437	,Burglary
+-2.187237	,51.318437	,Burglary
+-2.187237	,51.318437	,Burglary
+-2.187237	,51.318437	,Burglary
+-2.198391	,51.316333	,Criminal damage and arson
+-2.19324	,51.319713	,Criminal damage and arson
+-2.194635	,51.317085	,Other theft
+-2.196101	,51.317712	,Violence and sexual offences
+-2.231936	,51.310318	,Anti-social behaviour
+-2.227984	,51.308915	,Anti-social behaviour
+-2.225409	,51.310304	,Anti-social behaviour
+-2.231936	,51.310318	,Anti-social behaviour
+-2.228041	,51.311711	,Anti-social behaviour
+-2.228879	,51.310073	,Anti-social behaviour
+-2.230942	,51.30934	,Anti-social behaviour
+-2.225409	,51.310304	,Criminal damage and arson
+-2.228041	,51.311711	,Violence and sexual offences
+-2.231138	,51.311354	,Other crime
+-2.228274	,51.31822	,Anti-social behaviour
+-2.231249	,51.324761	,Criminal damage and arson
+-2.220905	,51.313604	,Anti-social behaviour
+-2.219111	,51.313463	,Criminal damage and arson
+-2.219111	,51.313463	,Vehicle crime
+,-1.948734	,51.374163	,Anti-social behaviour
+,-1.96953	,51.362184	,Anti-social behaviour
+,-1.960865	,51.36746	,Anti-social behaviour
+,-1.936132	,51.365363	,Anti-social behaviour
+,-1.926038	,51.371759	,Anti-social behaviour
+,-1.941055	,51.357543	,Burglary
+,-1.926038	,51.371759	,Burglary
+,-1.941055	,51.357543	,Burglary
+,-1.941055	,51.357543	,Burglary
+,-1.953572	,51.377474	,Burglary
+,-1.93805	,51.380991	,Burglary
+,-1.941055	,51.357543	,Burglary
+,-1.966598	,51.364827	,Criminal damage and arson
+,-1.965537	,51.36328	,Criminal damage and arson
+,-1.966598	,51.364827	,Other theft
+,-1.96953	,51.362184	,Other theft
+,-1.966598	,51.364827	,Vehicle crime
+,-1.966598	,51.364827	,Vehicle crime
+,-1.967231	,51.363676	,Vehicle crime
+,-1.966598	,51.364827	,Violence and sexual offences
+-2.008629	,51.304344	,Burglary
+,-1.980736	,51.286009	,Criminal damage and arson
+,-1.987418	,51.286216	,Other theft
+,-1.949223	,51.334168	,Anti-social behaviour
+,-1.949223	,51.334168	,Anti-social behaviour
+,-1.971541	,51.292301	,Burglary
+-2.209009	,51.303618	,Anti-social behaviour
+-2.202773	,51.307918	,Anti-social behaviour
+-2.207267	,51.305554	,Anti-social behaviour
+-2.20144	,51.3081	,Violence and sexual offences
+-2.20144	,51.3081	,Violence and sexual offences
+-2.20329	,51.314364	,Anti-social behaviour
+-2.20065	,51.314477	,Anti-social behaviour
+-2.200444	,51.313254	,Anti-social behaviour
+-2.20329	,51.314364	,Anti-social behaviour
+-2.201598	,51.311346	,Anti-social behaviour
+-2.20065	,51.314477	,Anti-social behaviour
+-2.19843	,51.311954	,Anti-social behaviour
+-2.201406	,51.313477	,Criminal damage and arson
+-2.201406	,51.313477	,Criminal damage and arson
+-2.200609	,51.311653	,Public order
+-2.200609	,51.311653	,Robbery
+-2.200609	,51.311653	,Violence and sexual offences
+-2.200609	,51.311653	,Violence and sexual offences
+-2.201399	,51.311904	,Violence and sexual offences
+-2.200609	,51.311653	,Violence and sexual offences
+-2.19843	,51.311954	,Violence and sexual offences
+-2.201617	,51.312443	,Violence and sexual offences
+-2.207632	,51.316398	,Anti-social behaviour
+-2.209273	,51.314506	,Anti-social behaviour
+-2.207499	,51.315634	,Anti-social behaviour
+-2.202783	,51.316676	,Anti-social behaviour
+-2.206377	,51.314835	,Anti-social behaviour
+-2.211636	,51.313423	,Anti-social behaviour
+-2.206377	,51.314835	,Anti-social behaviour
+-2.209162	,51.315226	,Anti-social behaviour
+-2.209937	,51.315189	,Anti-social behaviour
+-2.209273	,51.314506	,Anti-social behaviour
+-2.209937	,51.315189	,Anti-social behaviour
+-2.211409	,51.313972	,Anti-social behaviour
+-2.202783	,51.316676	,Anti-social behaviour
+-2.215593	,51.312903	,Bicycle theft
+-2.209937	,51.315189	,Burglary
+-2.209273	,51.314506	,Burglary
+-2.209937	,51.315189	,Burglary
+-2.214392	,51.313769	,Criminal damage and arson
+-2.209273	,51.314506	,Criminal damage and arson
+-2.206295	,51.315896	,Drugs
+-2.202783	,51.316676	,Other theft
+-2.202783	,51.316676	,Other theft
+-2.209162	,51.315226	,Other theft
+-2.202783	,51.316676	,Other theft
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	,Shoplifting
+-2.202783	,51.316676	Theft from the person
+-2.202783	,51.316676	,Violence and sexual offences
+-2.208036	,51.313726	,Violence and sexual offences
+-2.209937	,51.315189	,Violence and sexual offences
+-2.203605	,51.310938	,Anti-social behaviour
+-2.213945	,51.310074	,Anti-social behaviour
+-2.213345	,51.310758	,Anti-social behaviour
+-2.213345	,51.310758	,Anti-social behaviour
+-2.213945	,51.310074	,Anti-social behaviour
+-2.213945	,51.310074	,Anti-social behaviour
+-2.206387	,51.310681	,Anti-social behaviour
+-2.206041	,51.310457	,Anti-social behaviour
+-2.213945	,51.310074	,Burglary
+-2.212714	,51.307586	,Burglary
+-2.213945	,51.310074	,Other theft
+-2.213945	,51.310074	,Violence and sexual offences
+-2.209253	,51.306908	,Violence and sexual offences
+-2.215779	,51.303453	,Anti-social behaviour
+-2.21767	,51.303063	,Anti-social behaviour
+-2.213415	,51.304068	,Anti-social behaviour
+-2.21767	,51.303063	,Drugs
+-2.216871	,51.303999	,Shoplifting
+-2.215889	,51.305512	,Vehicle crime
+-2.217555	,51.315094	,Anti-social behaviour
+-2.216041	,51.316598	,Anti-social behaviour
+-2.21263	,51.314222	,Anti-social behaviour
+-2.215403	,51.315053	,Anti-social behaviour
+-2.213215	,51.31681	,Anti-social behaviour
+-2.217555	,51.315094	,Burglary
+-2.21263	,51.314222	,Burglary
+-2.216041	,51.316598	,Criminal damage and arson
+-2.217555	,51.315094	,Criminal damage and arson
+-2.217555	,51.315094	,Criminal damage and arson
+-2.213215	,51.31681	,Criminal damage and arson
+-2.213215	,51.31681	,Drugs
+-2.213215	,51.31681	,Vehicle crime
+-2.216041	,51.316598	,Violence and sexual offences
+-2.21263	,51.314222	,Violence and sexual offences
+-2.214215	,51.315837	,Violence and sexual offences
+-2.221554	,51.311193	,Anti-social behaviour
+-2.221554	,51.311193	,Anti-social behaviour
+-2.222514	,51.308071	,Anti-social behaviour
+-2.215426	,51.307697	,Anti-social behaviour
+-2.222514	,51.308071	,Anti-social behaviour
+-2.221554	,51.311193	,Anti-social behaviour
+-2.221554	,51.311193	,Criminal damage and arson
+-2.222514	,51.308071	,Criminal damage and arson
+-2.222514	,51.308071	,Other theft
+-2.218454	,51.308043	,Other theft
+-2.219577	,51.308904	,Violence and sexual offences
+-2.223928	,51.309768	,Anti-social behaviour
+-2.223928	,51.309768	,Shoplifting
+-2.223928	,51.309768	,Shoplifting
+-2.223928	,51.309768	,Shoplifting
+-2.209073	,51.301981	,Shoplifting
+-2.209073	,51.301981	,Violence and sexual offences
+-2.232513	,51.296623	,Anti-social behaviour
+-2.2318	,51.297568	,Anti-social behaviour
+-2.238841	,51.294389	,Anti-social behaviour
+-2.228645	,51.303239	,Burglary
+-2.230244	,51.298938	,Other theft
+-2.226998	,51.292219	,Vehicle crime
+-2.232513	,51.296623	,Violence and sexual offences
+-2.233535	,51.294481	,Violence and sexual offences
+-2.192642	,51.314085	,Anti-social behaviour
+-2.139108	,51.313208	,Anti-social behaviour
+-2.137296	,51.326266	,Anti-social behaviour
+-2.191923	,51.313736	,Criminal damage and arson
+-2.086371	,51.323501	,Other theft
+-2.149512	,51.326971	,Violence and sexual offences
+-2.158114	,51.299427	,Violence and sexual offences
+,-1.812468	,51.310444	,Violence and sexual offences
+,-1.81067	,51.311412	,Violence and sexual offences
+,-1.764715	,51.258412	,Anti-social behaviour
+,-1.792745	,51.23603	,Criminal damage and arson
+,-1.792745	,51.23603	,Criminal damage and arson
+,-1.802364	,51.264362	,Other theft
+,-1.835364	,51.298717	,Anti-social behaviour
+,-1.778978	,51.293319	,Burglary
+,-1.807798	,51.294836	,Criminal damage and arson
+,-1.821357	,51.304415	,Criminal damage and arson
+,-1.807773	,51.294053	,Vehicle crime
+,-1.802257	,51.289431	,Vehicle crime
+,-1.805975	,51.329262	,Violence and sexual offences
+-2.233715	,51.267901	,Anti-social behaviour
+-2.198058	,51.295625	,Other theft
+-2.218788	,51.245513	,Anti-social behaviour
+-2.218788	,51.245513	,Anti-social behaviour
+-2.218788	,51.245513	,Criminal damage and arson
+-2.218788	,51.245513	,Criminal damage and arson
+-2.218788	,51.245513	,Criminal damage and arson
+-2.218788	,51.245513	,Criminal damage and arson
+-2.126229	,51.268273	,Anti-social behaviour
+-2.12052	,51.271903	,Criminal damage and arson
+-2.099639	,51.280725	,Criminal damage and arson
+-2.122252	,51.271244	,Other theft
+-2.173233	,51.276917	,Burglary
+-2.123988	,51.271719	,Burglary
+-2.202896	,51.27713	,Other theft
+-2.123988	,51.271719	,Public order
+-2.173233	,51.276917	Theft from the person
+-2.212973	,51.27374	,Vehicle crime
+-2.175622	,51.264244	,Criminal damage and arson
+-2.172549	,51.259015	,Drugs
+-2.172549	,51.259015	,Drugs
+-2.18247	,51.263469	,Anti-social behaviour
+-2.18247	,51.263469	,Anti-social behaviour
+-2.182352	,51.262669	,Anti-social behaviour
+-2.184786	,51.262152	,Anti-social behaviour
+-2.186666	,51.262653	,Anti-social behaviour
+-2.184068	,51.265337	,Violence and sexual offences
+-2.18247	,51.263469	,Violence and sexual offences
+-2.185455	,51.26805	,Anti-social behaviour
+-2.180092	,51.267474	,Anti-social behaviour
+-2.194723	,51.266731	,Anti-social behaviour
+-2.196736	,51.271475	,Anti-social behaviour
+-2.194723	,51.266731	,Anti-social behaviour
+-2.19115	,51.26582	,Anti-social behaviour
+-2.192263	,51.264658	,Anti-social behaviour
+-2.185946	,51.269074	,Burglary
+-2.188845	,51.26639	,Burglary
+-2.18445	,51.267809	,Vehicle crime
+-2.20394	,51.266868	,Vehicle crime
+-2.196736	,51.271475	,Violence and sexual offences
+-2.195603	,51.257882	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.193228	,51.258893	,Anti-social behaviour
+-2.198552	,51.257193	,Anti-social behaviour
+-2.198022	,51.254038	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.195603	,51.257882	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.194618	,51.258953	,Anti-social behaviour
+-2.192913	,51.255512	,Anti-social behaviour
+-2.195124	,51.256552	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.190095	,51.256641	,Anti-social behaviour
+-2.193394	,51.257553	,Anti-social behaviour
+-2.198054	,51.258084	,Bicycle theft
+-2.198022	,51.254038	,Drugs
+-2.192913	,51.255512	,Violence and sexual offences
+-2.187749	,51.261177	,Violence and sexual offences
+-2.193031	,51.263038	,Anti-social behaviour
+-2.197924	,51.261196	,Anti-social behaviour
+-2.197153	,51.261827	,Anti-social behaviour
+-2.198187	,51.262373	,Anti-social behaviour
+-2.196974	,51.266889	,Anti-social behaviour
+-2.195596	,51.259797	,Anti-social behaviour
+-2.198498	,51.261357	,Anti-social behaviour
+-2.193031	,51.263038	,Criminal damage and arson
+-2.198187	,51.262373	,Violence and sexual offences
+-2.184637	,51.26075	,Anti-social behaviour
+-2.180179	,51.264111	,Anti-social behaviour
+-2.183341	,51.259133	,Anti-social behaviour
+-2.182037	,51.259109	,Burglary
+-2.180071	,51.262097	,Burglary
+-2.184637	,51.26075	,Criminal damage and arson
+-2.184637	,51.26075	,Other theft
+-2.184637	,51.26075	,Shoplifting
+-2.180112	,51.265442	,Shoplifting
+-2.180124	,51.261171	,Vehicle crime
+-2.184476	,51.259824	,Vehicle crime
+-2.182037	,51.259109	,Vehicle crime
+-2.180354	,51.264956	,Vehicle crime
+-2.184637	,51.26075	,Violence and sexual offences
+-2.183341	,51.259133	,Violence and sexual offences
+-2.184637	,51.26075	,Violence and sexual offences
+-2.199485	,51.250924	,Anti-social behaviour
+-2.196917	,51.253536	,Anti-social behaviour
+-2.194889	,51.251822	,Anti-social behaviour
+-2.200405	,51.251669	,Anti-social behaviour
+-2.202383	,51.248645	,Anti-social behaviour
+-2.196523	,51.251981	,Criminal damage and arson
+-2.200405	,51.251669	,Other theft
+-2.196523	,51.251981	,Vehicle crime
+-2.200411	,51.249862	,Violence and sexual offences
+-2.200405	,51.251669	,Violence and sexual offences
+-2.184835	,51.253017	,Anti-social behaviour
+-2.183589	,51.256678	,Anti-social behaviour
+-2.184835	,51.253017	,Anti-social behaviour
+-2.184835	,51.253017	,Anti-social behaviour
+-2.184835	,51.253017	,Criminal damage and arson
+-2.183589	,51.256678	,Criminal damage and arson
+-2.184835	,51.253017	,Other theft
+-2.184835	,51.253017	,Other theft
+-2.184835	,51.253017	,Other theft
+-2.198947	,51.249118	,Violence and sexual offences
+,-1.615285	,51.257288	,Anti-social behaviour
+,-1.617359	,51.256	,Anti-social behaviour
+,-1.619971	,51.255568	,Anti-social behaviour
+,-1.617891	,51.25754	,Anti-social behaviour
+,-1.609855	,51.255436	,Anti-social behaviour
+,-1.621067	,51.256435	,Anti-social behaviour
+,-1.623116	,51.258213	,Anti-social behaviour
+,-1.610033	,51.254726	,Anti-social behaviour
+,-1.616219	,51.25525	,Anti-social behaviour
+,-1.634125	,51.257834	,Anti-social behaviour
+,-1.619971	,51.255568	,Anti-social behaviour
+,-1.619318	,51.254802	,Anti-social behaviour
+,-1.621588	,51.255879	,Burglary
+,-1.621588	,51.255879	,Burglary
+,-1.619713	,51.257339	,Criminal damage and arson
+,-1.619318	,51.254802	,Criminal damage and arson
+,-1.621588	,51.255879	,Criminal damage and arson
+,-1.634501	,51.257386	,Drugs
+,-1.617359	,51.256	,Other theft
+,-1.619318	,51.254802	,Shoplifting
+,-1.622991	,51.256001	,Vehicle crime
+,-1.608971	,51.254966	,Vehicle crime
+,-1.619713	,51.257339	,Violence and sexual offences
+,-1.634501	,51.257386	,Violence and sexual offences
+,-1.609481	,51.253933	,Anti-social behaviour
+,-1.609083	,51.253518	,Anti-social behaviour
+,-1.626543	,51.250941	,Anti-social behaviour
+,-1.630337	,51.240567	,Criminal damage and arson
+,-1.630337	,51.240567	,Other theft
+,-1.619075	,51.252994	,Other theft
+,-1.630473	,51.239686	,Vehicle crime
+,-1.626435	,51.253638	,Vehicle crime
+,-1.62416	,51.254943	,Vehicle crime
+,-1.61921	,51.254037	,Vehicle crime
+,-1.625736	,51.253213	,Vehicle crime
+,-1.625736	,51.253213	,Violence and sexual offences
+,-1.67272	,51.243247	,Anti-social behaviour
+,-1.666509	,51.240379	,Other theft
+,-1.674089	,51.242064	,Violence and sexual offences
+,-1.674541	,51.24505	,Violence and sexual offences
+,-1.667694	,51.232901	,Anti-social behaviour
+,-1.661122	,51.234564	,Anti-social behaviour
+,-1.659595	,51.235854	,Anti-social behaviour
+,-1.674186	,51.222273	,Criminal damage and arson
+,-1.669942	,51.233078	,Other theft
+,-1.670436	,51.228017	,Vehicle crime
+,-1.665146	,51.242641	,Anti-social behaviour
+,-1.664414	,51.238871	,Anti-social behaviour
+,-1.665146	,51.242641	,Anti-social behaviour
+,-1.664414	,51.238871	,Anti-social behaviour
+,-1.662127	,51.238136	,Anti-social behaviour
+,-1.666094	,51.242266	,Anti-social behaviour
+,-1.664414	,51.238871	,Other theft
+,-1.664414	,51.238871	,Shoplifting
+,-1.656873	,51.239668	,Violence and sexual offences
+,-1.657437	,51.242825	,Anti-social behaviour
+,-1.662947	,51.241601	,Anti-social behaviour
+,-1.667199	,51.246019	,Anti-social behaviour
+,-1.656333	,51.24293	,Anti-social behaviour
+,-1.666138	,51.246034	,Anti-social behaviour
+,-1.666138	,51.246034	,Burglary
+,-1.655263	,51.242351	,Criminal damage and arson
+,-1.656333	,51.24293	,Criminal damage and arson
+,-1.662947	,51.241601	,Violence and sexual offences
+,-1.662947	,51.241601	,Violence and sexual offences
+,-1.666846	,51.245289	,Violence and sexual offences
+,-1.662947	,51.241601	,Violence and sexual offences
+,-1.655263	,51.242351	,Violence and sexual offences
+,-1.662947	,51.241601	,Violence and sexual offences
+-2.160499	,51.202087	,Anti-social behaviour
+-2.158247	,51.200669	,Anti-social behaviour
+-2.158247	,51.200669	,Anti-social behaviour
+-2.159615	,51.198788	,Anti-social behaviour
+-2.160499	,51.202087	,Anti-social behaviour
+-2.161277	,51.199442	,Anti-social behaviour
+-2.158247	,51.200669	,Anti-social behaviour
+-2.16298	,51.199197	,Anti-social behaviour
+-2.16298	,51.199197	,Criminal damage and arson
+-2.160499	,51.202087	,Other theft
+-2.16298	,51.199197	,Violence and sexual offences
+-2.158247	,51.200669	,Violence and sexual offences
+-2.163756	,51.20005	,Anti-social behaviour
+-2.172259	,51.200667	,Burglary
+-2.169694	,51.199754	,Violence and sexual offences
+-2.169694	,51.199754	,Violence and sexual offences
+-2.169797	,51.208179	,Anti-social behaviour
+-2.158385	,51.211486	,Anti-social behaviour
+-2.166122	,51.209398	,Other theft
+-2.163203	,51.209807	,Other theft
+-2.163203	,51.209807	,Violence and sexual offences
+-2.171812	,51.203464	,Anti-social behaviour
+-2.175463	,51.207586	,Anti-social behaviour
+-2.181519	,51.207856	,Anti-social behaviour
+-2.169682	,51.204187	,Anti-social behaviour
+-2.176861	,51.20994	,Anti-social behaviour
+-2.175463	,51.207586	,Anti-social behaviour
+-2.176861	,51.20994	,Anti-social behaviour
+-2.173574	,51.207724	,Burglary
+-2.175463	,51.207586	,Other theft
+-2.163722	,51.202828	,Violence and sexual offences
+-2.215349	,51.196378	,Anti-social behaviour
+-2.215349	,51.196378	,Bicycle theft
+-2.199352	,51.200336	,Criminal damage and arson
+-2.215349	,51.196378	,Criminal damage and arson
+-2.215349	,51.196378	,Criminal damage and arson
+-2.215349	,51.196378	,Drugs
+-2.215349	,51.196378	,Other theft
+-2.201246	,51.217858	,Other theft
+-2.201246	,51.217858	,Other theft
+-2.209713	,51.197036	,Other theft
+-2.200119	,51.199112	,Vehicle crime
+-2.185029	,51.212103	,Anti-social behaviour
+-2.185971	,51.211436	,Anti-social behaviour
+-2.182422	,51.211703	,Anti-social behaviour
+-2.184306	,51.210189	,Criminal damage and arson
+-2.200213	,51.204255	,Anti-social behaviour
+-2.198059	,51.205877	,Anti-social behaviour
+-2.198059	,51.205877	,Anti-social behaviour
+-2.193035	,51.205949	,Anti-social behaviour
+-2.193311	,51.203655	,Anti-social behaviour
+-2.200742	,51.204003	,Criminal damage and arson
+-2.195187	,51.203724	,Violence and sexual offences
+-2.194748	,51.201567	,Anti-social behaviour
+-2.194748	,51.201567	,Anti-social behaviour
+-2.194748	,51.201567	,Burglary
+-2.194748	,51.201567	,Burglary
+-2.203735	,51.201237	,Criminal damage and arson
+-2.202639	,51.202579	,Criminal damage and arson
+-2.182182	,51.205256	,Anti-social behaviour
+-2.175438	,51.204745	,Anti-social behaviour
+-2.182182	,51.205256	,Anti-social behaviour
+-2.180576	,51.204566	,Anti-social behaviour
+-2.180932	,51.203981	,Anti-social behaviour
+-2.180451	,51.205618	,Anti-social behaviour
+-2.178338	,51.20332	,Anti-social behaviour
+-2.180025	,51.206491	,Anti-social behaviour
+-2.181632	,51.203836	,Anti-social behaviour
+-2.180451	,51.205618	,Anti-social behaviour
+-2.182182	,51.205256	,Anti-social behaviour
+-2.176635	,51.203349	,Anti-social behaviour
+-2.182182	,51.205256	,Anti-social behaviour
+-2.175438	,51.204745	,Anti-social behaviour
+-2.180932	,51.203981	,Anti-social behaviour
+-2.180576	,51.204566	,Anti-social behaviour
+-2.183626	,51.197655	,Anti-social behaviour
+-2.182182	,51.205256	,Anti-social behaviour
+-2.182182	,51.205256	,Anti-social behaviour
+-2.179145	,51.204748	,Anti-social behaviour
+-2.182182	,51.205256	,Anti-social behaviour
+-2.175438	,51.204745	,Anti-social behaviour
+-2.180576	,51.204566	,Anti-social behaviour
+-2.178091	,51.202367	,Anti-social behaviour
+-2.179145	,51.204748	,Bicycle theft
+-2.179208	,51.202392	,Burglary
+-2.182182	,51.205256	,Burglary
+-2.182182	,51.205256	,Criminal damage and arson
+-2.180147	,51.204693	,Criminal damage and arson
+-2.179145	,51.204748	,Drugs
+-2.180693	,51.205258	,Drugs
+-2.179145	,51.204748	,Drugs
+-2.175438	,51.204745	,Other theft
+-2.182182	,51.205256	,Other theft
+-2.175438	,51.204745	,Other theft
+-2.180147	,51.204693	,Other theft
+-2.182826	,51.205255	,Public order
+-2.180147	,51.204693	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.180451	,51.205618	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.180147	,51.204693	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.177774	,51.205505	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.175438	,51.204745	,Shoplifting
+-2.175438	,51.204745	,Violence and sexual offences
+-2.182826	,51.205255	,Violence and sexual offences
+-2.179145	,51.204748	,Violence and sexual offences
+-2.182182	,51.205256	,Violence and sexual offences
+-2.182182	,51.205256	,Violence and sexual offences
+-2.181632	,51.203836	,Violence and sexual offences
+-2.180576	,51.204566	,Violence and sexual offences
+-2.180693	,51.205258	,Violence and sexual offences
+-2.180025	,51.206491	,Violence and sexual offences
+-2.180147	,51.204693	,Violence and sexual offences
+-2.178338	,51.20332	,Violence and sexual offences
+-2.176223	,51.204105	,Violence and sexual offences
+-2.188508	,51.194554	,Vehicle crime
+-2.184781	,51.200297	,Vehicle crime
+-2.189601	,51.195812	,Anti-social behaviour
+-2.194049	,51.195148	,Anti-social behaviour
+-2.196062	,51.197455	,Anti-social behaviour
+-2.190437	,51.197303	,Other theft
+-2.185509	,51.203156	,Anti-social behaviour
+-2.183494	,51.203986	,Anti-social behaviour
+-2.183494	,51.203986	,Anti-social behaviour
+-2.183494	,51.203986	,Anti-social behaviour
+-2.187066	,51.202551	,Anti-social behaviour
+-2.188621	,51.201334	,Anti-social behaviour
+-2.184317	,51.205873	,Anti-social behaviour
+-2.192639	,51.200276	,Anti-social behaviour
+-2.183494	,51.203986	,Anti-social behaviour
+-2.184702	,51.205468	,Burglary
+-2.192639	,51.200276	,Criminal damage and arson
+-2.192639	,51.200276	,Criminal damage and arson
+-2.183494	,51.203986	,Other theft
+-2.183494	,51.203986	,Other theft
+-2.183494	,51.203986	,Other theft
+-2.183494	,51.203986	,Shoplifting
+-2.183494	,51.203986	Theft from the person
+-2.191647	,51.202741	,Vehicle crime
+-2.183494	,51.203986	,Violence and sexual offences
+-2.183494	,51.203986	,Violence and sexual offences
+,-1.729843	,51.180943	,Anti-social behaviour
+,-1.745907	,51.191851	,Anti-social behaviour
+,-1.729843	,51.180943	,Anti-social behaviour
+,-1.726209	,51.190736	,Anti-social behaviour
+,-1.745907	,51.191851	,Violence and sexual offences
+,-1.793005	,51.190864	,Anti-social behaviour
+,-1.816327	,51.191623	,Anti-social behaviour
+,-1.815061	,51.196809	,Anti-social behaviour
+,-1.816327	,51.191623	,Anti-social behaviour
+,-1.814449	,51.195846	,Anti-social behaviour
+,-1.800106	,51.196694	,Anti-social behaviour
+,-1.800765	,51.196498	,Bicycle theft
+,-1.82105	,51.194993	,Criminal damage and arson
+,-1.800106	,51.196694	,Other theft
+,-1.815058	,51.197456	,Other theft
+,-1.82105	,51.194993	,Violence and sexual offences
+,-1.822558	,51.193691	,Violence and sexual offences
+,-1.907273	,51.194958	,Anti-social behaviour
+,-1.902918	,51.190458	,Burglary
+,-1.901209	,51.193307	,Burglary
+,-1.903163	,51.189712	,Burglary
+,-1.903425	,51.194056	,Other theft
+,-1.900199	,51.197245	,Anti-social behaviour
+,-1.949165	,51.230672	,Burglary
+,-1.958976	,51.23029	,Burglary
+,-1.780083	,51.224075	,Other theft
+,-1.878247	,51.20163	,Other theft
+,-1.90466	,51.199092	,Other theft
+,-1.916614	,51.205288	,Vehicle crime
+,-1.949149	,51.231652	,Vehicle crime
+,-1.734232	,51.191456	,Violence and sexual offences
+,-1.901853	,51.199809	,Violence and sexual offences
+,-1.949165	,51.230672	,Violence and sexual offences
+,-1.758785	,51.192085	,Anti-social behaviour
+,-1.758785	,51.192085	,Anti-social behaviour
+,-1.753915	,51.192785	,Anti-social behaviour
+,-1.758785	,51.192085	,Anti-social behaviour
+,-1.752499	,51.1928	,Vehicle crime
+,-1.780602	,51.1963	,Anti-social behaviour
+,-1.784402	,51.191424	,Anti-social behaviour
+,-1.784402	,51.191424	,Anti-social behaviour
+,-1.780602	,51.1963	,Burglary
+,-1.775595	,51.198772	,Drugs
+,-1.771988	,51.198909	,Other theft
+,-1.77436	,51.196639	,Other theft
+,-1.767943	,51.195008	,Anti-social behaviour
+,-1.769289	,51.194812	,Anti-social behaviour
+,-1.770183	,51.202125	,Anti-social behaviour
+,-1.771608	,51.20032	,Anti-social behaviour
+,-1.768465	,51.193579	,Anti-social behaviour
+,-1.770389	,51.195228	,Anti-social behaviour
+,-1.769289	,51.194812	,Criminal damage and arson
+,-1.770389	,51.195228	,Criminal damage and arson
+,-1.766451	,51.195688	,Criminal damage and arson
+,-1.768412	,51.20409	,Drugs
+,-1.770389	,51.195228	,Other theft
+,-1.768412	,51.20409	,Vehicle crime
+,-1.770183	,51.202125	,Violence and sexual offences
+,-1.781622	,51.198352	,Anti-social behaviour
+,-1.776677	,51.199952	,Shoplifting
+,-1.776677	,51.199952	,Violence and sexual offences
+-2.237222	,51.233509	,Anti-social behaviour
+-2.233165	,51.238489	,Other theft
+-2.062856	,51.16061	,Violence and sexual offences
+-2.04575	,51.156797	,Violence and sexual offences
+-2.093911	,51.165175	,Anti-social behaviour
+-2.010214	,51.14668	,Burglary
+-2.113075	,51.182405	,Criminal damage and arson
+-2.107183	,51.183534	,Vehicle crime
+-2.200533	,51.182224	,Anti-social behaviour
+-2.256575	,51.17493	,Anti-social behaviour
+-2.163299	,51.127701	,Anti-social behaviour
+-2.203136	,51.178911	,Drugs
+-2.203136	,51.178911	,Other theft
+-2.274771	,51.1871	,Vehicle crime
+-2.22102	,51.134476	,Vehicle crime
+-2.187637	,51.188064	,Vehicle crime
+-2.200121	,51.179815	,Violence and sexual offences
+-2.139126	,51.172396	,Anti-social behaviour
+-2.139126	,51.172396	,Anti-social behaviour
+-2.139126	,51.172396	,Anti-social behaviour
+-2.139126	,51.172396	,Anti-social behaviour
+-2.139126	,51.172396	,Anti-social behaviour
+-2.188458	,51.164944	,Burglary
+-2.139126	,51.172396	,Criminal damage and arson
+-2.158523	,51.176813	,Criminal damage and arson
+-2.139126	,51.172396	,Criminal damage and arson
+-2.139126	,51.172396	,Criminal damage and arson
+-2.188293	,51.166563	,Other theft
+-2.139126	,51.172396	,Public order
+-2.143127	,51.175664	,Vehicle crime
+-2.167588	,51.151928	,Violence and sexual offences
+-2.139126	,51.172396	,Violence and sexual offences
+-2.167588	,51.151928	,Violence and sexual offences
+,-1.780304	,51.174494	,Anti-social behaviour
+,-1.773853	,51.177359	,Anti-social behaviour
+,-1.778215	,51.171774	,Anti-social behaviour
+,-1.778082	,51.172529	,Anti-social behaviour
+,-1.778215	,51.171774	,Violence and sexual offences
+,-1.776179	,51.175601	,Violence and sexual offences
+,-1.769493	,51.173907	,Violence and sexual offences
+,-1.769219	,51.171505	,Anti-social behaviour
+,-1.768766	,51.170533	,Anti-social behaviour
+,-1.769219	,51.171505	,Anti-social behaviour
+,-1.768733	,51.174319	,Anti-social behaviour
+,-1.76814	,51.175576	,Anti-social behaviour
+,-1.772	,51.170351	,Criminal damage and arson
+,-1.769307	,51.171119	,Criminal damage and arson
+,-1.766627	,51.175034	,Other theft
+,-1.76933	,51.17512	,Other theft
+,-1.76814	,51.175576	,Shoplifting
+,-1.76814	,51.175576	,Shoplifting
+,-1.77066	,51.172299	,Vehicle crime
+,-1.77261	,51.171269	,Violence and sexual offences
+,-1.772092	,51.171861	,Violence and sexual offences
+,-1.772092	,51.171861	,Violence and sexual offences
+,-1.772	,51.170351	,Violence and sexual offences
+,-1.772	,51.170351	,Violence and sexual offences
+,-1.764244	,51.162548	,Anti-social behaviour
+,-1.763646	,51.162061	,Anti-social behaviour
+,-1.763646	,51.162061	,Anti-social behaviour
+,-1.765461	,51.165131	,Anti-social behaviour
+,-1.765588	,51.165491	,Anti-social behaviour
+,-1.765567	,51.16684	,Anti-social behaviour
+,-1.765461	,51.165131	,Anti-social behaviour
+,-1.765461	,51.165131	,Anti-social behaviour
+,-1.765567	,51.16684	,Anti-social behaviour
+,-1.763168	,51.163292	,Anti-social behaviour
+,-1.761483	,51.165438	,Criminal damage and arson
+,-1.765567	,51.16684	,Criminal damage and arson
+,-1.765628	,51.166049	,Criminal damage and arson
+,-1.758105	,51.166132	,Criminal damage and arson
+,-1.765628	,51.166049	,Criminal damage and arson
+,-1.760962	,51.166678	,Criminal damage and arson
+,-1.762307	,51.166582	,Criminal damage and arson
+,-1.765461	,51.165131	,Other theft
+,-1.758105	,51.166132	,Other theft
+,-1.763646	,51.162061	,Other theft
+,-1.762324	,51.165997	,Public order
+,-1.762324	,51.165997	,Public order
+,-1.763168	,51.163292	,Shoplifting
+,-1.763646	,51.162061	,Violence and sexual offences
+,-1.759431	,51.166846	,Violence and sexual offences
+,-1.756543	,51.177459	,Anti-social behaviour
+,-1.767736	,51.164884	,Anti-social behaviour
+,-1.760852	,51.168638	,Anti-social behaviour
+,-1.764742	,51.163143	,Anti-social behaviour
+,-1.770781	,51.165205	,Anti-social behaviour
+,-1.756543	,51.177459	,Anti-social behaviour
+,-1.768058	,51.1635	,Anti-social behaviour
+,-1.770781	,51.165205	,Anti-social behaviour
+,-1.761622	,51.171751	,Anti-social behaviour
+,-1.761845	,51.172956	,Anti-social behaviour
+,-1.760806	,51.169267	,Criminal damage and arson
+,-1.756543	,51.177459	,Criminal damage and arson
+,-1.758404	,51.168993	,Drugs
+,-1.767947	,51.165541	,Vehicle crime
+,-1.757064	,51.171004	,Violence and sexual offences
+,-1.756543	,51.177459	,Violence and sexual offences
+,-1.768873	,51.169122	,Anti-social behaviour
+,-1.76359	,51.173095	,Anti-social behaviour
+,-1.768873	,51.169122	,Anti-social behaviour
+,-1.76457	,51.168672	,Anti-social behaviour
+,-1.768873	,51.169122	,Anti-social behaviour
+,-1.764702	,51.170939	,Anti-social behaviour
+,-1.763286	,51.173642	,Anti-social behaviour
+,-1.76457	,51.168672	,Anti-social behaviour
+,-1.762799	,51.171052	,Criminal damage and arson
+,-1.766291	,51.170654	,Criminal damage and arson
+,-1.767406	,51.167986	,Criminal damage and arson
+,-1.762765	,51.172059	,Criminal damage and arson
+,-1.767406	,51.167986	,Criminal damage and arson
+,-1.761858	,51.170456	,Other theft
+,-1.763312	,51.168652	,Violence and sexual offences
+,-1.763949	,51.169993	,Violence and sexual offences
+,-1.76592	,51.173225	,Violence and sexual offences
+,-1.782145	,51.172492	,Anti-social behaviour
+,-1.780683	,51.17302	,Anti-social behaviour
+,-1.782145	,51.172492	,Anti-social behaviour
+,-1.780683	,51.17302	,Anti-social behaviour
+,-1.780847	,51.171581	,Anti-social behaviour
+,-1.780683	,51.17302	,Anti-social behaviour
+,-1.782145	,51.172492	,Anti-social behaviour
+,-1.780431	,51.171868	,Anti-social behaviour
+,-1.780683	,51.17302	,Anti-social behaviour
+,-1.780431	,51.171868	,Anti-social behaviour
+,-1.780847	,51.171581	,Anti-social behaviour
+,-1.780431	,51.171868	,Anti-social behaviour
+,-1.780847	,51.171581	,Anti-social behaviour
+,-1.782145	,51.172492	,Anti-social behaviour
+,-1.780847	,51.171581	,Anti-social behaviour
+,-1.779389	,51.171498	,Anti-social behaviour
+,-1.780847	,51.171581	,Anti-social behaviour
+,-1.780431	,51.171868	,Anti-social behaviour
+,-1.780847	,51.171581	,Anti-social behaviour
+,-1.780431	,51.171868	,Anti-social behaviour
+,-1.782145	,51.172492	,Anti-social behaviour
+,-1.782145	,51.172492	,Anti-social behaviour
+,-1.777659	,51.171288	,Anti-social behaviour
+,-1.780431	,51.171868	,Anti-social behaviour
+,-1.770025	,51.167613	,Criminal damage and arson
+,-1.780431	,51.171868	,Criminal damage and arson
+,-1.77325	,51.169193	,Criminal damage and arson
+,-1.783182	,51.17101	,Criminal damage and arson
+,-1.783182	,51.17101	,Criminal damage and arson
+,-1.777749	,51.170533	,Criminal damage and arson
+,-1.782145	,51.172492	,Drugs
+,-1.771761	,51.166529	,Other theft
+,-1.780683	,51.17302	,Other theft
+,-1.779389	,51.171498	,Vehicle crime
+,-1.776685	,51.16857	,Violence and sexual offences
+,-1.780847	,51.171581	,Violence and sexual offences
+,-1.775873	,51.170961	,Violence and sexual offences
+,-1.780847	,51.171581	,Violence and sexual offences
+,-1.781268	,51.17348	,Violence and sexual offences
+,-1.782145	,51.172492	,Violence and sexual offences
+,-1.780683	,51.17302	,Violence and sexual offences
+,-1.780683	,51.17302	,Violence and sexual offences
+,-1.775873	,51.170961	,Violence and sexual offences
+,-1.782145	,51.172492	,Other crime
+,-1.830334	,51.125831	,Anti-social behaviour
+,-1.891236	,51.119474	,Vehicle crime
+,-1.819307	,51.135616	,Vehicle crime
+,-1.818957	,51.126534	,Vehicle crime
+,-1.734034	,51.131371	,Anti-social behaviour
+,-1.734034	,51.131371	,Anti-social behaviour
+,-1.734034	,51.131371	,Anti-social behaviour
+,-1.731663	,51.128614	,Anti-social behaviour
+,-1.729833	,51.131272	,Anti-social behaviour
+,-1.728434	,51.126125	,Burglary
+,-1.728434	,51.126125	,Burglary
+,-1.676451	,51.178902	,Anti-social behaviour
+,-1.676451	,51.178902	,Anti-social behaviour
+,-1.678925	,51.181103	,Anti-social behaviour
+,-1.707324	,51.133519	,Burglary
+,-1.741168	,51.115462	,Anti-social behaviour
+,-1.741986	,51.117496	,Drugs
+,-1.754902	,51.109197	,Vehicle crime
+,-1.749909	,51.113314	,Violence and sexual offences
+,-1.749909	,51.113314	,Violence and sexual offences
+-2.178344	,51.078933	,Anti-social behaviour
+-2.177755	,51.04078	,Anti-social behaviour
+-2.128773	,51.096317	,Burglary
+-2.125783	,51.094639	,Drugs
+-2.125982	,51.1097	,Drugs
+-2.185828	,51.101231	,Other theft
+-2.185828	,51.101231	,Other theft
+-2.185828	,51.101231	,Other theft
+-2.252164	,51.090055	,Anti-social behaviour
+-2.267842	,51.090146	,Anti-social behaviour
+-2.270624	,51.089762	,Other theft
+-2.265791	,51.088496	,Vehicle crime
+-2.260774	,51.085117	,Violence and sexual offences
+-2.275149	,51.089571	,Anti-social behaviour
+-2.318479	,51.122067	,Anti-social behaviour
+-2.25322	,51.10819	,Anti-social behaviour
+-2.320093	,51.113673	,Vehicle crime
+-2.290235	,51.127347	,Vehicle crime
+-2.263368	,51.091802	,Anti-social behaviour
+-2.265995	,51.091724	,Anti-social behaviour
+-2.268914	,51.090323	,Anti-social behaviour
+-2.263086	,51.092441	,Anti-social behaviour
+-2.268914	,51.090323	,Criminal damage and arson
+-2.2667	,51.092729	,Criminal damage and arson
+,-1.774651	,51.089859	,Anti-social behaviour
+,-1.786253	,51.091247	,Burglary
+,-1.782143	,51.087805	,Burglary
+,-1.778476	,51.087115	,Criminal damage and arson
+,-1.775654	,51.086174	,Other theft
+,-1.782169	,51.088237	,Other theft
+,-1.775654	,51.086174	,Violence and sexual offences
+,-1.782979	,51.08305	,Anti-social behaviour
+,-1.784834	,51.083116	,Anti-social behaviour
+,-1.780284	,51.082352	,Anti-social behaviour
+,-1.783131	,51.083994	,Anti-social behaviour
+,-1.780284	,51.082352	,Anti-social behaviour
+,-1.784834	,51.083116	,Other theft
+,-1.779032	,51.084373	,Violence and sexual offences
+,-1.794173	,51.079401	,Anti-social behaviour
+,-1.793832	,51.085479	,Burglary
+,-1.789844	,51.086434	,Vehicle crime
+,-1.829333	,51.091084	,Anti-social behaviour
+,-1.832415	,51.087645	,Anti-social behaviour
+,-1.830993	,51.089999	,Anti-social behaviour
+,-1.831696	,51.089146	,Anti-social behaviour
+,-1.825842	,51.089002	,Anti-social behaviour
+,-1.831696	,51.089146	,Anti-social behaviour
+,-1.829241	,51.088899	,Anti-social behaviour
+,-1.829241	,51.088899	,Burglary
+,-1.830263	,51.08659	,Burglary
+,-1.831696	,51.089146	,Criminal damage and arson
+,-1.83127	,51.088363	,Criminal damage and arson
+,-1.832415	,51.087645	,Drugs
+,-1.830993	,51.089999	,Violence and sexual offences
+,-1.83127	,51.088363	,Violence and sexual offences
+,-1.83127	,51.088363	,Violence and sexual offences
+,-1.83024	,51.088883	,Violence and sexual offences
+,-1.830263	,51.08659	,Violence and sexual offences
+,-1.830263	,51.08659	,Violence and sexual offences
+,-1.8332	,51.083663	,Anti-social behaviour
+,-1.833937	,51.08539	,Anti-social behaviour
+,-1.829879	,51.082363	,Anti-social behaviour
+,-1.829879	,51.082363	,Anti-social behaviour
+,-1.835057	,51.083548	,Anti-social behaviour
+,-1.835204	,51.082272	,Anti-social behaviour
+,-1.830997	,51.085125	,Bicycle theft
+,-1.829879	,51.082363	,Criminal damage and arson
+,-1.830997	,51.085125	,Other theft
+,-1.829879	,51.082363	,Other theft
+,-1.8332	,51.083663	,Vehicle crime
+,-1.82455	,51.083335	,Anti-social behaviour
+,-1.823405	,51.084251	,Anti-social behaviour
+,-1.822759	,51.081219	,Anti-social behaviour
+,-1.823405	,51.084251	,Burglary
+,-1.827444	,51.088348	,Criminal damage and arson
+,-1.823405	,51.084251	,Vehicle crime
+,-1.831889	,51.079263	,Anti-social behaviour
+,-1.824175	,51.080529	,Anti-social behaviour
+,-1.827922	,51.078709	,Anti-social behaviour
+,-1.825584	,51.081817	,Anti-social behaviour
+,-1.831744	,51.079857	,Anti-social behaviour
+,-1.827411	,51.081928	,Anti-social behaviour
+,-1.828262	,51.079564	,Anti-social behaviour
+,-1.826262	,51.079795	,Anti-social behaviour
+,-1.829651	,51.078181	,Burglary
+,-1.827032	,51.083887	,Criminal damage and arson
+,-1.825584	,51.081817	,Drugs
+,-1.82786	,51.083853	,Vehicle crime
+,-1.825584	,51.081817	,Violence and sexual offences
+,-1.825584	,51.081817	,Violence and sexual offences
+,-1.82786	,51.083853	,Violence and sexual offences
+,-1.798872	,51.091953	,Anti-social behaviour
+,-1.805463	,51.083215	,Anti-social behaviour
+,-1.796544	,51.088838	,Other theft
+,-1.798872	,51.091953	,Other theft
+,-1.799834	,51.09075	,Vehicle crime
+,-1.795625	,51.090059	,Vehicle crime
+,-1.799834	,51.09075	,Vehicle crime
+,-1.797518	,51.088309	,Vehicle crime
+,-1.795625	,51.090059	,Vehicle crime
+,-1.799834	,51.09075	,Vehicle crime
+,-1.795625	,51.090059	,Vehicle crime
+,-1.796544	,51.088838	,Vehicle crime
+,-1.797757	,51.08581	,Violence and sexual offences
+,-1.804094	,51.079472	,Anti-social behaviour
+,-1.797681	,51.083562	,Anti-social behaviour
+,-1.802557	,51.081655	,Anti-social behaviour
+,-1.794852	,51.080877	,Anti-social behaviour
+,-1.797681	,51.083562	,Bicycle theft
+,-1.797681	,51.083562	,Burglary
+,-1.804094	,51.079472	,Other theft
+,-1.797673	,51.07894	,Other theft
+,-1.797681	,51.083562	,Shoplifting
+,-1.797681	,51.083562	,Shoplifting
+,-1.797681	,51.083562	,Shoplifting
+,-1.797681	,51.083562	,Shoplifting
+,-1.797681	,51.083562	,Shoplifting
+,-1.797681	,51.083562	,Shoplifting
+,-1.80351	,51.082456	,Vehicle crime
+,-1.80351	,51.082456	,Violence and sexual offences
+,-1.802557	,51.081655	,Violence and sexual offences
+,-1.796022	,51.07766	,Anti-social behaviour
+,-1.797131	,51.075522	,Criminal damage and arson
+,-1.796022	,51.07766	,Drugs
+,-1.790658	,51.077075	,Vehicle crime
+,-1.793297	,51.077322	,Violence and sexual offences
+,-1.822353	,51.079124	,Anti-social behaviour
+,-1.820307	,51.080415	,Burglary
+,-1.81308	,51.077724	,Violence and sexual offences
+,-1.946204	,51.029897	,Vehicle crime
+-2.047756	,51.092673	,Anti-social behaviour
+-2.044318	,51.095345	,Anti-social behaviour
+-2.017141	,51.090101	,Anti-social behaviour
+,-1.987172	,51.084005	,Criminal damage and arson
+,-1.925294	,51.08596	,Criminal damage and arson
+,-1.920161	,51.082028	,Criminal damage and arson
+,-1.987172	,51.084005	,Vehicle crime
+-2.046929	,51.093204	,Violence and sexual offences
+,-1.94641	,51.135527	,Anti-social behaviour
+,-1.901883	,51.13183	,Other theft
+,-1.899002	,51.155261	,Vehicle crime
+,-1.899002	,51.155261	,Violence and sexual offences
+,-1.873095	,51.07606	,Anti-social behaviour
+,-1.864614	,51.076779	,Burglary
+,-1.865551	,51.078722	,Vehicle crime
+,-1.862047	,51.080921	,Anti-social behaviour
+,-1.862047	,51.080921	,Anti-social behaviour
+,-1.860292	,51.085379	,Drugs
+,-1.868837	,51.082755	,Other theft
+,-1.864017	,51.080978	,Other theft
+,-1.861074	,51.081577	,Other theft
+,-1.862047	,51.080921	,Public order
+,-1.858429	,51.082949	Theft from the person
+,-1.852023	,51.081737	,Vehicle crime
+,-1.848365	,51.078279	,Bicycle theft
+,-1.872047	,51.073263	,Burglary
+,-1.872473	,51.074045	,Criminal damage and arson
+,-1.846679	,51.07878	,Criminal damage and arson
+,-1.873148	,51.088209	,Criminal damage and arson
+,-1.875113	,51.074336	,Violence and sexual offences
+,-1.829681	,51.074	,Anti-social behaviour
+,-1.820399	,51.074984	,Other theft
+,-1.829681	,51.074	,Other theft
+,-1.824854	,51.074775	,Other theft
+,-1.822486	,51.074187	,Public order
+,-1.820399	,51.074984	,Shoplifting
+,-1.820399	,51.074984	,Shoplifting
+,-1.817049	,51.074062	,Anti-social behaviour
+,-1.818489	,51.074523	,Anti-social behaviour
+,-1.812716	,51.076051	,Burglary
+,-1.814768	,51.07333	,Criminal damage and arson
+,-1.817277	,51.070429	,Criminal damage and arson
+,-1.814768	,51.07333	,Criminal damage and arson
+,-1.812113	,51.07686	,Criminal damage and arson
+,-1.812113	,51.07686	,Criminal damage and arson
+,-1.818489	,51.074523	,Criminal damage and arson
+,-1.818489	,51.074523	,Drugs
+,-1.814768	,51.07333	,Drugs
+,-1.817792	,51.073847	,Other theft
+,-1.818489	,51.074523	,Possession of weapons
+,-1.812113	,51.07686	,Vehicle crime
+,-1.81487	,51.076468	,Violence and sexual offences
+,-1.81487	,51.076468	,Violence and sexual offences
+,-1.81487	,51.076468	,Violence and sexual offences
+,-1.805537	,51.072335	,Anti-social behaviour
+,-1.804399	,51.071389	,Anti-social behaviour
+,-1.810285	,51.073628	,Anti-social behaviour
+,-1.811131	,51.076228	,Anti-social behaviour
+,-1.810285	,51.073628	,Anti-social behaviour
+,-1.807375	,51.073111	,Anti-social behaviour
+,-1.804399	,51.071389	,Anti-social behaviour
+,-1.810285	,51.073628	,Anti-social behaviour
+,-1.809023	,51.075137	,Anti-social behaviour
+,-1.806608	,51.072157	,Criminal damage and arson
+,-1.805537	,51.072335	,Criminal damage and arson
+,-1.811745	,51.068964	,Criminal damage and arson
+,-1.809023	,51.075137	,Vehicle crime
+,-1.811131	,51.076228	,Vehicle crime
+,-1.80656	,51.070088	,Vehicle crime
+,-1.811131	,51.076228	,Violence and sexual offences
+,-1.80656	,51.070088	,Violence and sexual offences
+,-1.807471	,51.074046	,Violence and sexual offences
+,-1.806608	,51.072157	,Violence and sexual offences
+,-1.806608	,51.072157	,Violence and sexual offences
+,-1.804439	,51.072135	,Anti-social behaviour
+,-1.802976	,51.073733	,Anti-social behaviour
+,-1.800165	,51.077047	,Anti-social behaviour
+,-1.800664	,51.07381	,Bicycle theft
+,-1.800427	,51.072515	,Bicycle theft
+,-1.80414	,51.075372	,Criminal damage and arson
+,-1.80414	,51.075372	,Criminal damage and arson
+,-1.800165	,51.077047	,Other theft
+,-1.806496	,51.078676	,Other theft
+,-1.798531	,51.075164	,Other theft
+,-1.800165	,51.077047	,Other theft
+,-1.800165	,51.077047	,Other theft
+,-1.804683	,51.07174	,Public order
+,-1.800165	,51.077047	,Shoplifting
+,-1.804683	,51.07174	,Violence and sexual offences
+,-1.800165	,51.077047	,Violence and sexual offences
+,-1.793158	,51.070173	,Anti-social behaviour
+,-1.793771	,51.070354	,Anti-social behaviour
+,-1.795508	,51.071239	,Anti-social behaviour
+,-1.794115	,51.069941	,Anti-social behaviour
+,-1.79461	,51.07103	,Anti-social behaviour
+,-1.795454	,51.070465	,Anti-social behaviour
+,-1.791676	,51.069514	,Anti-social behaviour
+,-1.796486	,51.06964	,Anti-social behaviour
+,-1.794115	,51.069941	,Anti-social behaviour
+,-1.796486	,51.06964	,Anti-social behaviour
+,-1.789761	,51.073234	,Anti-social behaviour
+,-1.794115	,51.069941	,Anti-social behaviour
+,-1.796486	,51.06964	,Anti-social behaviour
+,-1.789761	,51.073234	,Anti-social behaviour
+,-1.797308	,51.070927	,Anti-social behaviour
+,-1.787864	,51.073149	,Anti-social behaviour
+,-1.794115	,51.069941	,Anti-social behaviour
+,-1.795454	,51.070465	,Anti-social behaviour
+,-1.796188	,51.072472	,Anti-social behaviour
+,-1.799513	,51.069159	,Anti-social behaviour
+,-1.786174	,51.074387	,Anti-social behaviour
+,-1.798941	,51.069626	,Anti-social behaviour
+,-1.796486	,51.06964	,Anti-social behaviour
+,-1.795299	,51.070069	,Anti-social behaviour
+,-1.794115	,51.069941	,Anti-social behaviour
+,-1.799412	,51.069555	,Anti-social behaviour
+,-1.796752	,51.070737	,Burglary
+,-1.799513	,51.069159	,Criminal damage and arson
+,-1.795508	,51.071239	,Criminal damage and arson
+,-1.797308	,51.070927	,Criminal damage and arson
+,-1.795299	,51.070069	,Other theft
+,-1.796486	,51.06964	,Other theft
+,-1.799513	,51.069159	,Public order
+,-1.796714	,51.07294	,Public order
+,-1.796752	,51.070737	,Public order
+,-1.796752	,51.070737	,Shoplifting
+,-1.798941	,51.069626	,Shoplifting
+,-1.798941	,51.069626	,Shoplifting
+,-1.796752	,51.070737	,Shoplifting
+,-1.796752	,51.070737	,Shoplifting
+,-1.796752	,51.070737	,Shoplifting
+,-1.796752	,51.070737	,Shoplifting
+,-1.796752	,51.070737	,Shoplifting
+,-1.796486	,51.06964	Theft from the person
+,-1.792783	,51.071018	,Vehicle crime
+,-1.796752	,51.070737	,Vehicle crime
+,-1.791676	,51.069514	,Violence and sexual offences
+,-1.786174	,51.074387	,Violence and sexual offences
+,-1.801436	,51.070116	,Violence and sexual offences
+,-1.789486	,51.071111	,Other crime
+,-1.789486	,51.071111	,Other crime
+,-1.786762	,51.070558	,Anti-social behaviour
+,-1.788079	,51.069643	,Anti-social behaviour
+,-1.786762	,51.070558	,Anti-social behaviour
+,-1.786098	,51.07222	,Anti-social behaviour
+,-1.784766	,51.076273	,Other theft
+,-1.790036	,51.075662	,Criminal damage and arson
+,-1.794663	,51.075086	,Criminal damage and arson
+,-1.794663	,51.075086	,Criminal damage and arson
+,-1.794663	,51.075086	,Criminal damage and arson
+,-1.794284	,51.073682	,Violence and sexual offences
+,-1.782185	,51.063508	,Anti-social behaviour
+,-1.782366	,51.064417	,Anti-social behaviour
+,-1.775851	,51.063137	,Anti-social behaviour
+,-1.783223	,51.067359	,Criminal damage and arson
+,-1.787928	,51.06833	,Criminal damage and arson
+,-1.787928	,51.06833	,Criminal damage and arson
+,-1.777255	,51.062042	,Other theft
+,-1.777255	,51.062042	,Other theft
+,-1.777255	,51.062042	,Other theft
+,-1.775851	,51.063137	,Shoplifting
+,-1.777255	,51.062042	,Shoplifting
+,-1.777255	,51.062042	,Vehicle crime
+,-1.787928	,51.06833	,Vehicle crime
+,-1.777255	,51.062042	,Vehicle crime
+,-1.785941	,51.066006	,Violence and sexual offences
+,-1.819917	,51.05949	,Anti-social behaviour
+,-1.793218	,51.034115	,Anti-social behaviour
+,-1.846964	,51.040123	,Burglary
+,-1.821472	,51.059591	,Burglary
+,-1.793005	,51.033998	,Burglary
+,-1.779899	,51.033974	,Burglary
+,-1.793005	,51.033998	,Burglary
+,-1.779899	,51.033974	,Other theft
+,-1.819917	,51.05949	,Violence and sexual offences
+,-1.863021	,51.055556	,Violence and sexual offences
+,-1.819917	,51.05949	,Violence and sexual offences
+,-1.786166	,51.045001	,Violence and sexual offences
+,-1.785174	,51.102324	,Anti-social behaviour
+,-1.786237	,51.104007	,Anti-social behaviour
+,-1.785821	,51.104366	,Anti-social behaviour
+,-1.785821	,51.104366	,Anti-social behaviour
+,-1.785174	,51.102324	,Anti-social behaviour
+,-1.785174	,51.102324	,Anti-social behaviour
+,-1.789177	,51.101279	,Anti-social behaviour
+,-1.785174	,51.102324	,Anti-social behaviour
+,-1.785821	,51.104366	,Anti-social behaviour
+,-1.759751	,51.058303	,Burglary
+,-1.760519	,51.058772	,Criminal damage and arson
+,-1.788938	,51.10055	,Criminal damage and arson
+,-1.785174	,51.102324	,Criminal damage and arson
+,-1.759751	,51.058303	,Drugs
+,-1.778583	,51.103651	,Drugs
+,-1.782929	,51.102778	,Drugs
+,-1.78389	,51.101863	,Vehicle crime
+,-1.785821	,51.104366	,Violence and sexual offences
+,-1.785821	,51.104366	,Violence and sexual offences
+,-1.768392	,51.062232	,Violence and sexual offences
+,-1.789874	,51.101991	,Violence and sexual offences
+,-1.760519	,51.058772	,Violence and sexual offences
+,-1.785174	,51.102324	,Violence and sexual offences
+,-1.785821	,51.104366	,Violence and sexual offences
+,-1.774437	,51.078025	,Anti-social behaviour
+,-1.776128	,51.07087	,Anti-social behaviour
+,-1.774301	,51.076694	,Anti-social behaviour
+,-1.770475	,51.082621	,Other theft
+,-1.773097	,51.080693	,Other theft
+,-1.773097	,51.080693	,Violence and sexual offences
+,-1.815762	,51.060167	,Anti-social behaviour
+,-1.815762	,51.060167	,Anti-social behaviour
+,-1.815762	,51.060167	,Anti-social behaviour
+,-1.813679	,51.060074	,Anti-social behaviour
+,-1.813679	,51.060074	,Anti-social behaviour
+,-1.81241	,51.059883	,Criminal damage and arson
+,-1.813679	,51.060074	,Public order
+,-1.811083	,51.059836	,Public order
+,-1.815762	,51.060167	,Public order
+,-1.815762	,51.060167	,Public order
+,-1.813372	,51.061872	,Shoplifting
+,-1.814482	,51.059194	,Violence and sexual offences
+,-1.814482	,51.059194	,Violence and sexual offences
+,-1.811515	,51.062408	,Anti-social behaviour
+,-1.803864	,51.05611	,Burglary
+,-1.807807	,51.061845	,Criminal damage and arson
+,-1.808613	,51.063644	,Other theft
+,-1.805587	,51.056967	,Other theft
+,-1.805478	,51.059305	,Vehicle crime
+,-1.817163	,51.063128	,Vehicle crime
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.790486	,51.067615	,Anti-social behaviour
+,-1.795446	,51.069053	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.795446	,51.069053	,Anti-social behaviour
+,-1.791299	,51.067661	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.790486	,51.067615	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.794576	,51.068962	,Anti-social behaviour
+,-1.803425	,51.068905	,Anti-social behaviour
+,-1.795266	,51.067884	,Anti-social behaviour
+,-1.794576	,51.068962	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.798374	,51.068717	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.795266	,51.067884	,Anti-social behaviour
+,-1.789539	,51.068674	,Anti-social behaviour
+,-1.796302	,51.069127	,Anti-social behaviour
+,-1.793603	,51.066442	,Anti-social behaviour
+,-1.790486	,51.067615	,Anti-social behaviour
+,-1.798374	,51.068717	,Anti-social behaviour
+,-1.801735	,51.070224	,Anti-social behaviour
+,-1.795612	,51.067174	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.791607	,51.06902	,Anti-social behaviour
+,-1.796814	,51.066358	,Anti-social behaviour
+,-1.794336	,51.068305	,Anti-social behaviour
+,-1.801735	,51.070224	,Anti-social behaviour
+,-1.793603	,51.066442	,Anti-social behaviour
+,-1.795446	,51.069053	,Anti-social behaviour
+,-1.795446	,51.069053	,Anti-social behaviour
+,-1.793603	,51.066442	,Burglary
+,-1.795612	,51.067174	,Burglary
+,-1.795692	,51.068388	,Criminal damage and arson
+,-1.795692	,51.068388	,Criminal damage and arson
+,-1.795266	,51.067884	,Drugs
+,-1.794336	,51.068305	,Drugs
+,-1.795612	,51.067174	,Drugs
+,-1.798374	,51.068717	,Other theft
+,-1.798374	,51.068717	,Other theft
+,-1.801735	,51.070224	,Other theft
+,-1.795446	,51.069053	,Other theft
+,-1.795446	,51.069053	,Other theft
+,-1.796302	,51.069127	,Other theft
+,-1.796302	,51.069127	,Public order
+,-1.794576	,51.068962	,Public order
+,-1.793333	,51.069265	,Public order
+,-1.796761	,51.068597	,Public order
+,-1.790398	,51.068235	,Public order
+,-1.796761	,51.068597	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.795692	,51.068388	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.797609	,51.067385	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.797609	,51.067385	,Shoplifting
+,-1.798374	,51.068717	,Shoplifting
+,-1.798374	,51.068717	,Shoplifting
+,-1.795266	,51.067884	,Shoplifting
+,-1.795692	,51.068388	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.793333	,51.069265	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.793333	,51.069265	,Shoplifting
+,-1.796761	,51.068597	,Shoplifting
+,-1.794576	,51.068962	,Shoplifting
+,-1.795525	,51.067489	,Shoplifting
+,-1.793333	,51.069265	,Shoplifting
+,-1.795525	,51.067489	,Shoplifting
+,-1.797609	,51.067385	,Shoplifting
+,-1.794576	,51.068962	Theft from the person
+,-1.796302	,51.069127	Theft from the person
+,-1.798374	,51.068717	,Violence and sexual offences
+,-1.795692	,51.068388	,Violence and sexual offences
+,-1.795692	,51.068388	,Violence and sexual offences
+,-1.795692	,51.068388	,Violence and sexual offences
+,-1.798374	,51.068717	,Violence and sexual offences
+,-1.795446	,51.069053	,Violence and sexual offences
+,-1.791383	,51.055513	,Anti-social behaviour
+,-1.791383	,51.055513	,Anti-social behaviour
+,-1.791383	,51.055513	,Anti-social behaviour
+,-1.791383	,51.055513	,Anti-social behaviour
+,-1.793511	,51.058142	,Burglary
+,-1.792618	,51.056729	,Burglary
+,-1.794434	,51.056031	,Other theft
+,-1.796174	,51.059388	,Anti-social behaviour
+,-1.787445	,51.055443	,Burglary
+,-1.789103	,51.054682	,Criminal damage and arson
+,-1.789103	,51.054682	,Criminal damage and arson
+,-1.797695	,51.054139	,Other theft
+,-1.787445	,51.055443	,Violence and sexual offences
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.79059	,51.066743	,Anti-social behaviour
+,-1.79059	,51.066743	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.79009	,51.066787	,Anti-social behaviour
+,-1.79009	,51.066787	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.792123	,51.06537	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.790813	,51.064792	,Anti-social behaviour
+,-1.787546	,51.064561	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.789941	,51.065033	,Anti-social behaviour
+,-1.789748	,51.066696	,Anti-social behaviour
+,-1.790813	,51.064792	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.791384	,51.06464	,Anti-social behaviour
+,-1.79009	,51.066787	,Anti-social behaviour
+,-1.792123	,51.06537	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.790813	,51.064792	,Anti-social behaviour
+,-1.792741	,51.064508	,Anti-social behaviour
+,-1.792683	,51.067736	,Anti-social behaviour
+,-1.79009	,51.066787	,Anti-social behaviour
+,-1.792706	,51.062781	,Anti-social behaviour
+,-1.796379	,51.061412	,Anti-social behaviour
+,-1.79059	,51.066743	,Anti-social behaviour
+,-1.791384	,51.06464	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.79009	,51.066787	,Anti-social behaviour
+,-1.791923	,51.068607	,Anti-social behaviour
+,-1.792741	,51.064508	,Anti-social behaviour
+,-1.789234	,51.066902	,Criminal damage and arson
+,-1.791923	,51.068607	,Drugs
+,-1.791923	,51.068607	,Drugs
+,-1.79009	,51.066787	,Drugs
+,-1.79009	,51.066787	,Drugs
+,-1.791923	,51.068607	,Other theft
+,-1.791923	,51.068607	,Violence and sexual offences
+,-1.792706	,51.062781	,Violence and sexual offences
+,-1.792038	,51.068499	,Violence and sexual offences
+,-1.791923	,51.068607	,Violence and sexual offences
+,-1.792038	,51.068499	,Violence and sexual offences
+,-1.791958	,51.064048	,Violence and sexual offences
+,-1.792123	,51.06537	,Violence and sexual offences
+,-1.792706	,51.062781	,Violence and sexual offences
+,-1.792706	,51.062781	,Violence and sexual offences
+,-1.792123	,51.06537	,Violence and sexual offences
+,-1.792741	,51.064508	,Violence and sexual offences
+,-1.792706	,51.062781	,Violence and sexual offences
+,-1.792706	,51.062781	,Other crime
+,-1.723538	,51.038818	,Anti-social behaviour
+,-1.732207	,51.041769	,Anti-social behaviour
+,-1.723538	,51.038818	,Anti-social behaviour
+,-1.729097	,51.039514	,Anti-social behaviour
+,-1.727674	,51.038962	,Burglary
+,-1.725951	,51.040865	,Burglary
+,-1.726361	,51.039004	,Other theft
+,-1.723538	,51.038818	,Other theft
+,-1.726361	,51.039004	,Violence and sexual offences
+,-1.722618	,51.037781	,Violence and sexual offences
+,-1.722618	,51.037781	,Violence and sexual offences
+,-1.721646	,51.040486	,Other theft
+,-1.70225	,51.037911	,Other theft
+,-1.678681	,51.051445	,Other theft
+,-1.631305	,51.009554	,Burglary
+,-1.664043	,51.002145	,Burglary
+,-1.666861	,51.00467	,Burglary
+,-1.611515	,51.006811	,Criminal damage and arson
+,-1.656819	,51.009587	,Violence and sexual offences
+,-1.698272	,51.079535	,Burglary
+,-1.67327	,51.090546	,Burglary
+,-1.671562	,51.089678	,Burglary
+,-1.687776	,51.063097	,Burglary
+,-1.702213	,51.099364	,Other theft
+,-1.67327	,51.090546	,Other theft
+,-1.647409	,51.090786	,Anti-social behaviour
+,-1.633653	,51.046313	,Criminal damage and arson
+,-1.647409	,51.090786	,Vehicle crime
+-2.110674	,51.01046	,Anti-social behaviour
+-2.122441	,51.018533	,Anti-social behaviour
+-2.170207	,51.000992	,Burglary
+-2.156653	,51.000795	,Burglary
+-2.138547	,51.002931	,Criminal damage and arson
+-2.170207	,51.000992	,Criminal damage and arson
+-2.054022	,51.004601	,Vehicle crime
+-2.118171	,51.015641	,Vehicle crime
+-2.08534	,51.061899	,Anti-social behaviour
+-2.084423	,51.060101	,Anti-social behaviour
+-2.084423	,51.060101	,Burglary
+-2.083216	,51.063114	,Other theft
+-2.141489	,51.051755	,Vehicle crime
+-2.086323	,51.061116	,Violence and sexual offences
+-2.080681	,51.066488	,Anti-social behaviour
+-2.081103	,51.062468	,Anti-social behaviour
+-2.080681	,51.066488	,Anti-social behaviour
+-2.083708	,51.066801	,Anti-social behaviour
+-2.080681	,51.066488	,Drugs
+-2.063541	,51.045331	,Vehicle crime
+,-1.627142	,50.975856	,Anti-social behaviour
+,-1.642936	,50.963145	,Anti-social behaviour
+,-1.631384	,50.985204	,Burglary
+,-1.614669	,50.977084	,Criminal damage and arson
+,-1.719735	,50.978884	,Anti-social behaviour
+,-1.702393	,50.97993	,Criminal damage and arson
+,-1.702514	,50.978833	,Drugs
+,-1.656291	,50.978805	,Violence and sexual offences
+,-1.702393	,50.97993	,Violence and sexual offences
+,-1.656291	,50.978805	,Violence and sexual offences
+,-1.74634	,50.987254	,Anti-social behaviour
+,-1.752585	,50.991719	,Anti-social behaviour
+,-1.752585	,50.991719	,Anti-social behaviour
+,-1.743653	,50.988903	,Anti-social behaviour
+,-1.74634	,50.987254	,Criminal damage and arson
+,-1.745535	,50.986101	,Vehicle crime
+,-1.74634	,50.987254	,Violence and sexual offences
+
