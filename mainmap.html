@@ -10,7 +10,7 @@
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "http://data.police.uk/api/crimes-at-location?date=2012-02&lat=52.629729&lng=-1.131592",
+        url: "http://data.police.uk/api/crimes-street/all-crime?lat=52.629729&lng=-1.131592&date=2013-01",
         dataType: "text",
         success: function(data) {processApi(data);}
      });
