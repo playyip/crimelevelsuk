@@ -9,17 +9,30 @@ background-color:#50f0df;
 }
 td {
 padding:3.2em;
-padding-bottom:2.7em;
+padding-bottom:2.4em;
 background:#309930;
 font-size:1.05em;
 }
 </style>
 </head>
 <body>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <center><table>
 <tr>
-<td><center>Please type in a county to display crimes in<p><input type="text"></input></td>
-</tr></table>
+<td>
+<center>
+<form>
+<div id="click">Please type in a county to display crimes in<p><input type="text" name="county"></input><p><div id="lax">
+<input type="submit" value="Submit" onclick="workc"></input></form>
+</div></div></td>
+</tr></table><p>
+
+<script src="jquery.js"></script>
+<script>
+function workc(){
+	document.body.innerHTML += "<p>hello</p>";
+});
+</script>
+
 </body>
 </html>
