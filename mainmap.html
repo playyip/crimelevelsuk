@@ -10,52 +10,42 @@
 $(document).ready(function() {
     $.ajax({
         type: "GET",
-        url: "\playyip\crimelevelsuk\fulldata.txt",
+        url: "http://data.police.uk/api/crimes-at-location?date=2012-02&lat=52.629729&lng=-1.131592",
         dataType: "text",
-        success: function(data) {processData(data);}
+        success: function(data) {processApi(data);}
      });
 });
-function processData(allText) {
-	var allTextLines = allText.split(/\r\n|\n/);
-    var headers = allTextLines[0].split(',');
-    var locations = [];
 
-    for (var i=1; i<allTextLines.length; i++) {
-        var data = allTextLines[i].split(',');
-        if (data.length == headers.length) {
-
-            var tarr = [];
-            for (var j=0; j<headers.length; j++) {
-                tarr.push(data[j]);
-            }
-            locations.push(tarr);
-        }
-    }
-		
-    var map = new google.maps.Map(document.getElementById('map'), {
+function processApi(allText) {
+var map = new google.maps.Map(document.getElementById('map'), {
       zoom: 10,
-      center: new google.maps.LatLng(locations[0][2], locations[0][1]),
+	  center: new google.maps.LatLng(52.64395048674031, -1.1430419093111825),
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
-
-    var infowindow = new google.maps.InfoWindow();
+    var jsonArray = JSON.parse( allText );
+	var infowindow = new google.maps.InfoWindow();
     var marker, i;
-    for (i = 0; i < locations.length; i++) {  
-      marker = new google.maps.Marker({
-        position: new google.maps.LatLng(locations[i][2], locations[i][1]),
+	for (var i=0; i<jsonArray.length; i++) {
+	 marker = new google.maps.Marker({
+        position: new google.maps.LatLng(jsonArray[i].location.latitude,jsonArray[i].location.longitude),
         map: map
       });
 
       google.maps.event.addListener(marker, 'click', (function(marker, i) {
         return function() {
-          infowindow.setContent(locations[i][3]);
+          infowindow.setContent(jsonArray[i].category);
           infowindow.open(map, marker);
         }
       })(marker, i));
+	//alert(jsonArray[i].location.latitude + " " + jsonArray[i].location.longitude)
     }
-	
-	
+
+ 
+    for (i = 0; i < jsonArray.length; i++) {  
+     
+    }
 }
+
 </script>
   
   <script src="http://maps.google.com/maps/api/js?sensor=false" 
