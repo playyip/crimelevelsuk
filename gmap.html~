@@ -26,14 +26,14 @@ var long3 = long - 1
 var lat4 = lat + 1
 var long4 = long - 1
 
-lat1 = lat1.toString()
-long1 = long1.toString()
-lat2 = lat2.toString()
-long2 = long2.toString()
-lat3 = lat3.toString()
-long3 = long3.toString()
-lat4 = lat4.toString()
-long4 = long4.toString()
+lat1.toString()
+long1.toString()
+lat2.toString()
+long2.toString()
+lat3.toString()
+long3.toString()
+lat4.toString()
+long4.toString()
 
 
 $(document).ready(function() {

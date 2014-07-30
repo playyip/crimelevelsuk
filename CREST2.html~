@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+		
+<head>
+<title>CREST</title>
+<style>
+body{background-color:#0033cc;color:#ffff66;font-family:"Comic Sans";}
+ul{list-style-type:circle;}
+div {
+    width:5px;
+    height: 200px;
+    position: relative;
+    -webkit-animation: mymove 8s infinite; /*Safari and Chrome*/
+    -webkit-animation-direction: alternate; /* Safari and Chrome */
+    animation: mymove 8s infinite;
+    animation-direction: alternate;
+}
+div h1{font-size:3em;}
+@-webkit-keyframes mymove {
+    0%   {left:0%;}
+    100% {left:80%;}
+}
+@keyframes mymove {
+    0%   {left:0%;}
+    100% {left:80%;}
+}
+img{size:20%;}
+</style>
+</head>
+<body>
+<div><h1><img src="logo2.png"><h1></div>
+<center><h1>Brainstorming and choosing our project </h1></center>			
+<ol>
+				<li> We brainstormed the ideas on the whiteboard and my idea was to have a Monopoly game that used open data to randomly create the houses, places and board. </li>
+				<li> The Monopoly idea was quite good but it would be quite hard to get the data so we thought better of it. </li>
+				<li> Max's Idea was was to have a crime thing where it showed on google maps where crimes were, and what they were, in the area that you typed in or, if you enabled it, your area would be found by our website asking your router. </li>
+				<li> I chose to do max's idea with him and oliver. We are going to call it CrimeSpi and now I will explain our aims and objectives.</li>
+			</ol>
+			<center>
+			<h1> Planning our project </h1>
+			</center>
+			<ol><h2>HTML</h2>
+				<li> Our aim is to create a wep app that finds all of the crimes in your local area that have happened in the month of your choice. We will use open data by inserting into the API URL: the latitude, the longitude and the date. </li>
+				<li> Our project will help people by showing them the crimes in a specific geographic area, and this will help them know how safe this area is and what the different crimes are. This will mean the public are better informed and it enables them to take more responsibility for themselves and belongings. </li>
+				<li> There are a number of different approuches to creating this:</li>
+					<ul>
+						<li> Make an app using javascript and C++ </li>
+						<li> Make a piece of hardware so that when people press a phisical button, the info is displayed on a seven-digit display (sliding across the screen so it fits.) </li>
+						<li> Make a graphical interface for this (as a program) </li>
+						<li> Make a web app using a combination of HTML, CSS and JavaScript </li>
+					</ul>
+			</ol>
+			<center>
+				<h3> We chose this last approach as we think this is the most user freindly way of accessing infomation. </h3>
+				<p> This approach also uses the existing skills we have as a team, but also the chance to develop further experience and skills with the help of our mentors. </p>
+			
+				<h1> Project strategy </h1>
+
+			</center>
+			<p> Our strategy for the project is to break it down into four areas: </p>
+			<ul>
+				<li> Research: </li>
+					<ol>
+						<li> Google maps </li>
+						<li> Mixture </li>
+						<li> Bootstrap </li>
+						<li> Checking there is no other simular projects </li>
+					</ol>
+				<li> Coding: </li>
+					<ol>
+						<li> HTML </li>
+						<li> Java </li>
+						<li> CSS </li>
+					</ol>
+				<li> Timing/planning </li>
+					<ol>
+						<li> Decide who will do what </li>
+						<li> Decide how long each part should take </li>
+						<li> Work out what point we should be at, at the end of each day, In order to complete the project on time </li>
+					</ol>
+				<li> Presentation </li>
+					<ol>
+						<li> What hardware will we need for this </li>
+						<li> Are we ready? </li> 
+						<li> What will we include and demonstrate </li>
+						<li> Check timing of presentation </li>
+						<li> What is the script </li>
+						<li> Who will do each bit </li>
+					</ol>
+			</ul>
+				
+			<center>	
+				<h1> Planning and Orginization </h1>
+				<p> As a group we decided what each of our strengths are, And divided the workload between us. I will list these below and use our initials to show who is doing what </p> 
+			</center>
+
+			<ol>
+				<li> Monday: </li>
+					<ul>
+						<li> Find zombie icons and look into using google maps and how to put down markers (WH) (with help from mentors)</li>
+						<li> Look at API (MO)  </li>
+						<li> See how to put multiple markers on google maps (O) </li>
+					</ul>
+				<li> Tuesday: </li>
+					<ul>
+						<li> Carry on with zombies and looking at how to get them to be markers and reasearch mixture (WH) (with help) </li>
+						<li> Carried on with the API and intergrate it into the website(MO) (with help) </li>
+						<li> Write a few functions (O) </li>
+					</ul>
+				<li> Wednesday: </li>
+					<ul>
+						<li> Finish plotting zombies, write a function that finds if the crime is the default zombie or a specific zombie(WH) </li>
+						<li> Finish and put together the total JS (MO) (with help) </li>
+						<li>  add olivers task/s(O) </li>
+					</ul>
+				<li> Thursday </li>
+					<ul>
+						<li> More coding and start debbuging and check the app </li>
+					</ul>
+				<li> Friday </li>
+					<ul>
+						<li> Start putting together presentation </li>
+						<li> Check webb app runs and will work </li>
+						<li> Fix glitches and refine </li>
+					</ul>
+			</ol>
+
+
+		</body>
+	</html>

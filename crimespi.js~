@@ -19,3 +19,4 @@ function newGmarker(position, titles){
         title: titles
     })
 }
+
