@@ -7,11 +7,29 @@ function getLocation() {
 }
 
 function showPosition(position) {
-  getCrimes(position.coords.latitude, position.coords.longitude, "2014-05");
+    var myDate = getParameterByName('date');
+    if (!myDate) {
+        myDate = "2014-01";
+    }
+    var dateDiv = document.getElementById('theDate');
+    dateDiv.innerHTML = 'The date = ' + myDate;
+    getCrimes(position.coords.latitude, position.coords.longitude, myDate);
 }
 
-function processApi(allText, lat, lng) {
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
 
+function getDateFromQuery(date) {
+    
+    
+} 
+
+function processApi(allText, lat, lng) {
+  
   var show_image = true;
   var images = makeImages();
   var crimes = crimeCounter();
@@ -22,6 +40,7 @@ function processApi(allText, lat, lng) {
     mapTypeId: google.maps.MapTypeId.ROADMAP
   });
 
+  
   map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('legend'));
 
   var legend = document.getElementById('legend');
@@ -31,7 +50,6 @@ function processApi(allText, lat, lng) {
           if (crimes[crimeName] != null) {
               counter++;
               crimes[crimeName] = crimes[crimeName] += 1;
-              alert(crimes['burglary']);
           }
           var icon = images[crimeName];
           var div = document.createElement('div');
