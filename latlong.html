@@ -4,8 +4,9 @@
 <title>Your Lat & Long</title>
 <style>body{padding:2em;}</style>
 </head>
+<center></center>
 <body>
-<button onclick="getLocation()">Click for Co-ordinates</button>
+<button onclick="getLocation()">Click me!</button>
 <p id="demo"></p>
 <script>
 var x = document.getElementById("demo");
@@ -14,7 +15,7 @@ function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else { 
-        x.innerHTML = "Geolocation is not supported by this browser.";
+        x.innerHTML = "GPS Is not available with your browser :( Please download Google Chrome here at https://www.google.com/intl/en_uk/chrome/browser/.";
     }
 }
 
@@ -25,5 +26,6 @@ function showPosition(position) {
 </script>
 
 </body>
+</center>
 </html>
 

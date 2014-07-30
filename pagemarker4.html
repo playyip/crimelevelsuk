@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple markers</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+      #legend {
+        background: white;
+        padding: 10px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="crimespi3.js"></script>
+
+  </head>
+  <body onload="newMap()">
+    <div id="map-canvas"></div>
+    <div id="legend">Crimes</div>
+  </body>
+</html>
