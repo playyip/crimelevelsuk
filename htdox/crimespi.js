@@ -1,12 +1,13 @@
 var crimes = {};
 var colours = ['#00FF00','#00FFFF','#008000','#B22222','#0000CD','#FF4500','#6B8E23','#000080','#00FF7F','#4682B4','#FF6347','#800000','#008080','#32CD32','#008080']
-
 var colourPos = 0;
+
 function getNextColour() {
     var myColour = colours[colourPos];
     colourPos ++;
     return myColour;
 }
+
 function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
@@ -17,12 +18,41 @@ function getLocation() {
 
 function showPosition(position) {
     var myDate = getParameterByName('date');
+    var myPostcode = getParameterByName('postcode');
+   
     if (!myDate) {
         myDate = "2014-01";
     }
+   
     var dateDiv = document.getElementById('theDate');
     dateDiv.innerHTML = 'The date = ' + myDate;
-    getCrimes(position.coords.latitude, position.coords.longitude, myDate);
+    var postcodeDiv = document.getElementById('thePostcode');
+        
+     if (!myPostcode) {
+        postcodeDiv.innerHTML = 'The postcode = You have not put in a post code';
+        getCrimes(position.coords.latitude, position.coords.longitude, myDate);
+    }
+     else {
+         postcodeDiv.innerHTML = 'The postcode = ' + myPostcode;
+         lookUpPostcode(myPostcode, myDate);
+     }   
+}
+
+function lookUpPostcode(postcode, myDate) {
+    var myUrl = "http://maps.googleapis.com/maps/api/geocode/json?address=" + postcode;
+    $.ajax({
+      type: "GET",
+      url: myUrl,
+      dataType: "text",
+      success: function(data) {processPostcode(data, myDate);}
+  });
+}
+
+function processPostcode(data, myDate) {    
+    var jsonArray = JSON.parse(data);
+    var myLat = jsonArray.results[0].geometry.location.lat;
+    var myLng = jsonArray.results[0].geometry.location.lng;
+    getCrimes(myLat, myLng, myDate);
 }
 
 function getParameterByName(name) {
@@ -31,11 +61,6 @@ function getParameterByName(name) {
         results = regex.exec(location.search);
     return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
-
-function getDateFromQuery(date) {
-    
-    
-} 
 
 function processApi(allText, lat, lng) {
 
@@ -105,6 +130,7 @@ function addCrime(crimeName) {
         crimes[crimeName] = 1;
     }
 }
+
 function makeImages(){
   var images = {};
   images["all-crime"] = 'images/Zombie_1.png';
@@ -127,6 +153,7 @@ function makeImages(){
   images["vehicle-crime"] = 'images/Zombie_7.png';
   return images;
 }
+
 function pieChart() {
     var slices = [];
     Object.keys(crimes).forEach(function (key) {
