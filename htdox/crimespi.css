@@ -8,16 +8,16 @@ html, body, #map {
     height: 600px;
 }
 #legend {
-	background: #000099;
+	background: #FFFAFA;
 	padding: 10px;
-    color: white;
+    color: black;
 }
 #myChart, #map {
     display: inline-block;
     float: left;
 }
 body{ 
-    background-color: #000099;
+    background-color: #FFFAFA;
 }
 #theDate {
     color: #fff;1
