@@ -1,3 +1,15 @@
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else { 
+        x.innerHTML = "GPS Is not available with your browser :( Please download Google Chrome here at https://www.google.com/intl/en_uk/chrome/browser/.";
+    }
+}
+
+function showPosition(position) {
+  getCrimes(position.coords.latitude, position.coords.longitude, "2014-05");
+}
+
 function processApi(allText, lat, lng) {
 
   var show_image = true;
@@ -26,9 +38,7 @@ function processApi(allText, lat, lng) {
   var marker, i;
   for (var i=0; i<jsonArray.length; i++) {
 
-
-    
-    marker = new google.maps.Marker({
+   marker = new google.maps.Marker({
       position: new google.maps.LatLng(jsonArray[i].location.latitude,jsonArray[i].location.longitude),
       map: map,
       title: jsonArray[i].category,
@@ -45,7 +55,8 @@ function processApi(allText, lat, lng) {
 }
 
 function makePage() {
-  getCrimes("52.629729", "-1.131592", "2014-05");
+  // getCrimes("52.629729", "-1.131592", "2014-05");
+  getLocation();
 }
 
 function getCrimes(lat, lng, date) {
