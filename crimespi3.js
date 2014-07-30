@@ -20,7 +20,7 @@ function newGmarker(position, titles){
     })
 }
 
-function newMap() {
+function newMap(allText) {
     var images = {};
     images["all-crime"] = 'images/Zombie_1.png';
     images["burglary"] = 'images/Zombie_2.png';
@@ -32,11 +32,21 @@ function newMap() {
      
     var show_image = true;
     
-    var coords = [
-          [-25.363882,131.044922,"all-crime"],
-          [51.5072,0.1275,"burglary"],
-          [6.1324,-4.1453,"murder"]
-    ];
+	var allTextLines = allText.split(/\r\n|\n/);
+    var headers = allTextLines[0].split(',');
+    var coords = [];
+
+    for (var i=1; i<allTextLines.length; i++) {
+        var data = allTextLines[i].split(',');
+        if (data.length == headers.length) {
+
+            var tarr = [];
+            for (var j=0; j<headers.length; j++) {
+                tarr.push(data[j]);
+            }
+            coords.push(tarr);
+        }
+    }
 
     var mid = new google.maps.LatLng(coords[0][0],coords[0][1]);
 
