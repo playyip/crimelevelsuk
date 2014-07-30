@@ -16,4 +16,6 @@ html, body, #map {
     display: inline-block;
     float: left;
 }
-body{ background-color: #000099;}
+body{ 
+    background-color: #000099;
+}
