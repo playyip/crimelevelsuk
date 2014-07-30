@@ -1,9 +1,21 @@
-html, body, #map-canvas {
+html, body, #map {
 	height: 100%;
 	margin: 0px;
-	padding: 0px
+	padding: 0px;
+}
+#map {
+    width: 800px;
+    height: 600px;
 }
 #legend {
-	background: white;
+	background: #000099;
 	padding: 10px;
+    color: white;
+}
+#myChart, #map {
+    display: inline-block;
+    float: left;
+}
+body{ 
+    background-color: #000099;
 }

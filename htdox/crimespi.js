@@ -14,7 +14,7 @@ function processApi(allText, lat, lng) {
 
   var show_image = true;
   var images = makeImages();
-
+  var crimes = crimeCounter();
   
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
@@ -26,13 +26,19 @@ function processApi(allText, lat, lng) {
 
   var legend = document.getElementById('legend');
 
-    Object.keys(images).forEach(function(crimeName){
-      var icon = images[crimeName];
-      var div = document.createElement('div');
-      div.innerHTML = '<img src="' + icon + '"> ' + crimeName;
-      legend.appendChild(div);
-    })
-
+      var counter = 0;
+      Object.keys(images).forEach(function (crimeName) {
+          if (crimes[crimeName] != null) {
+              counter++;
+              crimes[crimeName] = crimes[crimeName] += 1;
+              alert(crimes['burglary']);
+          }
+          var icon = images[crimeName];
+          var div = document.createElement('div');
+          div.innerHTML = '<img src="' + icon + '"> ' + crimeName;
+          legend.appendChild(div);
+      })
+    
   var jsonArray = JSON.parse( allText );
   var infowindow = new google.maps.InfoWindow();
   var marker, i;
@@ -57,6 +63,7 @@ function processApi(allText, lat, lng) {
 function makePage() {
   // getCrimes("52.629729", "-1.131592", "2014-05");
   getLocation();
+  pieChart();
 }
 
 function getCrimes(lat, lng, date) {
@@ -67,6 +74,12 @@ function getCrimes(lat, lng, date) {
       success: function(data) {processApi(data, lat, lng);}
   });
 }
+
+function crimeCounter(){
+    var counter = {};
+    counter["burglary"] = 0;
+    return counter;
+};
 
 function makeImages(){
   var images = {};
@@ -89,4 +102,33 @@ function makeImages(){
   images["kidnapping"] = 'images/Zombie_7.png';
   images["vehicle-crime"] = 'images/Zombie_7.png';
   return images;
+}
+function pieChart() {
+    var datah = [
+        {
+            value: 10,
+            color:"#F7464A",
+            highlight: "#FF5A5E",
+            label: "Shoplifting"
+        },
+        {
+            value: 30,
+            color: "#46BFBD",
+            highlight: "#5AD3D1",
+            label: "Bike Theft"
+        },
+        {
+            value: 20,
+            color: "#FDB45C",
+            highlight: "#FFC870",
+            label: "Anti-Social Behaviour Order"
+        }
+    ]
+
+
+    // Get context with jQuery - using jQuery's .get() method.
+    var ctx = $("#myChart").get(0).getContext("2d");
+    // This will get the first returned node in the jQuery collection.
+    //var myNewChart = new Chart(ctx);
+    var myDoughnutChart = new Chart(ctx).Doughnut(datah);
 }
