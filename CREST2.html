@@ -15,116 +15,151 @@ div {
     animation: mymove 8s infinite;
     animation-direction: alternate;
 }
-div h1{font-size:3em;}
 @-webkit-keyframes mymove {
     0%   {left:0%;}
-    100% {left:81%;}
+    100% {left:320px;}
 }
 @keyframes mymove {
-    0%   {left:0%;}
-    100% {left:81%;}
+    0%   {left:0%; top:0px;}
+    16.6% {left:320px; top:0px;}
+    33.3% {left:320px; top:435px;}
+	50% {left:82%; top:435px;}
+	70% {left:82%; top:0px;}
+	100% {left:0px; top:0px;}
 }
 img{size:20%;}
+ol, h1, h2, img, fieldset, a, ul, li, p, h3{display:none;}
+button{
+	position:relative;
+	-webkit-animation: mov 3s 1;
+	animation: mov 3s 1;
+}
+
+fieldset a { color:#fff; font-size:1.1em;}
+
+fieldset{width:300px;}
 </style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("ol").fadeIn(3000);
+    $("ul").fadeIn(3000);
+    $("li").fadeIn(3000);
+    $("h1").fadeIn(3000);
+    $("h2").fadeIn(3000);
+    $("img").fadeIn(3000);
+    $("p").fadeIn(3000);
+    $("h3").fadeIn(3000);
+    $("fieldset").fadeIn(3000);
+    $("a").fadeIn(3000);
+});
+</script>
 </head>
 <body>
-<div><h1><img src="logo2.png"><h1></div>
-<center><h1>Brainstorming and choosing our project </h1></center>			
-<ol>
-				<li> We brainstormed the ideas on the whiteboard and my idea was to have a Monopoly game that used open data to randomly create the houses, places and board. </li>
-				<li> The Monopoly idea was quite good but it would be quite hard to get the data so we thought better of it. </li>
-				<li> Max's Idea was was to have a crime thing where it showed on google maps where crimes were, and what they were, in the area that you typed in or, if you enabled it, your area would be found by our website asking your router. </li>
-				<li> I chose to do max's idea with him and oliver. We are going to call it CrimeSpi and now I will explain our aims and objectives.</li>
-			</ol>
+<div><h1><img src="logo.png"><h1></div><fieldset><legend><i>Contents</i></legend>1.0 <a href="#one">Brainstorming and choosing...</a><p>2.0 <a href="#two">Planning our Project</a><br>&nbsp;&nbsp;&nbsp;&nbsp;2.1 <a href="#twopointone">HTML</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.11 <a href="#twopointoneone">We chose this last...</a><p>3.0
+ <a href="#three">Project strategy</a><br>&nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="#threepointone">Research</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;3.2 <a href="#threepointtwo">Coding</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;3.3 <a href="#threepointthree">Timing/Planning</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;3.4 <a href="#threepointfour">Presentation</a><p>
+4 <a href="#four">Planning and organization</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;4.1 <a href="#threepointtwo">Monday</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;4.2 <a href="#threepointfour">Tuesday</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;4.3 <a href="#threepointthree">Wednesday</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;4.4 <a href="#threepointfour">Thursday</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;4.5 <a href="#threepointfour">Friday</a></fieldset>
 			<center>
-			<h1> Planning our project </h1>
-			</center>
-			<ol><h2>HTML</h2>
+			<c id="chapter"><center><a id="one"><h1>Brainstorming and choosing our project </h1></a></center> <ol><li> We brainstormed the ideas on the whiteboard and my idea was to have a Monopoly game that used open data to randomly create the houses, places and board. </li><li> The Monopoly idea was quite good but it would be quite hard to get the data so we thought better of it. </li><li> Max's Idea was was to have a crime thing where it showed on google maps where crimes were, and what they were, in the area that you typed in or, if you enabled it, your area would be found by our website asking your router. </li><li> I chose to do max's idea with him and oliver. We are going to call it CrimeSpi and now I will explain our aims and objectives.</li></ol></c>
+			<a id="two"><h1>Planning our project</h1></a>
+			<ol><a id="twopointone"><h2>HTML</h2></a></center>
 				<li> Our aim is to create a wep app that finds all of the crimes in your local area that have happened in the month of your choice. We will use open data by inserting into the API URL: the latitude, the longitude and the date. </li>
 				<li> Our project will help people by showing them the crimes in a specific geographic area, and this will help them know how safe this area is and what the different crimes are. This will mean the public are better informed and it enables them to take more responsibility for themselves and belongings. </li>
 				<li> There are a number of different approuches to creating this:</li>
-					<ul>
+					<ol>
 						<li> Make an app using javascript and C++ </li>
 						<li> Make a piece of hardware so that when people press a phisical button, the info is displayed on a seven-digit display (sliding across the screen so it fits.) </li>
 						<li> Make a graphical interface for this (as a program) </li>
-						<li> Make a web app using a combination of HTML, CSS and JavaScript </li>
-					</ul>
+						<li> Make a web app using a combination of HTML, CSS and JavaScript, </li>
+					</ol>
+<p>and we took the option to: Make a web app using a combination of HTML, CSS and JavaScript.</p>
 			</ol>
 			<center>
-				<h3> We chose this last approach as we think this is the most user freindly way of accessing infomation. </h3>
+				<a id="twopointoneone"><h3>We chose this last approach as we think this is the most user freindly way of accessing infomation. </h3></a>
 				<p> This approach also uses the existing skills we have as a team, but also the chance to develop further experience and skills with the help of our mentors. </p>
 			
-				<h1> Project strategy </h1>
+				<a id="three"><h1> Project strategy </h1></a>
 
 			</center>
-			<p> Our strategy for the project is to break it down into four areas: </p>
+			<p>Our strategy for the project is to break it down into four areas: </p>
 			<ul>
-				<li> Research: </li>
+				<a id="threepointone"><li> Research </li></a>
 					<ol>
 						<li> Google maps </li>
 						<li> Mixture </li>
 						<li> Bootstrap </li>
 						<li> Checking there is no other simular projects </li>
 					</ol>
-				<li> Coding: </li>
+				<a id="threepointtwo"><li> Coding </li></a>
 					<ol>
 						<li> HTML </li>
 						<li> Java </li>
 						<li> CSS </li>
 					</ol>
-				<li> Timing/planning </li>
+				<a id="threepointthree"><li> Timing/planning </li></a>
 					<ol>
 						<li> Decide who will do what </li>
 						<li> Decide how long each part should take </li>
 						<li> Work out what point we should be at, at the end of each day, In order to complete the project on time </li>
 					</ol>
-				<li> Presentation </li>
+				<a id="threepointfour"><li> Presentation </li></a>
 					<ol>
-						<li> What hardware will we need for this </li>
+						<li> What hardware will we need for this? </li>
 						<li> Are we ready? </li> 
 						<li> What will we include and demonstrate </li>
 						<li> Check timing of presentation </li>
-						<li> What is the script </li>
 						<li> Who will do each bit </li>
 					</ol>
 			</ul>
 				
 			<center>	
-				<h1> Planning and Orginization </h1>
+				<a id="four"><h1> Planning and Orginization </h1></a>
 				<p> As a group we decided what each of our strengths are, And divided the workload between us. I will list these below and use our initials to show who is doing what </p> 
 			</center>
 
 			<ol>
-				<li> Monday: </li>
+				<a id="fourpointone"><li> Monday: </li></a>
 					<ul>
 						<li> Find zombie icons and look into using google maps and how to put down markers (WH) (with help from mentors)</li>
 						<li> Look at API (MO)  </li>
 						<li> See how to put multiple markers on google maps (O) </li>
 					</ul>
-				<li> Tuesday: </li>
+				<a id="fourpointtwo"><li> Tuesday: </li></a>
 					<ul>
 						<li> Carry on with zombies and looking at how to get them to be markers and reasearch mixture (WH) (with help) </li>
 						<li> Carried on with the API and intergrate it into the website(MO) (with help) </li>
 						<li> Write a few functions (O) </li>
 					</ul>
-				<li> Wednesday: </li>
+				<a id="fourpointthree"><li> Wednesday: </li></a>
 					<ul>
 						<li> Finish plotting zombies, write a function that finds if the crime is the default zombie or a specific zombie(WH) </li>
 						<li> Finish and put together the total JS (MO) (with help) </li>
 						<li>  add olivers task/s(O) </li>
 					</ul>
-				<li> Thursday </li>
+				<a id="fourpointfour"><li> Thursday </li></a>
 					<ul>
 						<li> More coding and start debbuging and check the app </li>
 					</ul>
-				<li> Friday </li>
+				<a id="fourpointfive"><li> Friday </li></a>
 					<ul>
 						<li> Start putting together presentation </li>
 						<li> Check webb app runs and will work </li>
 						<li> Fix glitches and refine </li>
 					</ul>
 			</ol>
-
-
+<script>
+function next(){
+	$( "#chapter" ).html( "")
+})
+</script>
 		</body>
 	</html>
