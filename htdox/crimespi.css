@@ -2,24 +2,31 @@ html, body, #map {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-    color: #000;
+    	font-family: Myriad Pro; src: url('MYRIADPRO-REGULAR.OTF');
+    	color: #000;
 }
 #map {
-    width: 800px;
     height: 600px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
 }
 #legend {
 	background: #FFFAFA;
 	padding: 10px;
     color: black;
+    font-family: Myriad Pro; src: url('MYRIADPRO-REGULAR.OTF');
 }
 #myChart, #map {
     display: inline-block;
-    float: left;
 }
 body{ 
     background-color: #FFFAFA;
 }
 #theDate {
-    color: #000;
+    color: black;2
 }
+
