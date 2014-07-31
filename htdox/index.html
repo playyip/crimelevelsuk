@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<body>
-<h1>CrimeSpi Live Map</h1> 
-</body>
 <head> 
   
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -20,21 +17,27 @@
 </head> 
 
 <body onload="makePage()">
-    <div id="theDate"> The date =</div>
-    <div id="thePostcode"> The postcode =</div>
-    <div id="map">Map</div>
-    <div id="legend">Crimes</div>
-    <canvas id="myChart" width="400" height="400"></canvas>
-    
-    <form name="input" method="get">
-          Date: <input type="text" name="date">
-        Postcode: <input type="text" name="postcode"> 
-        <input type="submit" value="Submit">
-          
+    <div id="divContainer">
 
-    </form>
-    
+        <div id="pageTitle">CrimeSpi Live Map</div>
+        
+        <div id="leftSide">
+            <div id="myForm">
+                <span id="theDate">Date:</span>
+                <span id="thePostcode">Area:</span>
+                <form name="input" method="get">
+                    Date: <input type="text" name="date">
+                    &nbsp;Postcode: <input type="text" name="postcode"> 
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+            <canvas id="myChart" width="400" height="400"></canvas>
+        </div>
+        <div id="map">Map</div>
+        <div id="legend">Crimes</div>
 
-</body>
-    
+
+     
+    </div>
+</body>    
 </html>

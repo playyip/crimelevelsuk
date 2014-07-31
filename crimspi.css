@@ -1,0 +1,12 @@
+html, body, #map-canvas {
+	height: 100%;
+	margin: 0px;
+	padding: 0px
+}
+#legend {
+	background: white;
+	padding: 10px;
+}
+#theDate {
+    color: #fff;
+}

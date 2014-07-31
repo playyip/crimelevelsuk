@@ -3,6 +3,7 @@ var colours = ['#00FF00','#00FFFF','#008000','#B22222','#0000CD','#FF4500','#6B8
 var colourPos = 0;
 
 function getNextColour() {
+    if (colourPos >= Object.keys(colours).length) colourPos = 0;
     var myColour = colours[colourPos];
     colourPos ++;
     return myColour;
@@ -25,15 +26,15 @@ function showPosition(position) {
     }
    
     var dateDiv = document.getElementById('theDate');
-    dateDiv.innerHTML = 'The date = ' + myDate;
+    dateDiv.innerHTML = 'Date: ' + myDate;
     var postcodeDiv = document.getElementById('thePostcode');
         
      if (!myPostcode) {
-        postcodeDiv.innerHTML = 'The postcode = You have not put in a post code';
+        postcodeDiv.innerHTML = 'Area: You have not put in a post code';
         getCrimes(position.coords.latitude, position.coords.longitude, myDate);
     }
      else {
-         postcodeDiv.innerHTML = 'The postcode = ' + myPostcode;
+         postcodeDiv.innerHTML = 'Area: ' + myPostcode;
          lookUpPostcode(myPostcode, myDate);
      }   
 }
@@ -160,9 +161,16 @@ function pieChart() {
         var slice = [];
         slice['value'] = crimes[key];
         slice['color'] = getNextColour();
+        slice['highlight'] = getNextColour();
         slice['label'] = key;
         slices.push(slice);
     })
+    var options = {
+        percentageInnerCutout : 35,
+        animateScale : true,
+        //legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<slices.length; i++){%><li><span style=\"background-color:<%=slices[i].fillColor%>\"></span><%if(slices[i].label){%><%=slices[i].label%><%}%></li><%}%></ul>"
+        legendTemplate: "<ul><li>will</li></ul>"
+    };
     var ctx = $("#myChart").get(0).getContext("2d");
-    var myDoughnutChart = new Chart(ctx).Doughnut(slices);
+    var myDoughnutChart = new Chart(ctx).Doughnut(slices, options);
 }
