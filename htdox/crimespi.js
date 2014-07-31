@@ -30,7 +30,7 @@ function showPosition(position) {
     var postcodeDiv = document.getElementById('thePostcode');
         
      if (!myPostcode) {
-        postcodeDiv.innerHTML = 'Area: You have not put in a post code';
+        postcodeDiv.innerHTML = 'Location: Specify a street, Postcode or Placename';
         getCrimes(position.coords.latitude, position.coords.longitude, myDate);
     }
      else {
