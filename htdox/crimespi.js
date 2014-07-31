@@ -26,15 +26,15 @@ function showPosition(position) {
     }
    
     var dateDiv = document.getElementById('theDate');
-    dateDiv.innerHTML = 'The date = ' + myDate;
+    dateDiv.innerHTML = 'Date: ' + myDate;
     var postcodeDiv = document.getElementById('thePostcode');
         
      if (!myPostcode) {
-        postcodeDiv.innerHTML = 'The postcode = You have not put in a post code';
+        postcodeDiv.innerHTML = 'Area: You have not put in a post code';
         getCrimes(position.coords.latitude, position.coords.longitude, myDate);
     }
      else {
-         postcodeDiv.innerHTML = 'The postcode = ' + myPostcode;
+         postcodeDiv.innerHTML = 'Area: ' + myPostcode;
          lookUpPostcode(myPostcode, myDate);
      }   
 }
