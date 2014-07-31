@@ -2,8 +2,8 @@ html, body, #map {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-    	font-family: Myriad Pro; src: url('MYRIADPRO-REGULAR.OTF');
-    	color: #000;
+    font-family: Myriad Pro; src: url('MYRIADPRO-REGULAR.OTF');
+    color: #000;
 }
 #map {
     height: 600px;
