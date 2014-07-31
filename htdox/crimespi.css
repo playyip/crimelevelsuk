@@ -2,6 +2,7 @@ html, body, #map {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
+    color: #000;
 }
 #map {
     width: 800px;

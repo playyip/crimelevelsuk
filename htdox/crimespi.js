@@ -3,6 +3,7 @@ var colours = ['#00FF00','#00FFFF','#008000','#B22222','#0000CD','#FF4500','#6B8
 var colourPos = 0;
 
 function getNextColour() {
+    if (colourPos >= Object.keys(colours).length) colourPos = 0;
     var myColour = colours[colourPos];
     colourPos ++;
     return myColour;
@@ -160,9 +161,16 @@ function pieChart() {
         var slice = [];
         slice['value'] = crimes[key];
         slice['color'] = getNextColour();
+        slice['highlight'] = getNextColour();
         slice['label'] = key;
         slices.push(slice);
     })
+    var options = {
+        percentageInnerCutout : 35,
+        animateScale : true,
+        //legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<slices.length; i++){%><li><span style=\"background-color:<%=slices[i].fillColor%>\"></span><%if(slices[i].label){%><%=slices[i].label%><%}%></li><%}%></ul>"
+        legendTemplate: "<ul><li>will</li></ul>"
+    };
     var ctx = $("#myChart").get(0).getContext("2d");
-    var myDoughnutChart = new Chart(ctx).Doughnut(slices);
+    var myDoughnutChart = new Chart(ctx).Doughnut(slices, options);
 }
