@@ -22,7 +22,7 @@ function showPosition(position) {
     var myPostcode = getParameterByName('postcode');
    
     if (!myDate) {
-        myDate = "2014-01";
+        myDate = "2014-05";
     }
    
     var dateDiv = document.getElementById('theDate');
